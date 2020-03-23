@@ -86,8 +86,6 @@ by blank lines.
 Title
 *****
 
-H1
-====
 
 H2
 ########
