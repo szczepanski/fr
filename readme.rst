@@ -83,8 +83,10 @@ by blank lines.
 
 
 *****
-H1 - title
+Title
 *****
+H1
+=====
 
 H2
 ########
