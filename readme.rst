@@ -24,13 +24,12 @@ External hyperlinks, like Python_.
 what
   Definition lists associate a term with
   a definition.
-
-.. code:: python
+  
 number-lines : [1]
+.. code:: python
   def my_function():
       "just a test"
       print('8/2')
-:: lets check new line
 
 
 
