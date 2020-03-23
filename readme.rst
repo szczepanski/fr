@@ -13,10 +13,19 @@ from scratch
 ----
 
 
-reStructuredText - testing
+reStructuredText - testing [h1 / title]
 ================================
-
-
+*****
+H2
+*****
+H3
+########
+H4
+**********************
+H4B
+**********************
+H3B
+########
 
 
 External hyperlinks, like Python_.
@@ -80,25 +89,3 @@ edges, and are normally separated
 by blank lines. 
 
 
-
-H1
-========
-*****
-H2 (Title)
-*****
-H3
-########
-H4
-**********************
-H4B
-**********************
-H3B
-########
-
-
-test
-====
-
-
-.. note::  This is a **note** box.
-.. index::
