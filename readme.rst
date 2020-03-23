@@ -1,6 +1,4 @@
-french
-===================
-
+**french**
 from scratch
 
 
@@ -10,7 +8,7 @@ from scratch
 
 
 
-____
+----
 
 
 reStructuredText - testing
