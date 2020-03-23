@@ -1,4 +1,5 @@
 **french**
+----
 
 from scratch
 
@@ -73,3 +74,15 @@ Paragraphs line up at their left
 edges, and are normally separated
 by blank lines. 
 
+
+
+
+*****
+Title
+*****
+
+subtitle
+########
+
+subsubtitle
+**********************
