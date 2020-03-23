@@ -9,8 +9,9 @@
    :depth: 10
    
 
+----
 
-reStructuredText - testing [h1 / title]
+reStructuredText - testing [H1 / title]
 ================================
 *****
 H2
