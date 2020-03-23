@@ -31,8 +31,6 @@ External hyperlinks, like Python_.
 
 
 .. code:: html
-    :linenos:
-
     <h1>code block example</h1>
 
 
