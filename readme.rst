@@ -1,6 +1,9 @@
 french
 ===================
+
 from scratch
+
+
 
 .. contents:: Table of Contents
    :depth: 2
