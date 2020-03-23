@@ -90,3 +90,4 @@ test
 
 
 .. note::  This is a **note** box.
+.. index::
