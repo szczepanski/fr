@@ -1,10 +1,10 @@
 **french**
 ----
-
+|
 *...from scratch*
 
-
-.. depth describes headings level inclusion
+|
+.. comment --> depth describes headings level inclusion
 .. contents:: contents
    :depth: 10
    
