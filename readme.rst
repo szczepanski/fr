@@ -15,6 +15,14 @@
 |
 |
 
+Beginner A1
+============
++------------+------------+
+| male | female  |
++------------+------------+
+men use 👨 "enchanté" 
+women use 👩 "enchantée"
+
 reStructuredText - testing [H1 / title]
 ================================
 *****
