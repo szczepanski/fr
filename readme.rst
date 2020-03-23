@@ -19,12 +19,16 @@ External hyperlinks, like Python_.
 
 .. _Python: http://www.python.org/ 
 
+
+.. code:: python
+
+  def my_function():
+      "just a test"
+      print 8/2
+      
 what
   Definition lists associate a term with
   a definition.
   
   
-.. code:: python
-  def my_function():
-      "just a test"
-      print('8/2')
+
