@@ -29,7 +29,8 @@ External hyperlinks, like Python_.
       "just a test"
       print 8/2
 
-.. code-block:: html
+
+.. code:: html
     :linenos:
 
     <h1>code block example</h1>
