@@ -1,6 +1,6 @@
 **french**
 -----------
-from scratch
+*...from scratch*
 
 
 .. depth describes headings level inclusion
