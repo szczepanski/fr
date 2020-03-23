@@ -18,8 +18,17 @@
 Beginner A1
 ============
 +------------+------------+
-| male | female  |
+| male | female           |
 +------------+------------+
+=====  =====  ======
+   Inputs     Output
+------------  ------
+  A      B    A or B
+=====  =====  ======
+False  False  False
+True   False  True
+=====  =====  ======
+
 men use 👨 "enchanté" 
 women use 👩 "enchantée"
 
