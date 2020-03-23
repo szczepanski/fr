@@ -12,9 +12,6 @@ from scratch
 reStructuredText - testing
 ================================
 
-:: 
-lets check
-new line
 
 
 
