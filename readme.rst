@@ -3,9 +3,10 @@
 from scratch
 
 
-
+.. depth describes headings level inclusion
 .. contents:: contents
-   :depth: 3
+   :depth: 10
+   
 
 
 
@@ -90,6 +91,12 @@ H2
 
 H3
 **********************
+H4
+**********************
+H5
+**********************
+
+
 test
 ====
 
