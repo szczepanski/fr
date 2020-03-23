@@ -25,7 +25,6 @@ what
   Definition lists associate a term with
   a definition.
   
-number-lines : [1]
 .. code:: python
   def my_function():
       "just a test"
