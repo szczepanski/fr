@@ -20,14 +20,15 @@ Beginner A1
 +------------+------------+
 | male | female           |
 +------------+------------+
-=====  =====  ======
-   Inputs     Output
+
+=====    ======
+   male     female
 ------------  ------
-  A      B    A or B
-=====  =====  ======
-False  False  False
-True   False  True
-=====  =====  ======
+  A      B    
+=====    ======
+False  False  
+True   False  
+=====  =====  
 
 men use 👨 "enchanté" 
 women use 👩 "enchantée"
