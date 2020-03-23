@@ -8,7 +8,7 @@ from scratch
 .. contents:: contents
    :depth: 2
 
-
+----
 reStructuredText - testing
 ================================
 
@@ -30,6 +30,7 @@ what
   Definition lists associate a term with
   a definition.
 
+----
 Grid table:
 
 +------------+------------+-----------+
