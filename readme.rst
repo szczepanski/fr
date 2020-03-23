@@ -11,6 +11,7 @@ from scratch
 
 reStructuredText - testing
 ================================
+
 :: 
 lets check
 new line
@@ -25,15 +26,8 @@ what
   Definition lists associate a term with
   a definition.
   
+  
 .. code:: python
   def my_function():
       "just a test"
       print('8/2')
-
-
-
-
-kaskksks
-
- .. DANGER::
-   Beware killer rabbits!
