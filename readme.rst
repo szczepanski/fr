@@ -5,7 +5,7 @@ from scratch
 
 
 .. contents:: contents
-   :depth: 2
+   :depth: 3
 
 
 
