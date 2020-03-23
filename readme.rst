@@ -1,5 +1,7 @@
-french from scratch
+french
 ===================
+from scratch
+____________
 
 External hyperlinks, like Python_.
 
