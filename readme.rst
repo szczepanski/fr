@@ -5,7 +5,7 @@ from scratch
 
 
 
-.. contents:: Table of Contents
+.. contents::
    :depth: 2
 
 
