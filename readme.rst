@@ -12,7 +12,10 @@ from scratch
 reStructuredText - testing
 ================================
 :: 
-let check \n new line
+lets check
+new line
+
+
 
 External hyperlinks, like Python_.
 
@@ -27,6 +30,7 @@ what
   def my_function():
       "just a test"
       print('8/2')
-      
+
+
  .. DANGER::
    Beware killer rabbits!
