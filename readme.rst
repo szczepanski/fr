@@ -26,11 +26,16 @@ what
   a definition.
 
 .. code:: python
-
+number-lines : [1]
   def my_function():
       "just a test"
       print('8/2')
+:: lets check new line
 
+
+
+
+kaskksks
 
  .. DANGER::
    Beware killer rabbits!
