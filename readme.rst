@@ -1,11 +1,13 @@
+french
+===================
+from scratch
+
 .. contents:: Table of Contents
    :depth: 2
 
 
-french
-===================
-from scratch
-____________
+reStructuredText - testing
+================================
 
 External hyperlinks, like Python_.
 
