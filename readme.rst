@@ -1,6 +1,5 @@
 **french**
------
-
+-----------
 from scratch
 
 
@@ -88,3 +87,6 @@ H3
 **********************
 test
 ====
+
+
+.. note::  This is a **note** box.
