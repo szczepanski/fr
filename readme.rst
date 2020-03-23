@@ -1,5 +1,5 @@
-french
-******
+**french**
+-----
 
 from scratch
 
@@ -78,11 +78,11 @@ by blank lines.
 
 
 *****
-Title
+H1 - title
 *****
 
-subtitle
+H2
 ########
 
-subsubtitle
+H3
 **********************
