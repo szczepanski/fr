@@ -17,23 +17,15 @@
 
 Beginner A1
 ============
+|
+enchanté --> when used by:
+
 +------------+------------+
 | male       | female     |
 +------------+------------+
 | enchanté   | enchantée  |
 +------------+------------+
 
-=====    ======
-   male     female
--------  ------
-  A      B    
-=====    ======
-False  False  
-True   False  
-=====  =====  
-
-men use 👨 "enchanté" 
-women use 👩 "enchantée"
 
 reStructuredText - testing [H1 / title]
 ================================
