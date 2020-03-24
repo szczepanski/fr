@@ -71,12 +71,17 @@ beginner a1
 
 **vocab**
 
-enchanté / enchantée(m/f)
+enchanté / enchantée (said by m/f)
    nice to meet you 
 oui / ouais (fm/ifm)
    yes
+mouais, ok
+   yeah, ok (not keen)
+tu peux me tutoyer
+   you can address me with tu
+   
 
-NEXT LESSON 6
+NEXT LESSON 7
 
 
 |
