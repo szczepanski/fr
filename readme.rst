@@ -27,17 +27,21 @@ enchanté --> when used by:
 +------------+------------+
 
 +------------+------------+-----------+
-|            | formal     | informal  |
+| singular                            |
 +------------+------------+-----------+
-| you        | Cells may  | - Cells   |
+|            | formal     | informal  |  
++------------+------------+-----------+
+| i          | je         |           |
++------------+------------+-----------+
+| you        | vous       |           |
++------------+------------+-----------+
+| he         | il         |           |
++------------+------------+-----------+
+| she        | elle       |           |
 +------------+------------+-----------+
 
 
-| he  | Cells may span columns.|
-+------------+------------+-----------+
-+------------+ span rows. | - contain |
-| he |            | - blocks. |
-+------------+------------+-----------+
+
 There is another way to say “nous” that is more common in spoken language: “on“. Like "nous", "on" also means "we" but is less formal. 
 
 |
