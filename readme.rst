@@ -162,6 +162,7 @@ automated csv table
 
 .. csv-table:: CSV
    :header: "Treat", "Quantity", "Description"
+   :header: "Treat2", "2Quantity", "2Description"
    :align: center
    :widths: auto
    
