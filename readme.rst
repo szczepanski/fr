@@ -26,9 +26,8 @@ enchanté --> when used by:
 | enchanté   | enchantée  |
 +------------+------------+
 
-**subject pronouns** 
 
-.. list-table:: list
+.. list-table:: subject pronouns
    :widths: auto
    :header-rows: 2
    :align: right
@@ -47,11 +46,15 @@ enchanté --> when used by:
      - nous
    * - you
      - 
-     - 
+     - you
      -
    * - he
      - 
+     - they
      - 
+   * - she
+     - 
+     - they
      - 
 
 +-----------------------------+
