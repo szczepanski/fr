@@ -34,17 +34,17 @@ enchanté --> when used by:
 
    * - singular
      - plural
-   * - en |  formal / informal
-     - en |  formal / informal
-   * - i |  je
-     - we |  nous / on
-   * - you |  vous / tu
-     - you |  vous 
-   * - he |. il
-     - they(m) | ils
-   * - she |. elle
-     - they(f) | elles
-   * - one | on
+   * - en   formal / informal
+     - en   formal / informal
+   * - i    je
+     - we   nous / on
+   * - you  vous / tu
+     - you  vous 
+   * - he   il
+     - they(m)   ils
+   * - she   elle
+     - they(f)   elles
+   * - one    on
      - 
 
 +-----------------------------+
