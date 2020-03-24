@@ -140,11 +140,13 @@ True   True   True
 =====  =====  ======
   
 ``inline code``
+
 standard table example
+
 
 .. table:: Truth table for "not"
    :widths: auto
-   :align : center
+   :align: center
    =====  =====
      A    not A
    =====  =====
@@ -154,9 +156,8 @@ standard table example
    
 
 .. csv-table:: CSV Table sample!
-   : 
    :header: "Treat", "Quantity", "Description"
-   :align : center
+   :align: center
    :widths: auto
    
    "Albatross", 2.99, "On a stick!"
