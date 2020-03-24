@@ -26,6 +26,27 @@ enchanté --> when used by:
 | enchanté   | enchantée  |
 +------------+------------+
 
++------------+------------+-----------+
+|            | formal     | informal  |
++------------+------------+-----------+
+| i  | Cells may span columns.|
++------------+------------+-----------+
+| you | Cells may  | - Cells   |
++------------+------------+-----------+
+| i  | Cells may span columns.|
++------------+------------+-----------+
++------------+ span rows. | - contain |
+| he |            | - blocks. |
++------------+------------+-----------+
+There is another way to say “nous” that is more common in spoken language: “on“. Like "nous", "on" also means "we" but is less formal. 
+
+|
+|
+|
+|
+|
+|
+|
 
 reStructuredText - testing [H1 / title]
 ================================
