@@ -26,6 +26,7 @@ enchanté --> when used by:
 | enchanté   | enchantée  |
 +------------+------------+
 
+ **subject pronouns / zaimki**
 
 .. list-table:: pronoms sujets [subject pronouns / zaimki]
    :widths: auto
@@ -47,8 +48,20 @@ enchanté --> when used by:
    * - one / on
      - 
 
+|
 
+**ou vs u**
+- ou
+vous, tout, roue
+   - *tongue in centre of mouth (not touching any other part)*
+   - mouth rounded, lips pushed forward (blowing out candle)
+   - mouth almost closed
 
+- u 
+vue, tu, rue
+   - *tongue is at the front touching the bottom front teeth*
+   - mouth rounded, lips pushed forward (blowing out candle)
+   - mouth almost closed
 
 
 There is another way to say “nous” that is more common in spoken language: “on“. Like "nous", "on" also means "we" but is less formal. 
