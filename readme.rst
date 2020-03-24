@@ -110,7 +110,7 @@ what
   a definition.
 
 
-Grid table:
+manual grid table:
 
 +------------+------------+-----------+
 | Header 1   | Header 2   | Header 3  |
@@ -126,7 +126,7 @@ Grid table:
 
 
 
-Simple table:
+manual simple table:
 
 =====  =====  ======
    Inputs     Output
@@ -155,6 +155,7 @@ standard table example
    True   False
    =====  =====
    
+automated csv table
 
 .. csv-table:: CSV Table sample!
    :header: "Treat", "Quantity", "Description"
@@ -167,6 +168,7 @@ standard table example
    "Gannet Ripple", 1.99, "On a stick!"
    
    
+automated list table
    
 .. list-table:: list table sample!
    :widths: auto
