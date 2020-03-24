@@ -169,13 +169,11 @@ standard table example
    
 .. list-table:: list table sample!
    :widths: auto
-   :header-rows: 2
+   :header-rows: 1
 
    * - Treat
      - Quantity
      - Description
-   * - a
-     - b
    * - Albatross
      - 2.99
      - On a stick!
