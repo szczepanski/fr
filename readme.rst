@@ -149,13 +149,15 @@ automated table example
 .. table:: auto widths
    :widths: auto
    :align: center
+   
    =====  =====
      A    not A
    =====  =====
    False  True
    True   False
    =====  =====
-   
+
+
 automated csv table
 
 .. csv-table:: CSV
