@@ -110,7 +110,7 @@ what
   a definition.
 
 
-manual grid table:
+manual grid table
 
 +------------+------------+-----------+
 | Header 1   | Header 2   | Header 3  |
@@ -126,7 +126,8 @@ manual grid table:
 
 
 
-manual simple table:
+manual simple table
+
 
 =====  =====  ======
    Inputs     Output
@@ -142,7 +143,7 @@ True   True   True
 ``inline code``
 
 
-standard table example
+automated table example
 
 
 .. table:: Truth table for "not"
@@ -159,7 +160,7 @@ automated csv table
 
 .. csv-table:: CSV Table sample!
    :header: "Treat", "Quantity", "Description"
-   :align: "center"
+   :align: center
    :widths: auto
    
    "Albatross", 2.99, "On a stick!"
