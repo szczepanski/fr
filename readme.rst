@@ -27,7 +27,7 @@ enchanté --> when used by:
 +------------+------------+
 
 
-.. list-table:: subject pronouns  pronoms sujets [zaimki]
+.. list-table:: pronoms sujets [subject pronouns / zaimki]
    :widths: auto
    :header-rows: 2
    :align: right
@@ -44,7 +44,7 @@ enchanté --> when used by:
      - they(m) / ils
    * - she / elle
      - they(f) / elles
-   * - one    on
+   * - one / on
      - 
 
 
