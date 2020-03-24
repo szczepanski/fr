@@ -15,17 +15,21 @@
 |
 |
 
-Beginner A1
+abbreviations
+==============
+f
+   female
+m 
+   male
+fm
+   formal
+ifm
+   informal
+| 
+|
+beginner a1
 ============
 |
-enchanté --> when used by:
-
-+------------+------------+
-| male       | female     |
-+------------+------------+
-| enchanté   | enchantée  |
-+------------+------------+
-
 
 **subject pronouns / zaimki**
 
@@ -63,9 +67,16 @@ enchanté --> when used by:
    - *tongue is at the front touching the bottom front teeth*
    - mouth rounded, lips pushed forward (blowing out candle)
    - mouth almost closed
+|
 
+**vocab**
 
-NEXT LESSON 5
+enchanté / enchantée(m/f)
+   nice to meet you 
+oui / ouais (fm/ifm)
+   yes
+
+NEXT LESSON 6
 
 
 |
