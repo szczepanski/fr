@@ -168,7 +168,7 @@ standard table example
    
    
 .. list-table:: list table sample!
-   :widths: "auto" "auto" "auto"
+   :widths: auto
    :header-rows: 2
 
    * - Treat
