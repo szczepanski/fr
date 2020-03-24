@@ -146,7 +146,7 @@ True   True   True
 automated table example
 
 
-.. table:: Truth table for "not"
+.. table:: auto widths
    :widths: auto
    :align: center
    =====  =====
@@ -158,7 +158,7 @@ automated table example
    
 automated csv table
 
-.. csv-table:: CSV Table sample!
+.. csv-table:: CSV
    :header: "Treat", "Quantity", "Description"
    :align: center
    :widths: auto
@@ -171,7 +171,7 @@ automated csv table
    
 automated list table
    
-.. list-table:: list table sample!
+.. list-table:: list
    :widths: auto
    :header-rows: 2
 
