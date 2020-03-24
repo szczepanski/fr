@@ -176,6 +176,7 @@ standard table example
      - Description
    * - a
      - b
+     - c
    * - Albatross
      - 2.99
      - On a stick!
