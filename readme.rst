@@ -34,44 +34,20 @@ enchanté --> when used by:
 
    * - singular
      - plural
-   * - en   formal / informal
-     - en   formal / informal
-   * - i    je
-     - we   nous / on
-   * - you  vous / tu
-     - you  vous 
-   * - he   il
-     - they(m)   ils
-   * - she   elle
-     - they(f)   elles
+   * - en / formal / informal
+     - en / formal / informal
+   * - i / je
+     - we / nous / on
+   * - you / vous / tu
+     - you / vous 
+   * - he / il
+     - they(m) / ils
+   * - she / elle
+     - they(f) / elles
    * - one    on
      - 
 
-+-----------------------------+
-| singular                    |
-+-----------------------------+
-|            | formal/informal| 
-+------------+----------------+
-| i          | je             |           
-+------------+----------------+
-| you        | vous/tu        |           
-+------------+----------------+
-| he         | il             |           
-+------------+----------------+
-| she        | elle           |           
-+------------+----------------+
 
-+-----------------------------+
-| plural                      |
-+-----------------------------+
-|            | formal/informal| 
-+------------+----------------+
-| we         | nous/on        |           
-+------------+----------------+
-| you        | vous           |           
-+------------+----------------+
-| they       | ils, elles     |           
-+------------+----------------+
 
 
 
