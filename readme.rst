@@ -33,28 +33,18 @@ enchanté --> when used by:
    :align: right
 
    * - singular
-     - 
      - plural
-     - 
-   * - 
-     - formal / informal
-     - 
-     - formal / informal
-   * - i
-     - je
-     - we
-     - nous
+   * - en => formal / informal
+     - en => formal / informal
+   * - i => je
+     - we => nous
    * - you
-     - 
      - you
-     -
    * - he
-     - 
      - they
-     - 
    * - she
-     - 
      - they
+   * - one
      - 
 
 +-----------------------------+
