@@ -144,7 +144,7 @@ True   True   True
 
 .. csv-table:: CSV Table sample!
    :header: "Treat", "Quantity", "Description"
-   :widths: "auto" "auto" "auto"
+   :widths: "auto"
    
    "Albatross", 2.99, "On a stick!"
    "Crunchy Frog", 1.49, "If we took the bones out, it wouldn't be
