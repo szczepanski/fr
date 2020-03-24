@@ -51,6 +51,7 @@ enchanté --> when used by:
 |
 
 **ou vs u**
+
 - ou
 vous, tout, roue
    - *tongue in centre of mouth (not touching any other part)*
