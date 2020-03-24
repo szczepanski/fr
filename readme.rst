@@ -26,9 +26,11 @@ enchanté --> when used by:
 | enchanté   | enchantée  |
 +------------+------------+
 
- **subject pronouns / zaimki**
 
-.. list-table:: pronoms sujets [subject pronouns / zaimki]
+**subject pronouns / zaimki**
+
+
+.. list-table:: pronoms sujets
    :widths: auto
    :header-rows: 2
    :align: right
