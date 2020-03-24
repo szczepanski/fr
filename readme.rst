@@ -28,6 +28,14 @@ enchanté --> when used by:
 
 **subject pronouns** 
 
+.. csv-table:: pronouns!
+   :header: "Treat", "Quantity", "Description"
+   :widths: 15, 10, 30
+   "Albatross", 2.99, "On a stick!"
+   "Crunchy Frog", 1.49, "If we took the bones out, it wouldn't be
+   crunchy, now would it?"
+   "Gannet Ripple", 1.99, "On a stick!"
+
 +-----------------------------+
 | singular                    |
 +-----------------------------+
@@ -134,10 +142,9 @@ True   True   True
 ``inline code``
 
 
-.. csv-table:: theCSV Table!
+.. csv-table:: CSV Table sample!
    :header: "Treat", "Quantity", "Description"
    :widths: 15, 10, 30
-
    "Albatross", 2.99, "On a stick!"
    "Crunchy Frog", 1.49, "If we took the bones out, it wouldn't be
    crunchy, now would it?"
@@ -145,13 +152,15 @@ True   True   True
    
    
    
-.. list-table:: The list table!
+.. list-table:: list table sample!
    :widths: 15 10 30
-   :header-rows: 1
+   :header-rows: 2
 
    * - Treat
      - Quantity
      - Description
+   * - a
+     - b
    * - Albatross
      - 2.99
      - On a stick!
