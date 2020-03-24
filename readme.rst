@@ -141,6 +141,7 @@ True   True   True
   
 ``inline code``
 
+
 standard table example
 
 
@@ -157,7 +158,7 @@ standard table example
 
 .. csv-table:: CSV Table sample!
    :header: "Treat", "Quantity", "Description"
-   :align: center
+   :align: "center"
    :widths: auto
    
    "Albatross", 2.99, "On a stick!"
