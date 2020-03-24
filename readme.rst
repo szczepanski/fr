@@ -27,7 +27,7 @@ enchanté --> when used by:
 +------------+------------+
 
 
-.. list-table:: subject pronouns
+.. list-table:: subject pronouns  pronoms sujets [zaimki]
    :widths: auto
    :header-rows: 2
    :align: right
