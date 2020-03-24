@@ -140,10 +140,23 @@ True   True   True
 =====  =====  ======
   
 ``inline code``
+standard table example
 
+.. table:: Truth table for "not"
+   :widths: auto
+   :align : center
+   =====  =====
+     A    not A
+   =====  =====
+   False  True
+   True   False
+   =====  =====
+   
 
 .. csv-table:: CSV Table sample!
+   : 
    :header: "Treat", "Quantity", "Description"
+   :align : center
    :widths: auto
    
    "Albatross", 2.99, "On a stick!"
