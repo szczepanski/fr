@@ -37,22 +37,21 @@ enchanté --> when used by:
      - 
      - plural
      - 
-   * - a
-     - b
-     - c
+   * - 
+     - formal / informal
+     - 
+     - formal / informal
+   * - i
+     - je
+     - we
+     - nous
+   * - you
+     - 
+     - 
      -
-   * - Albatross
-     - 2.99
-     - On a stick!
-     -
-   * - Crunchy Frog
-     - 1.49
-     - If we took the bones out, it wouldn't be
-       crunchy, now would it?
-     -
-   * - Gannet Ripple
-     - 1.99
-     - On a stick!
+   * - he
+     - 
+     - 
      - 
 
 +-----------------------------+
@@ -193,9 +192,9 @@ automated csv table
 automated list table
    
 .. list-table:: list
+   :align: right
    :widths: auto
    :header-rows: 2
-   :align: right
 
    * - Treat
      - Quantity
