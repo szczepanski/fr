@@ -143,7 +143,9 @@ True   True   True
    crunchy, now would it?"
    "Gannet Ripple", 1.99, "On a stick!"
    
-   .. list-table:: The list table!
+   
+   
+.. list-table:: The list table!
    :widths: 15 10 30
    :header-rows: 1
 
