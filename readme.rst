@@ -162,7 +162,6 @@ automated csv table
 
 .. csv-table:: CSV
    :header: "Treat", "Quantity", "Description"
-   :header: "Treat2", "2Quantity", "2Description"
    :align: center
    :widths: auto
    
@@ -177,6 +176,7 @@ automated list table
 .. list-table:: list
    :widths: auto
    :header-rows: 2
+   :align: right
 
    * - Treat
      - Quantity
