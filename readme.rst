@@ -23,7 +23,7 @@ m
    male
 fm
    formal
-ifm
+infm
    informal
 | 
 |
@@ -113,18 +113,18 @@ verbs
    :header-rows: 1
    :align: right
 
-   * - singular (en/fr)
-     - plural (en/fr)
-   * - i am / je suis
-     - we are / nous sommes
-   * - you are / tu es
-     - you are/ vous êtes
-   * - he is / il est
-     - they are (m) / ils sont
-   * - she is / elle est
-     - they are(f) / elles sont
+   * - singular (fr(en))
+     - plural (fr(en))
+   * - je suis (i am)
+     - nous sommes (we are)
+   * - tu es (you are)
+     - vous êtes (you are)
+   * - il est (he is)
+     - ils sont (they are(m))
+   * - elle est (she is)
+     - elles sont (they are(f))
    * - 
-     - they are(ifm) / on est
+     - on est (they are(infm))
  
 ****
 vocabulary
