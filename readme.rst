@@ -108,25 +108,23 @@ pronunciation
 verbs
 ****
 
-.. list-table:: avoir/être - to be
+.. list-table:: avoir/être - to be (present)
    :widths: auto
-   :header-rows: 2
+   :header-rows: 1
    :align: right
 
-   * - singular
-     - plural
-   * - en / formal / informal
-     - en / formal / informal
-   * - i / je
-     - we / nous / on
-   * - you / vous / tu
-     - you / vous 
-   * - he / il
-     - they(m) / ils
-   * - she / elle
-     - they(f) / elles
-   * - one / on
-     - 
+   * - singular (en/fr)
+     - plural (en/fr)
+   * - i am / je suis
+     - we are / nous sommes
+   * - you are / tu es
+     - you are/ vous êtes
+   * - he is / il est
+     - they are (m) / ils sont
+   * - she is / elle est
+     - they are(f) / elles sont
+   * - 
+     - they are(ifm) / on est
  
 ****
 vocabulary
@@ -150,7 +148,7 @@ en forme / en forme (m/f)
    in good form, shape 
    
 
-NEXT LESSON 8
+**NEXT LESSON 9**
 
 
 |
