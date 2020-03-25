@@ -100,7 +100,10 @@ adjectives
 |
 |
 |
-**vocab**
+
+****
+vocabulary
+****
 
 enchanté / enchantée (said by m/f)
    nice to meet you 
