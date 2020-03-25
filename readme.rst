@@ -103,7 +103,31 @@ pronunciation
 |
 |
 |
-   
+
+****
+verbs
+****
+
+.. list-table:: avoir/être - to be
+   :widths: auto
+   :header-rows: 2
+   :align: right
+
+   * - singular
+     - plural
+   * - en / formal / informal
+     - en / formal / informal
+   * - i / je
+     - we / nous / on
+   * - you / vous / tu
+     - you / vous 
+   * - he / il
+     - they(m) / ils
+   * - she / elle
+     - they(f) / elles
+   * - one / on
+     - 
+ 
 ****
 vocabulary
 ****
