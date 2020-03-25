@@ -77,6 +77,7 @@ pronunciation
 ****
 adjectives
 ****
+
 **female vs male**
 
 - feminine form - usually add an "-e" at the end
@@ -86,7 +87,9 @@ adjectives
 ``Il est content. Elle est contente.``
 
 ``Il est fatigué. Elle est fatiguée.``
+
 - some  already have an "-e" ending
+
    - don't add anything for the feminine form 
    - pronunciation remains same 
    
