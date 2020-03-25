@@ -67,8 +67,18 @@ beginner a1
    - *tongue is at the front touching the bottom front teeth*
    - mouth rounded, lips pushed forward (blowing out candle)
    - mouth almost closed
-|
+**adjectives - female and male forms**
+- feminine form - usually add an "-e" at the end
+- changes  pronunciation if  masculine form of the adjective ends with a consonant
+- doesn't change  pronunciation if the masculine form of the adjective ends with a vowel
+``Il est content. Elle est contente``
+``
+Il est fatigué. Elle est fatiguée.
+``
 
+|
+|
+|
 **vocab**
 
 enchanté / enchantée (said by m/f)
@@ -76,12 +86,20 @@ enchanté / enchantée (said by m/f)
 oui / ouais (fm/ifm)
    yes
 mouais, ok
-   yeah, ok (not keen)
+   yeah, ok (not keen, ifm)
 tu peux me tutoyer
    you can address me with tu
+stressé / stressée (m/f)
+   stressed
+inquiet / inquiète (m/f)
+   worried
+triste / triste (m/f)
+   sad
+en forme / en forme (m/f)
+   in good form, shape 
    
 
-NEXT LESSON 7
+NEXT LESSON 8
 
 
 |
