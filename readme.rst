@@ -67,14 +67,16 @@ beginner a1
    - *tongue is at the front touching the bottom front teeth*
    - mouth rounded, lips pushed forward (blowing out candle)
    - mouth almost closed
+   
 **adjectives - female and male forms**
+
 - feminine form - usually add an "-e" at the end
 - changes  pronunciation if  masculine form of the adjective ends with a consonant
 - doesn't change  pronunciation if the masculine form of the adjective ends with a vowel
-``Il est content. Elle est contente``
-``
-Il est fatigué. Elle est fatiguée.
-``
+
+``Il est content. Elle est contente.``
+
+``Il est fatigué. Elle est fatiguée.``
 
 |
 |
