@@ -31,7 +31,9 @@ beginner a1
 ============
 |
 
-**subject pronouns / zaimki**
+****
+subject pronouns / zaimki
+****
 
 
 .. list-table:: pronoms sujets
