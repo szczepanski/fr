@@ -93,8 +93,9 @@ adjectives
    - don't add anything for the feminine form 
    - pronunciation remains same 
    
-``Il est triste. Elle est triste. (He is sad. She is sad)``
-``Il est calme. Elle est calme. (He is calm. She is calm.)``
+``Il est triste. Elle est triste.``
+
+``Il est calme. Elle est calme.``
 
 |
 |
