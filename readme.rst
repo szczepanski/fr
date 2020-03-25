@@ -113,18 +113,18 @@ verbs
    :header-rows: 1
    :align: right
 
-   * - singular (fr(en))
-     - plural (fr(en))
-   * - je suis (i am)
-     - nous sommes (we are)
-   * - tu es (you are)
-     - vous êtes (you are)
-   * - il est (he is)
-     - ils sont (they are(m))
-   * - elle est (she is)
-     - elles sont (they are(f))
+   * - singular fr/ en
+     - plural fr/ en
+   * - je suis / i am
+     - nous sommes / we are
+   * - tu es / you are
+     - vous êtes / you are
+   * - il est / he is
+     - ils sont / they are (m)
+   * - elle est / she is
+     - elles sont / they are (f)
    * - 
-     - on est (they are(infm))
+     - on est / they are (infm)
  
 ****
 vocabulary
