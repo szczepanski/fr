@@ -58,6 +58,10 @@ subject pronouns / zaimki
 
 |
 
+****
+pronunciation
+****
+
 **ou vs u**
 
 - **ou** --> vous, tout, roue
@@ -69,8 +73,11 @@ subject pronouns / zaimki
    - *tongue is at the front touching the bottom front teeth*
    - mouth rounded, lips pushed forward (blowing out candle)
    - mouth almost closed
-   
-**adjectives - female and male forms**
+
+****
+adjectives
+****
+**female vs male**
 
 - feminine form - usually add an "-e" at the end
 - changes  pronunciation if  masculine form of the adjective ends with a consonant
@@ -79,6 +86,12 @@ subject pronouns / zaimki
 ``Il est content. Elle est contente.``
 
 ``Il est fatigué. Elle est fatiguée.``
+- some  already have an "-e" ending
+   - don't add anything for the feminine form 
+   - pronunciation remains same 
+   
+``Il est triste. Elle est triste. (He is sad. She is sad)``
+``Il est calme. Elle est calme. (He is calm. She is calm.)``
 
 |
 |
