@@ -16,6 +16,12 @@
 |
 |
 
+@ lesson 11
+====
+
+|
+|
+
 subject pronouns
 ====
 pronoms sujets
@@ -233,6 +239,8 @@ triste / triste (m/f)
    sad
 en forme / en forme (m/f)
    in good form, shape 
+c'est parti
+   let's do it
 
 |
 |
