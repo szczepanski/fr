@@ -10,34 +10,15 @@
 .. contents:: contents
    :depth: 10
    
-
 |
 |
 |
 
-abbreviations
-==============
-abréviations
-
-|
-
-f
-   female
-m 
-   male
-fm
-   formal
-infm
-   informal
-sp
-   spoken language
-wr
-   written language
-   
-| 
-|
 beginner a1
 ============
+
+|
+|
 |
 
 ****
@@ -46,6 +27,7 @@ subject pronouns
 pronoms sujets
 zaimki
 
+|
 
 .. list-table:: pronoms sujets
    :widths: auto
@@ -68,11 +50,15 @@ zaimki
      - 
 
 |
+|
+|
 
 ****
 adjectives
 ****
 adjectifs
+
+|
 
 **female vs male**
 
@@ -131,20 +117,24 @@ les accents
 
 There are 5 accents
 
-´ [é]
+´    [é]
    l'accent aigu / acute accent / wysoki akcent
    
    changes pronunciation
    
    ``enchanté, fatigué``
 
-**`** - è - l'accent grave (grave accent)
+`    [à, è, ù]
+   l'accent grave / grave accent 
 
-**ˆ** - ê - l'accent circonflexe (circumflex)
+ˆ    [â, ê, î, ô, û]
+   l'accent circonflexe (circumflex)
 
-**¨** - ï - l'accent tréma (diacritic accent)
+¨    [ï]
+   l'accent tréma (diacritic accent)
 
-**¸** - ç - la cédille (cedilla)
+¸    [ç]
+   la cédille (cedilla)
 
 |
 |
@@ -154,6 +144,8 @@ There are 5 accents
 pronunciation
 ****
 prononciation
+
+|
 
 **ou vs u**
 
@@ -175,6 +167,8 @@ verbs
 ****
 verbes
 
+|
+
 .. list-table:: avoir/être - to be (present)
    :widths: auto
    :header-rows: 1
@@ -192,6 +186,10 @@ verbes
      - elles sont / they are (f)
    * - 
      - on est / they are (infm)
+ 
+ |
+ |
+ |
  
 ****
 vocabulary
@@ -217,7 +215,36 @@ triste / triste (m/f)
 en forme / en forme (m/f)
    in good form, shape 
 
-**NEXT LESSON 9**
+|
+|
+|
+
+abbreviations
+==============
+abréviations
+
+|
+
+f
+   female
+m 
+   male
+fm
+   formal
+infm
+   informal
+sp
+   spoken language
+wr
+   written language
+
+|
+|
+|
+
+next lesson 10
+==============
+
 
 
 |
