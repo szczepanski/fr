@@ -17,6 +17,9 @@
 
 abbreviations
 ==============
+abréviations
+|
+
 f
    female
 m 
@@ -25,6 +28,11 @@ fm
    formal
 infm
    informal
+sp
+   spoken language
+wr
+   written language
+   
 | 
 |
 beginner a1
@@ -33,11 +41,9 @@ beginner a1
 
 ****
 subject pronouns
-
-pronoms sujets
-
-zaimki
 ****
+pronoms sujets
+zaimki
 
 
 .. list-table:: pronoms sujets
@@ -65,6 +71,7 @@ zaimki
 ****
 adjectives
 ****
+adjectifs
 
 **female vs male**
 
@@ -90,8 +97,34 @@ adjectives
 |
 
 ****
+negative sentences
+****
+phrases négatives
+
+|
+
+how
+   put ne (or n' if the next word starts with a vowel) and pas around the verb
+
+``Je ne suis pas content. (wr / fm)``
+
+``Je suis pas content. (sp / infm)``
+
+**it is vs it is not**
+
+ce n'est pas
+   it is not (fm)
+c'est pas
+   it isn't (infm)
+
+|
+|
+|
+
+****
 pronunciation
 ****
+prononciation
 
 **ou vs u**
 
@@ -111,6 +144,7 @@ pronunciation
 ****
 verbs
 ****
+verbes
 
 .. list-table:: avoir/être - to be (present)
    :widths: auto
@@ -133,6 +167,9 @@ verbs
 ****
 vocabulary
 ****
+Vocabulaire
+
+|
 
 enchanté / enchantée (said by m/f)
    nice to meet you 
@@ -150,7 +187,6 @@ triste / triste (m/f)
    sad
 en forme / en forme (m/f)
    in good form, shape 
-   
 
 **NEXT LESSON 9**
 
