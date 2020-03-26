@@ -141,6 +141,7 @@ There are 5 accents
 
 ˆ    [â, ê, î, ô, û]
    l'accent circonflexe / circumflex / akcent obwodowy
+   
    same pronunciation
    
    sometimes to indicate that  "s" used to come after the vowel ``forêt (forest), hôpital (hospital)``
@@ -151,11 +152,19 @@ There are 5 accents
    
 |
 
-¨    [ï]
-   l'accent tréma (diacritic accent)
+¨    [ë, ï, ü]
+   l'accent tréma / diacritic accent / diaeresja
+   
+   used above  second of two consecutive vowels to pronounce both vowels separately
+   
+   ``Noël, Jamaïque``
 
 ¸    [ç]
-   la cédille (cedilla)
+   la cédille / cedilla
+
+   gives "c" an "s" sound instead of a hard "k" sound
+
+   ``garçon, français``
 
 |
 |
