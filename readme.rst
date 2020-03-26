@@ -9,7 +9,14 @@
 .. comment --> depth describes headings level inclusion
 .. contents:: contents
    :depth: 10
-   
+|
+|
+
+a1_
+====
+
+.. _a1: https://github.com/szczepanski/fr/blob/master/a2.rst
+
 |
 |
 
@@ -297,6 +304,9 @@ External hyperlinks, like Python_.
 
 .. _Python: http://www.python.org/ 
 
+haha_
+
+.. _haha: https://github.com/szczepanski/fr/blob/master/a2.rst
 
 .. code:: python
 
