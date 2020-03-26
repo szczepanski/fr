@@ -32,7 +32,11 @@ beginner a1
 |
 
 ****
-subject pronouns / zaimki
+subject pronouns
+
+pronoms sujets
+
+zaimki
 ****
 
 
@@ -183,7 +187,7 @@ External hyperlinks, like Python_.
 
   def my_function():
       "just a test"
-      print 8/2
+      print(8/2)
 
 
 .. code:: html
