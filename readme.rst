@@ -4,8 +4,6 @@
 *...from scratch*
 
 |
-
-`about <https://github.com/szczepanski/fr/blob/master/about.rst>`_
    
 `beginner - a1 <https://github.com/szczepanski/fr/blob/master/a1.rst>`_
 
@@ -16,3 +14,6 @@
 `upper intermediate - b2 <https://github.com/szczepanski/fr/blob/master/b2.rst>`_
 
 `reStructuredText <https://github.com/szczepanski/fr/blob/master/restructuredtext.rst>`_
+
+`about <https://github.com/szczepanski/fr/blob/master/about.rst>`_
+
