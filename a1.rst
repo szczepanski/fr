@@ -13,14 +13,6 @@
 .. contents:: contents
    :depth: 10
 
-|
-|
-
-beginner a1
-============
-
-|
-|
 
 ****
 subject pronouns
@@ -218,8 +210,8 @@ verbes
    * - 
      - on est / they are (infm)
  
- |
- |
+|
+|
  
 ****
 vocabulary
@@ -244,28 +236,6 @@ triste / triste (m/f)
    sad
 en forme / en forme (m/f)
    in good form, shape 
-
-|
-|
-
-abbreviations
-==============
-abréviations
-
-|
-
-f
-   female
-m 
-   male
-fm
-   formal
-infm
-   informal
-sp
-   spoken language
-wr
-   written language
 
 |
 |
