@@ -4,6 +4,10 @@
 *...from scratch*
 
 |
+a1_
+a2_
+
+|
 |
 
 .. comment --> depth describes headings level inclusion
@@ -12,8 +16,7 @@
 |
 |
 
-a1_
-====
+
 
 .. _a1: https://github.com/szczepanski/fr/blob/master/a2.rst
 
