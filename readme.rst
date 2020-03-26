@@ -120,6 +120,8 @@ There are 5 accents
    
    ``enchanté, fatigué``
 
+|
+
 `    [à, è, ù]
    l'accent grave / grave accent / akcent ciężki
    
@@ -129,13 +131,27 @@ There are 5 accents
    
    **à ,ù** same pronunciation
    
-   both distinguish words - same spelling / different meaning
+   both to distinguish words - same spelling / different meaning
    
    ``ou - or / où - where``
+
    ``a - has / à - at``
 
+|
+
 ˆ    [â, ê, î, ô, û]
-   l'accent circonflexe (circumflex)
+
+   l'accent circonflexe / circumflex / akcent obwodowy
+   
+   same pronunciation
+   
+   sometimes to indicate that  "s" used to come after the vowel ``forêt (forest), hôpital (hospital)``
+   
+   sometimes to distinguish words - same spelling / different meaning ``sur (on) / sûr (sure)``
+   
+   ``âge, être, s'il vous plaît``
+   
+|
 
 ¨    [ï]
    l'accent tréma (diacritic accent)
