@@ -141,7 +141,6 @@ There are 5 accents
 
 ˆ    [â, ê, î, ô, û]
    l'accent circonflexe / circumflex / akcent obwodowy
-   
    same pronunciation
    
    sometimes to indicate that  "s" used to come after the vowel ``forêt (forest), hôpital (hospital)``
