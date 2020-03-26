@@ -5,12 +5,11 @@
 
 |
 |
-|
+
 .. comment --> depth describes headings level inclusion
 .. contents:: contents
    :depth: 10
    
-|
 |
 |
 
@@ -19,12 +18,12 @@ beginner a1
 
 |
 |
-|
 
 ****
 subject pronouns
 ****
 pronoms sujets
+
 zaimki
 
 |
@@ -49,7 +48,6 @@ zaimki
    * - one / on
      - 
 
-|
 |
 |
 
@@ -81,7 +79,6 @@ adjectifs
 
 |
 |
-|
 
 ****
 negative sentences
@@ -106,7 +103,6 @@ c'est pas
 
 |
 |
-|
 
 ****
 accents
@@ -125,19 +121,18 @@ There are 5 accents
    ``enchanté, fatigué``
 
 `    [à, è, ù]
-   l'accent grave / grave accent /
+   l'accent grave / grave accent / akcent ciężki
    
    **è** changes pronunciation
    
    ``collègue, bière``
    
-   **a ,u** does not change pronunciation
+   **à ,ù** same pronunciation
    
    both distinguish words - same spelling / different meaning
    
-   ``ou - or``
-   
-   ``où - where``
+   ``ou - or / où - where``
+   ``a - has / à - at``
 
 ˆ    [â, ê, î, ô, û]
    l'accent circonflexe (circumflex)
@@ -148,7 +143,6 @@ There are 5 accents
 ¸    [ç]
    la cédille (cedilla)
 
-|
 |
 |
 
@@ -170,7 +164,6 @@ prononciation
    - *tongue is at the front touching the bottom front teeth*
    - mouth rounded, lips pushed forward (blowing out candle)
    - mouth almost closed
-|
 |
 |
 
@@ -201,7 +194,6 @@ verbes
  
  |
  |
- |
  
 ****
 vocabulary
@@ -229,7 +221,6 @@ en forme / en forme (m/f)
 
 |
 |
-|
 
 abbreviations
 ==============
@@ -252,12 +243,9 @@ wr
 
 |
 |
-|
 
 next lesson 10
 ==============
-
-
 
 |
 |
