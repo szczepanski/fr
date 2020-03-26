@@ -10,6 +10,8 @@ a2_
 
 `a3 <www.python.org>`_
 
+`python <www.python.org>`_
+   
 |
 |
 
