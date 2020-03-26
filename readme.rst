@@ -4,17 +4,15 @@
 *...from scratch*
 
 |
-a1_
-
-a2_
-
-
-`Python2 <http://www.python.org/>`_
    
 `a1 beginner <https://github.com/szczepanski/fr/blob/master/a1.rst>`_
+
 `a2 elementary <https://github.com/szczepanski/fr/blob/master/a2.rst>`_
+
 `b1 intermediate<https://github.com/szczepanski/fr/blob/master/b1.rst>`_
+
 `b2 upper intermediate<https://github.com/szczepanski/fr/blob/master/b2.rst>`_
+
 |
 |
 
