@@ -125,7 +125,19 @@ There are 5 accents
    ``enchanté, fatigué``
 
 `    [à, è, ù]
-   l'accent grave / grave accent 
+   l'accent grave / grave accent /
+   
+   **è** changes pronunciation
+   
+   ``collègue, bière``
+   
+   **a ,u** does not change pronunciation
+   
+   both distinguish words - same spelling / different meaning
+   
+   ``ou - or``
+   
+   ``où - where``
 
 ˆ    [â, ê, î, ô, û]
    l'accent circonflexe (circumflex)
