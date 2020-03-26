@@ -5,13 +5,13 @@
 
 |
    
-`a1 beginner <https://github.com/szczepanski/fr/blob/master/a1.rst>`_
+`beginner - a1 <https://github.com/szczepanski/fr/blob/master/a1.rst>`_
 
-`a2 elementary <https://github.com/szczepanski/fr/blob/master/a2.rst>`_
+`elementary - a2 <https://github.com/szczepanski/fr/blob/master/a2.rst>`_
 
-`b1 intermediate <https://github.com/szczepanski/fr/blob/master/b1.rst>`_
+`intermediate b1 <https://github.com/szczepanski/fr/blob/master/b1.rst>`_
 
-`b2 upper intermediate <https://github.com/szczepanski/fr/blob/master/b2.rst>`_
+`upper intermediate b2 <https://github.com/szczepanski/fr/blob/master/b2.rst>`_
 
 |
 |
