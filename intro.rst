@@ -1,5 +1,11 @@
 **intro**
 ----
+
+|
+|
+
+`home <https://github.com/szczepanski/fr/blob/master/readme.rst>`_
+
 |
 |
 
