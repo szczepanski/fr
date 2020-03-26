@@ -11,6 +11,8 @@ a2_
 `a3 <www.python.org>`_
 
 `python <www.python.org>`_
+
+`Python2 <http://www.python.org/>`_
    
 |
 |
