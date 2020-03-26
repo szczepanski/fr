@@ -18,6 +18,7 @@
 abbreviations
 ==============
 abréviations
+
 |
 
 f
@@ -116,6 +117,23 @@ ce n'est pas
    it is not (fm)
 c'est pas
    it isn't (infm)
+
+|
+|
+|
+
+****
+accents
+****
+les accents
+
+There are 5 accents
+
+**´** - é - l'accent aigu (acute accent)
+**`** - è - l'accent grave (grave accent)
+**ˆ** - ê - l'accent circonflexe (circumflex)
+**¨** - ï - l'accent tréma (diacritic accent)
+**¸** - ç - la cédille (cedilla)
 
 |
 |
