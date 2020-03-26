@@ -140,7 +140,6 @@ There are 5 accents
 |
 
 ˆ    [â, ê, î, ô, û]
-
    l'accent circonflexe / circumflex / akcent obwodowy
    
    same pronunciation
