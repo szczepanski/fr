@@ -19,7 +19,12 @@ a2_
 
 
 
-.. _a1: https://github.com/szczepanski/fr/blob/master/a2.rst
+.. _a1: https://github.com/szczepanski/fr/blob/master/a1.rst
+.. _a2: https://github.com/szczepanski/fr/blob/master/a2.rst
+.. _b3: https://github.com/szczepanski/fr/blob/master/b1.rst
+.. _b4: https://github.com/szczepanski/fr/blob/master/b2.rst
+
+
 
 |
 |
