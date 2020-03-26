@@ -127,12 +127,16 @@ accents
 ****
 les accents
 
+|
+
 There are 5 accents
 
 ´ [é]
    l'accent aigu / acute accent / wysoki akcent
    
-   defincja
+   changes pronunciation
+   
+   ``enchanté, fatigué``
 
 **`** - è - l'accent grave (grave accent)
 
