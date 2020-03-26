@@ -8,29 +8,19 @@ a1_
 
 a2_
 
-`a3 <www.python.org>`_
-
-`python <www.python.org>`_
 
 `Python2 <http://www.python.org/>`_
    
+`a1 beginner <https://github.com/szczepanski/fr/blob/master/a1.rst>`_
+`a2 elementary <https://github.com/szczepanski/fr/blob/master/a2.rst>`_
+`b1 intermediate<https://github.com/szczepanski/fr/blob/master/b1.rst>`_
+`b2 upper intermediate<https://github.com/szczepanski/fr/blob/master/b2.rst>`_
 |
 |
 
 .. comment --> depth describes headings level inclusion
 .. contents:: contents
    :depth: 10
-|
-|
-
-
-
-.. _a1: https://github.com/szczepanski/fr/blob/master/a1.rst
-.. _a2: https://github.com/szczepanski/fr/blob/master/a2.rst
-.. _b3: https://github.com/szczepanski/fr/blob/master/b1.rst
-.. _b4: https://github.com/szczepanski/fr/blob/master/b2.rst
-
-
 
 |
 |
