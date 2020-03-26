@@ -1,3 +1,4 @@
+**elementary - a2**
 ----
 
 |
@@ -9,3 +10,8 @@
 |
 
 .. comment --> depth describes headings level inclusion
+.. contents:: contents
+   :depth: 10
+
+|
+|
