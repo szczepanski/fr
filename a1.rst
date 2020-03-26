@@ -16,12 +16,6 @@
 |
 |
 
-@ lesson 11
-====
-
-|
-|
-
 subject pronouns
 ====
 pronoms sujets
@@ -245,3 +239,8 @@ c'est parti
 |
 |
 
+@ lesson 11
+====
+
+|
+|
