@@ -129,7 +129,7 @@ les accents
 
 There are 5 accents
 
-´ 
+**´** 
    **é**
    l'accent aigu / acute accent / wysoki akcent
    defin
