@@ -9,9 +9,9 @@
 
 `a2 elementary <https://github.com/szczepanski/fr/blob/master/a2.rst>`_
 
-`b1 intermediate<https://github.com/szczepanski/fr/blob/master/b1.rst>`_
+`b1 intermediate <https://github.com/szczepanski/fr/blob/master/b1.rst>`_
 
-`b2 upper intermediate<https://github.com/szczepanski/fr/blob/master/b2.rst>`_
+`b2 upper intermediate <https://github.com/szczepanski/fr/blob/master/b2.rst>`_
 
 |
 |
