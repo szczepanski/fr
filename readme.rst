@@ -5,7 +5,7 @@
 
 |
 
-`intro <https://github.com/szczepanski/fr/blob/master/intro.rst>`_
+`about <https://github.com/szczepanski/fr/blob/master/about.rst>`_
    
 `beginner - a1 <https://github.com/szczepanski/fr/blob/master/a1.rst>`_
 
