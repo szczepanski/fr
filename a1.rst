@@ -180,6 +180,14 @@ prononciation
    - *tongue is at the front touching the bottom front teeth*
    - mouth rounded, lips pushed forward (blowing out candle)
    - mouth almost closed
+
+|
+
+**je vs j'**
+
+when je precedes a word starting with a, e, i, o, u, y or h
+   ``drop the "-e" --> je becomes j'``
+
 |
 |
 
