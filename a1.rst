@@ -164,9 +164,9 @@ les accents
 |
 |
 
-pronunciation
+pronunciation and nuances
 ====
-prononciation
+prononciation et des nuances
 
 |
 
@@ -200,6 +200,22 @@ when je precedes a word starting with a, e, i, o, u, y or h
 
 |
 
+**articles in front of nouns**
+always use articles in front of nouns 
+   except when describing profession using the verb 'être'
+``Je suis programmeuse pour une entreprise d’éducation technologique. ``
+``Elle est étudiante.``
+
+|
+
+**feminine vs masuline jobs**
+usyually feminine form of jobs end with an 'e'
+
+``la programmeuse or l'étudiante``
+   exceptions (remains same in masculine and feminine)
+   ``la docteur, la professeur, l'ingénieur``
+
+|
 
 |
 |
