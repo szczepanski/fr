@@ -1,6 +1,5 @@
 **french**
 ----
-|
 *...from scratch*
 
 |
