@@ -206,7 +206,9 @@ verbes
      - elles sont / they are (f)
    * - 
      - on est / they are (infm)
- 
+
+|
+
 .. list-table:: avoir - to have (present)
    :widths: auto
    :header-rows: 1
