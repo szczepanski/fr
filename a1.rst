@@ -100,9 +100,15 @@ c'est pas
 |
 |
 
-definite articles and gender of nouns
+definite articles
 ====
-articles définis et genre des noms
+articles définis
+
+|
+
+gender of nouns
+
+genre des noms
 
 |
 
