@@ -235,11 +235,14 @@ en forme / en forme (m/f)
    in good form, shape 
 c'est parti
    let's do it
+un, deux, trois, quatre, cinq, six, sept, huit, neuf, dix
+   1,2,3,4,5,6,7,8,9,10
+
 
 |
 |
 
-@ lesson 11
+@ lesson 12
 ====
 
 |
