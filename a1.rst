@@ -164,9 +164,9 @@ les accents
 |
 |
 
-pronunciation and nuances
+pronunciation 
 ====
-prononciation et des nuances
+prononciation
 
 |
 
@@ -184,13 +184,6 @@ prononciation et des nuances
 
 |
 
-**je vs j'**
-
-when je precedes a word starting with a, e, i, o, u, y or h
-   ``drop 'e' --> je becomes j'``
-
-|
-
 **ils / elles ont vs ils / elles sont**
    similar but different meanings, pronunciations
    
@@ -199,25 +192,49 @@ when je precedes a word starting with a, e, i, o, u, y or h
    ils / elles sont - 's' sound between / they are (m/f)
 
 |
-
-**articles in front of nouns**
-always use articles in front of nouns 
-   except when describing profession using the verb 'être'
-``Je suis programmeuse pour une entreprise d’éducation technologique. ``
-``Elle est étudiante.``
-
 |
+
+nuances
+====
+les nuances
 
 **feminine vs masuline jobs**
 
-usuually feminine form of jobs end with an 'e'
-
-``la programmeuse or l'étudiante``
-   exceptions (remains same in masculine and feminine)
-   
+feminine form of jobs end with 'e'
+   ``la programmeuse or l'étudiante``
+ 
+exceptions (remains same in masculine and feminine)
    ``la docteur, la professeur, l'ingénieur``
 
 |
+
+**je vs j'**
+
+when je precedes a word starting with a, e, i, o, u, y or h
+   ``drop 'e' --> je becomes j'``
+
+|
+
+**articles in front of nouns in jobs context**
+always use articles in front of nouns 
+   except when describing profession using the verb 'être'
+   
+   ``Je suis programmeuse pour une entreprise d’éducation technologique.``
+   
+   ``Je suis étudiant à l’université de la Sorbonne.``
+   
+   ``Elle est docteur au service des urgences.``
+
+|
+
+**'travailler' with 'dans'**
+
+used to describe which sector person works 
+   ``Je travaille dans le secteur des énergies renouvelables.``
+   
+   ``On travaille dans la finance.``
+   
+   ``Elle travaille dans la publicité. ``
 
 |
 |
