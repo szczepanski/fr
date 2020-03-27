@@ -110,7 +110,7 @@ gender of nouns / genre des noms
 
 |
 
-**definite articles - the**
+**- definite articles - the**
 
 le
    masculine nouns
@@ -128,6 +128,44 @@ les
    masculine and feminine plural
    
    ``les garçons, les filles, les hommes``
+
+|
+
+**- generally masculine**
+
+with following endings:
+
+é
+   ``le marché / the market``
+c
+   ``le lac / the lake``
+eau
+   ``le bateau / the boat``
+ou
+   ``le trou / the hole``
+al
+   ``le journal / the newspaper``
+ment
+   ``le gouvernement / the government``
+
+|
+
+**- generally feminine**
+
+with following endings:
+
+ée
+   ``l'idée / the idea``
+ice
+   ``la police / the police``
+on
+   ``la maison / the house``
+té
+   ``la santé / the health``
+tion
+   ``la conversation / the conversation``
+ure
+   ``la nature / the nature``
 
 |
 |
