@@ -100,6 +100,30 @@ c'est pas
 |
 |
 
+definite articles and gender of nouns
+====
+articles définis et genre des noms
+
+|
+
+**definite articles - the**
+
+le
+   masculine nouns
+   
+   ``le garçon``
+la
+   feminine nouns
+   ``la fille``
+l'
+   masculine and feminine nouns starting with vowel or 'h'
+   ``l'homme``   
+les
+   masculine and feminine plural
+   ``les garçons, les filles, les hommes``
+
+|
+|
 
 accents
 ====
