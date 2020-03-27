@@ -209,10 +209,12 @@ always use articles in front of nouns
 |
 
 **feminine vs masuline jobs**
-usyually feminine form of jobs end with an 'e'
+
+usuually feminine form of jobs end with an 'e'
 
 ``la programmeuse or l'étudiante``
    exceptions (remains same in masculine and feminine)
+   
    ``la docteur, la professeur, l'ingénieur``
 
 |
