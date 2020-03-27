@@ -114,12 +114,15 @@ le
    ``le garçon``
 la
    feminine nouns
+   
    ``la fille``
 l'
    masculine and feminine nouns starting with vowel or 'h'
+   
    ``l'homme``   
 les
    masculine and feminine plural
+   
    ``les garçons, les filles, les hommes``
 
 |
