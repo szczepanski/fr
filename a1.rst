@@ -198,7 +198,9 @@ nuances
 ====
 les nuances
 
-**feminine vs masuline jobs**
+|
+
+**- feminine vs masuline jobs**
 
 feminine form of jobs end with 'e'
    ``la programmeuse or l'étudiante``
@@ -208,14 +210,14 @@ exceptions (remains same in masculine and feminine)
 
 |
 
-**je vs j'**
+**- je vs j'**
 
 when je precedes a word starting with a, e, i, o, u, y or h
    ``drop 'e' --> je becomes j'``
 
 |
 
-**articles in front of nouns in jobs context**
+**- articles in front of nouns in jobs context**
 always use articles in front of nouns 
    except when describing profession using the verb 'être'
    
@@ -227,7 +229,7 @@ always use articles in front of nouns
 
 |
 
-**'travailler' with 'dans'**
+**- 'travailler' with 'dans'**
 
 used to describe which sector person works 
    ``Je travaille dans le secteur des énergies renouvelables.``
