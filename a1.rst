@@ -186,7 +186,14 @@ prononciation
 **je vs j'**
 
 when je precedes a word starting with a, e, i, o, u, y or h
-   ``drop the "-e" --> je becomes j'``
+   ``drop 'e' --> je becomes j'``
+
+|
+
+**ils / elles ont vs ils / elles sont**
+   similar but different meanings, pronunciations
+   ils / elles ont - 'z' sound between / they have (m/f)
+   ils / elles sont - 's' sound between / they are (m/f)
 
 |
 |
