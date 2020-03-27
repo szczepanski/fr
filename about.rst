@@ -4,7 +4,7 @@
 |
 |
 
-`home <https://github.com/szczepanski/fr/blob/master/readme.rst>`_
+`back <https://github.com/szczepanski/fr/blob/master/readme.rst>`_
 
 |
 |
