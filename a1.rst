@@ -189,7 +189,7 @@ verbes
 
 |
 
-.. list-table:: avoir/être - to be (present)
+.. list-table:: être - to be (present)
    :widths: auto
    :header-rows: 1
    :align: right
@@ -206,6 +206,24 @@ verbes
      - elles sont / they are (f)
    * - 
      - on est / they are (infm)
+ 
+.. list-table:: avoir - to have (present)
+   :widths: auto
+   :header-rows: 1
+   :align: right
+
+   * - singular fr/ en
+     - plural fr/ en
+   * - j'ai / i have
+     - nous avons / we have
+   * - tu as / you have
+     - vous avez / you have
+   * - il a / he has
+     - ils ont / they have (m)
+   * - elle a / she has
+     - elles ont / they have (f)
+   * - 
+     - on a / we have (infm)
  
 |
 |
@@ -235,8 +253,8 @@ en forme / en forme (m/f)
    in good form, shape 
 c'est parti
    let's do it
-un, deux, trois, quatre, cinq, six, sept, huit, neuf, dix
-   1,2,3,4,5,6,7,8,9,10
+un, une, deux, trois, quatre, cinq, six, sept, huit, neuf, dix
+   1 (m), 1 (f), 2, 3, 4, 5, 6, 7, 8, 9, 10
 
 
 |
