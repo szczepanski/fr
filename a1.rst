@@ -200,7 +200,7 @@ habite à / dans / avec
 |
 
 Tu habites où ?
-   habiter + à + city (place)
+   habiter + à (place, city / town / village)
    
       ``mon ami Jean habite à New York``
       
@@ -212,6 +212,13 @@ Tu habites où ?
       
       ``mes cousins habitent dans une maison``
 
+|
+
+Tu habites avec qui ?
+   habiter + avec
+      ``j'habite avec mes colocataires``
+      ``tom et Aurélie habitent avec leurs amis``
+      
 |
 |
 
@@ -399,7 +406,14 @@ verbes
      - elles ont / they have (f)
    * - 
      - on a / we have (infm)
- 
+
+|
+
+.. list-table:: habiter - to live (present)
+   :widths: auto
+   :header-rows: 1
+   :align: right
+
 |
 |
  
@@ -430,6 +444,8 @@ c'est parti
    let's do it
 un, une, deux, trois, quatre, cinq, six, sept, huit, neuf, dix
    1 (m), 1 (f), 2, 3, 4, 5, 6, 7, 8, 9, 10
+appartement / appart (fm / infm)
+   appartemen, flat
 
 
 |
