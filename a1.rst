@@ -233,7 +233,11 @@ adjectifs possessifs
    
 |
 
-.. list-table:: possessive adjectives - singular person 
+**- possessive adjectives - singular person**
+
+|
+
+.. list-table:: .
    :widths: auto
    :header-rows: 1
    :align: right
@@ -259,8 +263,11 @@ adjectifs possessifs
 
 |
 
+**- possessive adjectives - plural person**
 
-.. list-table:: possessive adjectives - plural person 
+|
+
+.. list-table:: . 
    :widths: auto
    :header-rows: 1
    :align: right
