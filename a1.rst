@@ -305,15 +305,22 @@ mes, tes, ses
 |
 
 notre, votre, leur
-   masculine, feminine, thing "owned" singular 
+   masculine, feminine, thing "owned" singular
+   
+   ``notre cousine est polonaise``
+   
+   ``leur mère habite en Chine``
+   
+   ``votre chat est mignon``
+   
 nos, vos, leurs
    masculine, feminine, thing "owned" plural 
 
-``vos amis sont français``
-
-``leurs enfants sont adorables``
-
-``nos filles ont les cheveux bruns``
+   ``vos amis sont français``
+   
+   ``leurs enfants sont adorables``
+   
+   ``nos filles ont les cheveux bruns``
 
 |
 |
