@@ -138,3 +138,9 @@ automated list table
    * - Gannet Ripple
      - 1.99
      - On a stick!
+     
+ Block quotes are just:
+
+    Indented paragraphs,
+
+        and they may nest. 
