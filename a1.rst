@@ -201,13 +201,11 @@ habite à / dans / avec
 
 Tu habites où ?
    habiter + à (place, city / town / village)
-   
       ``mon ami Jean habite à New York``
       
       ``lucie et Claire habitent à Bordeaux``
       
    habiter + dans (accommodation type)
-   
       ``ma sœur habite dans un appart``
       
       ``mes cousins habitent dans une maison``
