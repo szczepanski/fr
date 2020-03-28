@@ -217,6 +217,7 @@ Tu habites où ?
 Tu habites avec qui ?
    habiter + avec
       ``j'habite avec mes colocataires``
+      
       ``tom et Aurélie habitent avec leurs amis``
       
 |
