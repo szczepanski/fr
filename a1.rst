@@ -231,7 +231,7 @@ adjectifs possessifs
 
 .. list-table:: possessive adjectives - singular person 
    :widths: auto
-   :header-rows: 2
+   :header-rows: 1
    :align: right
 
    * - personne
@@ -246,7 +246,7 @@ adjectifs possessifs
 
 .. list-table:: possessive adjectives - plural person 
    :widths: auto
-   :header-rows: 2
+   :header-rows: 1
    :align: right
 
    * - personne
