@@ -229,6 +229,11 @@ adjectifs possessifs
 
 |
 
+``these adjectives must match in **gender** and **number** with the thing or person that is "owned"``
+``these adjectives must match in **gender** and **number** with the thing or person that is "owned"``
+
+|
+
 .. list-table:: possessive adjectives - singular person 
    :widths: auto
    :header-rows: 1
