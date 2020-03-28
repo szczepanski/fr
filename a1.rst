@@ -236,7 +236,7 @@ adjectifs possessifs
 
 |
 
-.. list-table:: .
+.. list-table:: possessive adjectives
    :widths: auto
    :header-rows: 1
    :align: right
@@ -262,11 +262,21 @@ adjectifs possessifs
 
 |
 
+``son ami Marc est professeur``
+
+``mon oncle Pierre est médecin``
+
+``ma fille a huit ans``
+
+``ton amie Julie habite en Espagne``
+
+|
+
 **- possessive adjectives - plural person**
 
 |
 
-.. list-table:: . 
+.. list-table:: possessive adjectives
    :widths: auto
    :header-rows: 1
    :align: right
