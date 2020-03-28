@@ -303,6 +303,19 @@ mes, tes, ses
      - notre, nos
 
 |
+
+notre, votre, leur
+   masculine, feminine, thing "owned" singular 
+nos, vos, leurs
+   masculine, feminine, thing "owned" plural 
+
+``vos amis sont français``
+
+``leurs enfants sont adorables``
+
+``nos filles ont les cheveux bruns``
+
+|
 |
 
 accents
