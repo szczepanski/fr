@@ -229,9 +229,8 @@ adjectifs possessifs
 
 |
 
-``these adjectives must match in **gender** and **number** with the thing or person that is "owned"``
-``these adjectives must match in **gender** and **number** with the thing or person that is "owned"``
-
+   these adjectives must match in **gender** and **number** with the thing or person that is "owned"
+   
 |
 
 .. list-table:: possessive adjectives - singular person 
@@ -247,7 +246,19 @@ adjectifs possessifs
      - ton, ta, tes
    * - il / elle
      - son, sa, ses
+
 |
+
+   masculine singular nouns: mon, ton and son
+   
+   feminine singular nouns starting with consonant: ma, ta and sa
+   
+      exception: 
+      
+      feminine singular noun starting with vowel: mon, ton and son
+
+|
+
 
 .. list-table:: possessive adjectives - plural person 
    :widths: auto
