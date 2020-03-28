@@ -100,34 +100,9 @@ c'est pas
 |
 |
 
-definite articles
+gender of nouns
 ====
-articles définis
-
-|
-
-gender of nouns / genre des noms
-
-|
-
-**- definite articles - the**
-
-le
-   masculine nouns
-   
-   ``le garçon``
-la
-   feminine nouns
-   
-   ``la fille``
-l'
-   masculine and feminine nouns starting with vowel or 'h'
-   
-   ``l'homme``   
-les
-   masculine and feminine plural
-   
-   ``les garçons, les filles, les hommes``
+genre des noms
 
 |
 
@@ -166,6 +141,55 @@ tion
    ``la conversation / the conversation``
 ure
    ``la nature / the nature``
+
+|
+|
+
+definite articles
+====
+articles définis
+
+|
+
+le
+   masculine nouns
+   
+   ``le garçon``
+la
+   feminine nouns
+   
+   ``la fille``
+l'
+   masculine and feminine nouns starting with vowel or 'h'
+   
+   ``l'homme``   
+les
+   masculine and feminine plural
+   
+   ``les garçons, les filles, les hommes``
+
+|
+|
+
+indefinite articles
+====
+articles définis
+
+|
+
+un
+   masculine nouns
+   
+   ``antoine a un téléphone noir``
+une
+   feminine nouns
+   
+   ``une vendeuse travaille dans une boutique``
+   
+des
+   masculine and feminine plural
+   
+   ``nous avons des amies anglaises``
 
 |
 |
