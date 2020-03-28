@@ -147,7 +147,7 @@ ure
 
 definite articles
 ====
-articles définis
+les articles définis
 
 |
 
@@ -173,7 +173,7 @@ les
 
 indefinite articles
 ====
-articles définis
+les articles indéfinis
 
 |
 
