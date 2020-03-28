@@ -249,13 +249,13 @@ adjectifs possessifs
 
 |
 
-   masculine singular nouns: mon, ton and son
+   **masculine** singular nouns: mon, ton, son
    
-   feminine singular nouns starting with consonant: ma, ta and sa
+   **feminine** singular nouns starting with **consonant**: ma, ta, sa
    
-      exception: 
-      
-      feminine singular noun starting with vowel: mon, ton and son
+   exception: 
+
+   **feminine** singular noun starting with **vowel**: mon, ton, son
 
 |
 
