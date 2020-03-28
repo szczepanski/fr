@@ -265,10 +265,12 @@ mon, ton, son
    
 ma, ta, sa
    feminine singular nouns starting with consonant
+   
    ``ma fille a huit ans``
    
 mes, tes, ses
    masculine, feminine and thing "owned" plural
+   
    ``J'aime beaucoup mes cousines``
 
    ``tes frères sont gentils``
@@ -517,7 +519,7 @@ verbes
 
 vocabulary
 ====
-Vocabulaire
+vocabulaire
 
 |
 
@@ -548,7 +550,7 @@ appartement / appart (fm / infm)
 |
 |
 
-@ lesson 17
+@ lesson 18
 ====
 
 |
