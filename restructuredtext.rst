@@ -139,17 +139,10 @@ automated list table
      - 1.99
      - On a stick!
      
-Block quotes are just:
+Block quotes
 
+   Indented paragraphs,
+   
    Indented paragraphs,
 
       and they may nest. 
-
-
-Block normal test
-
-Block norma test2
-
-   Block quote test
-
-   Block quote test2
