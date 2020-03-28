@@ -223,6 +223,46 @@ Tu habites avec qui ?
 |
 
 
+possessive adjectives 
+====
+adjectifs possessifs 
+
+|
+
+.. list-table:: possessive adjectives - singular person 
+   :widths: auto
+   :header-rows: 2
+   :align: right
+
+   * - personne
+     - adjectives (m,f,p)
+   * - je
+     - mon, ma, mes
+   * - tu
+     - ton, ta, tes
+   * - il / elle
+     - son, sa, ses
+|
+
+.. list-table:: possessive adjectives - plural person 
+   :widths: auto
+   :header-rows: 2
+   :align: right
+
+   * - personne
+     - adjectives (s, p)
+   * - nous
+     - notre, nos
+   * - vous
+     - votre, vos
+   * - ils / elles
+     - leur, leurs
+   * - on 
+     - notre, nos
+
+|
+|
+
 accents
 ====
 les accents
