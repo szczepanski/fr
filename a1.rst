@@ -257,30 +257,25 @@ mon, ton, son
    
    feminine singular noun starting with vowel
    
+   ``son ami Marc est professeur``
+
+   ``mon oncle Pierre est médecin``
+   
+   ``ton amie Julie habite en Espagne``
+   
 ma, ta, sa
    feminine singular nouns starting with consonant
+   ``ma fille a huit ans``
    
 mes, tes, ses
    masculine, feminine and thing "owned" plural
+   ``J'aime beaucoup mes cousines``
+
+   ``tes frères sont gentils``
+
+   ``ses enfants ont les yeux marron``
    
 |
-
-``son ami Marc est professeur``
-
-``mon oncle Pierre est médecin``
-
-``ma fille a huit ans``
-
-``ton amie Julie habite en Espagne``
-
-``J'aime beaucoup mes cousines``
-
-``tes frères sont gentils``
-
-``ses enfants ont les yeux marron``
-
-|
-
 
 **- possessive adjectives - plural person**
 
