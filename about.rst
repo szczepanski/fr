@@ -26,7 +26,7 @@ f
 m 
    male
 s
-   sigular
+   singular
 p
    plural
 fm
