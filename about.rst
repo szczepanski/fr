@@ -25,6 +25,10 @@ f
    female
 m 
    male
+s
+   sigular
+p
+   plural
 fm
    formal
 infm
