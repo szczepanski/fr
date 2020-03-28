@@ -252,14 +252,17 @@ adjectifs possessifs
 
 |
 
-   **masculine** singular nouns: mon, ton, son
+mon, ton, son
+   masculine singular nouns
    
-   **feminine** singular nouns starting with **consonant**: ma, ta, sa
+   feminine singular noun starting with vowel
    
-   exception: 
-
-   **feminine** singular noun starting with **vowel**: mon, ton, son
-
+ma, ta, sa
+   feminine singular nouns starting with consonant
+   
+mes, tes, ses
+   masculine, feminine and thing "owned" plural
+   
 |
 
 ``son ami Marc est professeur``
@@ -270,7 +273,14 @@ adjectifs possessifs
 
 ``ton amie Julie habite en Espagne``
 
+``J'aime beaucoup mes cousines``
+
+``tes frères sont gentils``
+
+``ses enfants ont les yeux marron``
+
 |
+
 
 **- possessive adjectives - plural person**
 
