@@ -587,7 +587,7 @@ verbes
    
    * - singular
      - plural
-   * - je / j' **préfère**
+   * - je **préfère**
      - nous **préférons**
    * - tu **préfères**
      - vous **préférez**
@@ -596,14 +596,14 @@ verbes
 
 |
 
-.. list-table:: de - détester - to dislike (present, regular)
+.. list-table:: détester - to dislike (present, regular)
    :widths: auto
    :header-rows: 1
    :align: right
    
    * - singular
      - plural
-   * - je / j' **déteste**
+   * - je **déteste**
      - nous **détestons**
    * - tu **détestes**
      - vous **détestez**
@@ -612,7 +612,7 @@ verbes
 
 |
 
-template table - present regular
+present regular template
 
 .. list-table:: verb_fr_en (present, regular)
    :widths: auto
@@ -660,14 +660,38 @@ c'est parti
    let's do it
 un, une, deux, trois, quatre, cinq, six, sept, huit, neuf, dix
    1 (m), 1 (f), 2, 3, 4, 5, 6, 7, 8, 9, 10
+
 appartement / appart (fm / infm)
    appartemen, flat
+français / française (m/f)
+   French
+britannique / britannique (m/f)
+   British
+espagnol / espagnole (m/f)
+   Spanish
+allemand / allemande (m/f)
+   German 
+polonais / polonaise (m/f)
+   Polish   
+russe / russe (m/f)
+   Russian 
+turc / turque 
+   Turkish
+brésilien / brésilienne
+   Brazilian
+portugais / portugaise
+   Portuguese
+japonais / japonaise
+   Japanese
+chinois / chinoise
+   Chinese
+ 
 
 
 |
 |
 
-@ lesson 18
+@ lesson 20
 ====
 
 |
