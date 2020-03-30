@@ -508,24 +508,6 @@ verbes
 
 |
 
-template table - present regular
-
-.. list-table:: verb_fr_en (present, regular)
-   :widths: auto
-   :header-rows: 1
-   :align: right
-   
-   * - singular
-     - plural
-   * - je / j' **Xe**
-     - nous **Xons**
-   * - tu **Xes**
-     - vous **Xez**
-   * - il / elle / on **Xe**
-     - ils / elles **Xent**
-
-|
-
 .. list-table:: être - to be (present)
    :widths: auto
    :header-rows: 1
@@ -598,7 +580,7 @@ template table - present regular
  
 |
  
- .. list-table:: préférer - prefer (present, regular)
+.. list-table:: préférer - prefer (present, regular)
    :widths: auto
    :header-rows: 1
    :align: right
@@ -614,7 +596,7 @@ template table - present regular
 
 |
 
- .. list-table:: de - détester - to dislike (present, regular)
+.. list-table:: de - détester - to dislike (present, regular)
    :widths: auto
    :header-rows: 1
    :align: right
@@ -630,6 +612,23 @@ template table - present regular
 
 |
 
+template table - present regular
+
+.. list-table:: verb_fr_en (present, regular)
+   :widths: auto
+   :header-rows: 1
+   :align: right
+   
+   * - singular
+     - plural
+   * - je / j' **_e**
+     - nous **_ons**
+   * - tu **_es**
+     - vous **_ez**
+   * - il / elle / on **_e**
+     - ils / elles **_ent**
+
+|
 
 
 |
