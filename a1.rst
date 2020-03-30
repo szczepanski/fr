@@ -508,6 +508,24 @@ verbes
 
 |
 
+template table
+.. list-table::  verb_fr_en (present, regular)
+   :widths: auto
+   :header-rows: 1
+   :align: right
+   
+   * - singular
+     - plural
+   * - je
+     - nous
+   * - tu
+     - vous
+   * - il / elle/ on
+     - ils / elles
+   * - elle
+ 
+|
+
 .. list-table:: être - to be (present)
    :widths: auto
    :header-rows: 1
@@ -548,6 +566,7 @@ verbes
 
 |
 
+template table
 .. list-table::  verb_fr_en (present, regular)
    :widths: auto
    :header-rows: 1
@@ -559,12 +578,10 @@ verbes
      - nous
    * - tu
      - vous
-   * - il
-     - ils
+   * - il / elle/ on
+     - ils / elles
    * - elle
-     - elles
-   * - 
-     - on
+  
 
 aimer
 préférer
