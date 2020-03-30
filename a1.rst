@@ -498,6 +498,22 @@ used to describe which sector person works
    ``On travaille dans la finance.``
    
    ``Elle travaille dans la publicité. ``
+   
+|
+   
+**- countries, languages, nationalities**
+
+nationalities, languages - lowercase
+   ''Je suis français''
+   
+   ''Il parle anglais''
+
+one person, group of people, nation - capital letter
+   ``un Français``
+   
+   ``des Allemands``
+
+language name and nationality masculine form - often same
 
 |
 |
@@ -675,15 +691,15 @@ polonais / polonaise (m/f)
    Polish   
 russe / russe (m/f)
    Russian 
-turc / turque 
+turc / turque (m/f)
    Turkish
-brésilien / brésilienne
+brésilien / brésilienne (m/f)
    Brazilian
-portugais / portugaise
+portugais / portugaise (m/f)
    Portuguese
-japonais / japonaise
+japonais / japonaise (m/f)
    Japanese
-chinois / chinoise
+chinois / chinoise (m/f)
    Chinese
  
 
