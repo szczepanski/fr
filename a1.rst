@@ -332,6 +332,7 @@ temps présent, régulier
    verbs that end with er - 90% of all verbs
    
    to create it:
+      
       remove 'er' and leave  stem
       
       add  correct ending
@@ -351,7 +352,13 @@ temps présent, régulier
      - vous **ez**
    * - il / elle / on **e**
      - ils / elles **ent**
- 
+
+|
+
+pronouncitation 
+   singular - all sound same
+   
+   plural - ils and elles - sound same as in singular
 |
 |
 
@@ -541,11 +548,45 @@ verbes
 
 |
 
-.. list-table:: habiter - to live (present)
+.. list-table::  verb_fr_en (present, regular)
    :widths: auto
    :header-rows: 1
    :align: right
+   
+   * - singular
+     - plural
+   * - je
+     - nous
+   * - tu
+     - vous
+   * - il
+     - ils
+   * - elle
+     - elles
+   * - 
+     - on
 
+aimer
+préférer
+détester
+j'aime
+je préfère
+je déteste
+tu aimes
+tu préfères
+tu détestes
+il /elle / on aime
+il /elle / on préfère
+il /elle / on déteste
+nous aimons
+nous préférons
+nous détestons
+vous aimez
+vous préférez
+vous détestez
+ils /elles aiment
+ils / elles préfèrent
+ils / elles détestent
 |
 |
  
