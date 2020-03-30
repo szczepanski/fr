@@ -508,7 +508,7 @@ verbes
 
 |
 
-template table
+template table - present regular
 
 .. list-table:: verb_fr_en (present, regular)
    :widths: auto
@@ -517,12 +517,12 @@ template table
    
    * - singular
      - plural
-   * - je ****
-     - nous ****
-   * - tu ****
-     - vous ****
-   * - il / elle / on ****
-     - ils / elles ****
+   * - je / j' **Xe**
+     - nous **Xons**
+   * - tu **Xes**
+     - vous **Xez**
+   * - il / elle / on **Xe**
+     - ils / elles **Xent**
 
 |
 
@@ -566,31 +566,75 @@ template table
 
 |
 
-aimer
-préférer
-détester
-j'aime
-je préfère
-je déteste
-tu aimes
-tu préfères
-tu détestes
-il /elle / on aime
-il /elle / on préfère
-il /elle / on déteste
-nous aimons
-nous préférons
-nous détestons
-vous aimez
-vous préférez
-vous détestez
-ils /elles aiment
-ils / elles préfèrent
-ils / elles détestent
+.. list-table:: habiter - to live (present, regular)
+   :widths: auto
+   :header-rows: 1
+   :align: right
+   
+   * - singular
+     - plural
+   * - j' **habite**
+     - nous **habitons**
+   * - tu **habites**
+     - vous **habitez**
+   * - il / elle / on **habite**
+     - ils / elles **habitent**
+     
+|
+
+.. list-table:: aimer - to love, like (present, regular)
+   :widths: auto
+   :header-rows: 1
+   :align: right
+   
+   * - singular
+     - plural
+   * - j' **aimer**
+     - nous **aimons**
+   * - tu **aimes**
+     - vous **aimez**
+   * - il / elle / on **aime**
+     - ils / elles **aiment**
+ 
+|
+ 
+ .. list-table:: préférer - prefer (present, regular)
+   :widths: auto
+   :header-rows: 1
+   :align: right
+   
+   * - singular
+     - plural
+   * - je / j' **préfère**
+     - nous **préférons**
+   * - tu **préfères**
+     - vous **préférez**
+   * - il / elle / on **préfère**
+     - ils / elles **préfèrent**
+
+|
+
+ .. list-table:: de - détester - to dislike (present, regular)
+   :widths: auto
+   :header-rows: 1
+   :align: right
+   
+   * - singular
+     - plural
+   * - je / j' **déteste**
+     - nous **détestons**
+   * - tu **détestes**
+     - vous **détestez**
+   * - il / elle / on **déteste**
+     - ils / elles **détestent**
+
+|
+
+
+
 |
 |
  
-
 vocabulary
 ====
 vocabulaire
