@@ -517,12 +517,12 @@ template table
    
    * - singular
      - plural
-   * - je
-     - nous
-   * - tu
-     - vous
-   * - il / elle/ on
-     - ils / elles
+   * - je ****
+     - nous ****
+   * - tu ****
+     - vous ****
+   * - il / elle / on ****
+     - ils / elles ****
 
 |
 
