@@ -504,14 +504,16 @@ used to describe which sector person works
 **- countries, languages, nationalities**
 
 nationalities, languages - lowercase
-   ''Je suis français''
+   ``Je suis français``
    
-   ''Il parle anglais''
+   ``Il parle anglais``
 
 one person, group of people, nation - capital letter
    ``un Français``
    
    ``des Allemands``
+
+|
 
 language name and nationality masculine form - often same
 
