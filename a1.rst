@@ -322,6 +322,39 @@ nos, vos, leurs
 |
 |
 
+present tense, regular
+====
+temps présent, régulier
+
+|
+
+temps présent, régulier
+   verbs that end with er - 90% of all verbs
+   
+   to create it:
+      remove 'er' and leave  stem
+      
+      add  correct ending
+
+|
+      
+.. list-table:: regular present time endings
+   :widths: auto
+   :header-rows: 1
+   :align: right
+
+   * - person and ending (singular)
+     - person and ending (plural)
+   * - je **e**
+     - nous **ons**
+   * - tu **es**
+     - vous **ez**
+   * - il / elle / on **e**
+     - ils / elles **ent**
+ 
+|
+|
+
 accents
 ====
 les accents
