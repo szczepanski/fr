@@ -568,6 +568,7 @@ template table
 |
 
 template table
+
 .. list-table::  verb_fr_en (present, regular)
    :widths: auto
    :header-rows: 1
