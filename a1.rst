@@ -510,7 +510,7 @@ verbes
 
 template table
 
-.. list-table::  verb_fr_en (present, regular)
+.. list-table:: verb_fr_en (present, regular)
    :widths: auto
    :header-rows: 1
    :align: right
@@ -524,7 +524,7 @@ template table
    * - il / elle/ on
      - ils / elles
    * - elle
- 
+
 |
 
 .. list-table:: être - to be (present)
