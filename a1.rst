@@ -523,7 +523,6 @@ template table
      - vous
    * - il / elle/ on
      - ils / elles
-   * - elle
 
 |
 
@@ -566,24 +565,6 @@ template table
      - on a / we have (infm)
 
 |
-
-template table
-
-.. list-table::  verb_fr_en (present, regular)
-   :widths: auto
-   :header-rows: 1
-   :align: right
-   
-   * - singular
-     - plural
-   * - je
-     - nous
-   * - tu
-     - vous
-   * - il / elle/ on
-     - ils / elles
-   * - elle
-  
 
 aimer
 préférer
