@@ -234,7 +234,10 @@ adjectifs possessifs
 
 **- possessive adjectives - singular person**
 
-|
+possessive adjectives agree with both:
+   person they refer to
+   
+   noun that follows
 
 .. list-table:: possessive adjectives
    :widths: auto
@@ -785,13 +788,15 @@ D'où viens-tu?
    Where do you come from?
 Je viens de / du / d' ...
    I come from...
+colocataire / coloc (fm / infm)
+   room / flat / house mate
  
 
 
 |
 |
 
-@ lesson 20
+@ lesson 22
 ====
 
 |
