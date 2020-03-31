@@ -675,6 +675,42 @@ verbes
 
 |
 
+.. list-table:: venir - to come (present, irregular)
+   :widths: auto
+   :header-rows: 1
+   :align: right
+   
+   * - singular
+     - plural
+   * - je / j' viens
+     - nous venons
+   * - tu viens
+     - vous venez
+   * - il / elle / on vient
+     - ils / elles viennent
+
+|
+
+
+present irregular - ir - template
+
+.. list-table:: verb_fr_en (present, irregular)
+   :widths: auto
+   :header-rows: 1
+   :align: right
+   
+   * - singular
+     - plural
+   * - je / j' ****
+     - nous ****
+   * - tu ****
+     - vous ****
+   * - il / elle / on ****
+     - ils / elles ****
+
+|
+
+
 present regular template
 
 .. list-table:: verb_fr_en (present, regular)
@@ -690,9 +726,6 @@ present regular template
      - vous **_ez**
    * - il / elle / on **_e**
      - ils / elles **_ent**
-
-|
-
 
 |
 |
