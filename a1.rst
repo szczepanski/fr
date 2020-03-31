@@ -529,7 +529,9 @@ used to describe which sector person works
    
 |
    
-**- countries, languages, nationalities**
+**- languages and nationalities**
+
+`capitalization`
 
 nationalities, languages - lowercase
    ``Je suis français``
@@ -547,15 +549,14 @@ language name and nationality masculine form - often same
 
 |
 
-countries gender
-   feminine
-   
+**- countries**
+
+`gender`
+feminine   
     most names countries ending in E
       
     ``Je viens **de** France``
-
-   masculine
-  
+masculine
    most names countries that do not end in E
       
    ``Ils viennent **du** Brésil``
