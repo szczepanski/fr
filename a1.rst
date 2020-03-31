@@ -362,7 +362,7 @@ pronouncitation
 |
 |
 
-de, du, d'
+de du d'
 ====
 
 |
@@ -387,8 +387,10 @@ use of ``je viens + de/d'/du + country``
    d' - vowel starting country
 
 
+|
+|
+
 accents
-We use de with countries that are feminine and du with countries that are masculine. However, if the name of the country starts with a vowel, we use d'.
 ====
 les accents
 
@@ -548,15 +550,15 @@ language name and nationality masculine form - often same
 countries gender
    feminine
    
-      most names countries ending in E
+    most names countries ending in E
       
-      ``Je viens **de** France``
+    ``Je viens **de** France``
 
    masculine
-   
-      most names countries that do not end in E
+  
+   most names countries that do not end in E
       
-      ``Ils viennent **du** Brésil``
+   ``Ils viennent **du** Brésil``
 
 |
 |
