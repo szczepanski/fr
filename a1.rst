@@ -675,7 +675,7 @@ verbes
 
 |
 
-.. list-table:: venir - to come (present, irregular)
+.. list-table:: **venir** to come (present, irregular)
    :widths: auto
    :header-rows: 1
    :align: right
