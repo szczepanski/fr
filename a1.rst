@@ -362,7 +362,33 @@ pronouncitation
 |
 |
 
+de, du, d'
+====
+
+|
+
+de 
+   folowed by feminine noun
+du
+   folowed by masculine noun
+
+d' 
+   folowed by noun starting with vowel
+
+|
+
+**- origin context**
+
+use of ``je viens + de/d'/du + country``
+   de - feminine country
+   
+   du - masuline country
+   
+   d' - vowel starting country
+
+
 accents
+We use de with countries that are feminine and du with countries that are masculine. However, if the name of the country starts with a vowel, we use d'.
 ====
 les accents
 
@@ -516,6 +542,21 @@ one person, group of people, nation - capital letter
 |
 
 language name and nationality masculine form - often same
+
+|
+
+countries gender
+   feminine
+   
+      most names countries ending in E
+      
+      ``Je viens **de** France``
+
+   masculine
+   
+      most names countries that do not end in E
+      
+      ``Ils viennent **du** Brésil``
 
 |
 |
@@ -703,6 +744,10 @@ japonais / japonaise (m/f)
    Japanese
 chinois / chinoise (m/f)
    Chinese
+D'où viens-tu?
+   Where do you come from?
+Je viens de / du / d' ...
+   I come from...
  
 
 
