@@ -552,14 +552,15 @@ language name and nationality masculine form - often same
 **- countries**
 
 `gender`
+
 feminine   
     most names countries ending in E
       
-    ``Je viens **de** France``
+    `Je viens **de** France`
 masculine
    most names countries that do not end in E
       
-   ``Ils viennent **du** Brésil``
+   `Ils viennent **du** Brésil`
 
 |
 |
