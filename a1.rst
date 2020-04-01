@@ -694,6 +694,22 @@ verbes
 
 |
 
+.. list-table:: **mettre** to put (present, irregular)
+   :widths: auto
+   :header-rows: 1
+   :align: right
+   
+   * - singular
+     - plural
+   * - je mets
+     - nous mettons
+   * - tu mets
+     - vous mettez
+   * - il / elle / on met
+     - ils / elles mettent
+
+|
+
 
 present irregular - ir - template
 
