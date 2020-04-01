@@ -566,6 +566,32 @@ masculine
    Ils viennent **du** Brésil
 
 |
+
+**- colors**
+
+|
+
+colors
+   most colours match in gender and number with the object they refer to
+   
+   ``Le chat est blanc``
+   
+   ``La robe est blanche``
+   
+   ``Les robes sont blanches``
+   
+   ``Les chats sont blancs``
+   
+   ones that end with *e* stay same feminine and masculine
+   
+   ``Le ballon est jaune``
+   
+   ``La jupe est jaune``
+   
+   some as browna and orrange alwas stay same
+   
+   ``Les carottes sont orange``
+|
 |
 
 verbs
