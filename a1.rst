@@ -393,6 +393,50 @@ use of ``je viens + de/d'/du + country``
 |
 |
 
+Plural of nouns
+====
+
+|
+
+plural forms
+   most nouns are created by adding *s* at the end
+   
+   definite and indefinite articles are les and des - both masculine and feminine
+   
+   ``le médecin - les médecins``
+   
+   ``la fille - les filles``
+   
+   ``l'infirmier - les infirmiers``
+   
+   most nouns ending with **eau eu au** end with *x* in plural
+   
+   ``le bateau - les bateaux``
+   
+   ``le jeu - les jeux``
+   
+   ``le tuyau- les tuyaux``
+   
+   most nouns ending with **ou** end with *s* in plural
+   
+   ``le trou - les trous / the hole - the holes``
+   
+   most nouns ending with **al** end with *aux* in plural
+   
+   ``le cheval- les chevaux``
+   
+   ``le journal - les journaux``
+
+   singular nouns ending wit **z x s** reamin same
+   
+   ``le nez - les nez``
+   
+   ``le prix - les prix``
+   
+   ``le pas - les pas``
+
+|
+|
 nuances
 ====
 les nuances
