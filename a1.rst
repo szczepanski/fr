@@ -393,7 +393,7 @@ use of ``je viens + de/d'/du + country``
 |
 |
 
-Plural of nouns
+plural of nouns
 ====
 
 |
@@ -883,7 +883,7 @@ colocataire / coloc (fm / infm)
 |
 |
 
-@ lesson 22
+@ lesson 25
 ====
 
 |
