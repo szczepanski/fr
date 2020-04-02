@@ -645,28 +645,24 @@ sound é
    lips spread as if when smiling
    
    tip of tongue touching bottom front teeth
-   
-   ``aimer, nez, inquiet, fatigué(e), pied``
-   
+      
    sound applies in:
    
    **é, ée**
    
-   ``fatigué, stressée``
+   ``fatigué(e), stressée``
    
    **es**
    ``ces, les`` 
 
    **er, ez**
    
-   ``dîner, vous mangez``
+   ``dîner, aimer, nez, vous mangez``
    
 sound è
    mouth quite open, as if sounding letter 'o' 
 
    tip of tongue touching bottom front teeth
-
-   ``faire, inquiète, fête, forêt``
 
    sound applies in:
    
@@ -679,7 +675,7 @@ sound è
 
    **ê**
    
-   ``la forêt, être``
+   ``la forêt, être, fête``
    
 |
 |
