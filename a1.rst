@@ -641,7 +641,7 @@ prononciation
 
 |
 
-é
+sound é
    lips spread as if when smiling
    
    tip of tongue touching bottom front teeth
@@ -661,7 +661,7 @@ prononciation
    
    ``dîner, vous mangez``
    
-è
+sound è
    mouth quite open, as if sounding letter 'o' 
 
    tip of tongue touching bottom front teeth
@@ -929,7 +929,7 @@ colocataire / coloc (fm / infm)
 |
 |
 
-@ lesson 25
+@ lesson 26
 ====
 
 |
