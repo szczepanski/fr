@@ -653,6 +653,7 @@ sound é
    ``fatigué(e), stressée``
    
    **es**
+   
    ``ces, les`` 
 
    **er, ez**
@@ -671,6 +672,7 @@ sound è
    ``inquiète, le père``
    
    **ai**
+   
    ``faire, j'aime`` 
 
    **ê**
