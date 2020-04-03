@@ -542,6 +542,20 @@ colors
    some as browna and orrange alwas stay same
    
    ``Les carottes sont orange``
+
+|
+
+**- transport**
+
+|
+
+aller + en + transport mode
+   ``en bus, en métro, en taxi, en train, en voiture, en tram``
+
+aller + à + transport mode
+
+   ``à moto, à vélo, à pied``
+
 |
 |
 
