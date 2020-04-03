@@ -946,11 +946,25 @@ le petit copain
    boyfriend
 près de
    near
-
+un aller simple
+   one-way ticket
+un aller-retour
+   return ticket
+J’aimerais me faire rembourser
+   I would like a refund
+avoir du retard
+   to be delayed
+être annulé
+   to be cancelled
+j’aimerais
+   I wish / would like
+je voudrais
+   I would like
+   
 |
 |
 
-@ 28
+@ 29
 ====
 
 |
