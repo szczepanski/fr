@@ -553,7 +553,6 @@ aller + en + transport mode
    ``en bus, en métro, en taxi, en train, en voiture, en tram``
 
 aller + à + transport mode
-
    ``à moto, à vélo, à pied``
 
 |
