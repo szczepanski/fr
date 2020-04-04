@@ -742,6 +742,36 @@ verbes
 
 |
 
+.. list-table:: **aller** verb_en (present)
+   :widths: auto
+   :header-rows: 1
+   :align: right
+   
+   * - singular
+     - plural
+   * - je **vais**
+     - nous **allons**
+   * - tu **vas**
+     - vous **allez**
+   * - il / elle / on **va**
+     - ils / elles **vont**
+
+|
+
+.. list-table:: **prendre** verb_en (present)
+   :widths: auto
+   :header-rows: 1
+   :align: right
+   
+   * - singular
+     - plural
+   * - je **prends**
+     - nous **prenons**
+   * - tu **prends**
+     - vous **prenez**
+   * - il / elle / on **prend**
+     - ils / elles **prennent**
+
 .. list-table:: **habiter** to live (present, regular)
    :widths: auto
    :header-rows: 1
@@ -964,7 +994,7 @@ je voudrais
 |
 |
 
-@ 29
+@ 30
 ====
 
 |
