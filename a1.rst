@@ -437,6 +437,33 @@ plural forms
 
 |
 |
+
+demonstrative adjectives
+====
+les adjectifs démonstratifs
+
+|
+
+ce
+   masculine  noun
+   
+   `ce terrain de football est loin de la bibliothèque``
+cet
+   masculine noun starting with vowel or 'h'
+   
+   ``cet endroit est magnifique``
+cette
+   feminine nouns
+   
+   ``Cette librairie est grande``
+   
+ces
+   plural masculine and feminine
+   
+   ``ces restaurants sont fermés``
+|
+|
+
 nuances
 ====
 les nuances
