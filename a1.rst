@@ -978,7 +978,7 @@ regular - 2nd group 'ir'
    
    * - singular
      - plural
-   * - je / j' **choisis**
+   * - je **choisis**
      - nous **choisissons**
    * - tu **choisis**
      - vous **choisissez**
@@ -994,7 +994,7 @@ regular - 2nd group 'ir'
    
    * - singular
      - plural
-   * - je / j' **finis**
+   * - je **finis**
      - nous **finissons**
    * - tu **finis**
      - vous **finissez**
@@ -1010,7 +1010,7 @@ regular - 2nd group 'ir'
    
    * - singular
      - plural
-   * - je / j' **réussis**
+   * - je **réussis**
      - nous **réussissons**
    * - tu **réussis**
      - vous **réussissez**
@@ -1025,7 +1025,7 @@ regular - 2nd group 'ir'
    
    * - singular
      - plural
-   * - je / j' **réfléchis**
+   * - je **réfléchis**
      - nous **réfléchissons**
    * - tu **réfléchis**
      - vous **réfléchissez**
