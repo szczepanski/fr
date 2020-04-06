@@ -365,20 +365,38 @@ pronouncitation
 |
 |
 
-de du d'
+de du d' des
 ====
 
 |
 
 de 
    folowed by feminine noun
+   
+   generally used with definite articles
+   
+   ``le cinéma se trouve loin de la pharmacie``
+   
+   ``Le musée est à côté de l'arrêt de métro``
+
 du
    folowed by masculine noun
+   
+   generally used without definite articles
+
+   ``la banque est près du lac``
 
 d' 
    folowed by noun starting with vowel
 
+des
+   folowed by plural feminine and masculine nouns
+   
+   ``la poste se trouve près des Galeries Lafayette``
+
+
 |
+
 
 **- origin context**
 
@@ -1214,7 +1232,7 @@ se donner rendez-vous
 |
 |
 
-@ 32
+@ 35
 ====
 
 |
