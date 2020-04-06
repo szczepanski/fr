@@ -731,6 +731,10 @@ verbes
 
 |
 
+****
+irregular
+****
+
 .. list-table:: **être** to be (present)
    :widths: auto
    :header-rows: 1
