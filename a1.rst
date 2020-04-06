@@ -1141,18 +1141,36 @@ l'arrêt de bus
    the bus stop
 là-bas
    over there
+ici
+   here
 près de
-   close to
+   close to, near
+loin de
+   far from
 à côté du
    next to
 devant
    in front of
-loin de
-   far from
+en face de
+   in fron of, opposite of
 derrière
    behind
-   
-   
+sur
+   on
+où se trouve... ?
+   where is...?
+trouver
+   to find
+donner
+   to give
+tourner
+   to turn
+traverser
+   to cross
+continuer
+   to continue, carry on, go on
+pour aller au...
+   to get to...
    
 
 
