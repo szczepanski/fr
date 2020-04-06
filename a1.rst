@@ -865,9 +865,9 @@ regular - 1st group 'er'
 
 |
 
-present 1st regular 'er'
+**present 1st regular 'er'**
 
-.. list-table:: **verb_fr** verb_en (present, regular)
+.. list-table:: **verb_fr** verb_en (present, regular 1st)
    :widths: auto
    :header-rows: 1
    :align: right
@@ -952,9 +952,9 @@ regular - 2nd group 'ir'
 
 |
 
-present 2nd regular 'ir'
+**present 2nd regular 'ir'**
 
-.. list-table:: **verb_fr** verb_en (present, regular)
+.. list-table:: **verb_fr** verb_en (present, regular 2nd)
    :widths: auto
    :header-rows: 1
    :align: right
@@ -969,7 +969,70 @@ present 2nd regular 'ir'
      - ils / elles **_issent**
 
 |
+|
 
+.. list-table:: **choisir** to chose (present, regular 2nd)
+   :widths: auto
+   :header-rows: 1
+   :align: right
+   
+   * - singular
+     - plural
+   * - je / j' **choisis**
+     - nous **choisissons**
+   * - tu **choisis**
+     - vous **choisissez**
+   * - il / elle / on **choisit**
+     - ils / elles **choisissent**
+
+|
+
+.. list-table:: **finir** to finish (present, regular 2nd)
+   :widths: auto
+   :header-rows: 1
+   :align: right
+   
+   * - singular
+     - plural
+   * - je / j' **finis**
+     - nous **finissons**
+   * - tu **finis**
+     - vous **finissez**
+   * - il / elle / on **finit**
+     - ils / elles **finissent**
+
+|
+
+.. list-table:: **réussir** to succeed (present, regular 2nd)
+   :widths: auto
+   :header-rows: 1
+   :align: right
+   
+   * - singular
+     - plural
+   * - je / j' **réussis**
+     - nous **réussissons**
+   * - tu **réussis**
+     - vous **réussissez**
+   * - il / elle / on **réussit**
+     - ils / elles **réussissent**
+
+|
+.. list-table:: **réfléchir** to think (present, regular 2nd)
+   :widths: auto
+   :header-rows: 1
+   :align: right
+   
+   * - singular
+     - plural
+   * - je / j' **réfléchis**
+     - nous **réfléchissons**
+   * - tu **réfléchis**
+     - vous **réfléchissez**
+   * - il / elle / on **réfléchit**
+     - ils / elles **réfléchissent**
+
+|
 ****
 regular - 3rd group 're' 
 ****
