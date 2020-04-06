@@ -1137,6 +1137,24 @@ en face de
    opposite of
 Tu habites dans quel coin de Londres?
    Where do you live in London?
+l'arrêt de bus
+   the bus stop
+là-bas
+   over there
+près de
+   close to
+à côté du
+   next to
+devant
+   in front of
+loin de
+   far from
+derrière
+   behind
+   
+   
+   
+
 
    
 |
