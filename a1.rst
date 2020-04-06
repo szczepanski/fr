@@ -990,6 +990,19 @@ j’aimerais
    I wish / would like
 je voudrais
    I would like
+ouvert / ouverte (m/f)
+   open
+fermé / fermée (m/f)
+   closed
+restaurant / resto (fm / infm)
+   restaurant
+un quartier
+   an area
+en face de
+   opposite of
+Tu habites dans quel coin de Londres?
+   Where do you live in London?
+
    
 |
 |
