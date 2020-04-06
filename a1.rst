@@ -867,6 +867,8 @@ regular - 1st group 'er'
 
 **present 1st regular 'er'**
 
+|
+
 .. list-table:: **verb_fr** verb_en (present, regular 1st)
    :widths: auto
    :header-rows: 1
@@ -882,6 +884,7 @@ regular - 1st group 'er'
      - ils / elles **_ent**
 
 |
+
 .. list-table:: **habiter** to live (present, regular 1st)
    :widths: auto
    :header-rows: 1
@@ -946,6 +949,37 @@ regular - 1st group 'er'
 
 |
 
+.. list-table:: **trouver** to find (present, regular 1st)
+   :widths: auto
+   :header-rows: 1
+   :align: right
+   
+   * - singular
+     - plural
+   * - je *trouve**
+     - nous **trouvons**
+   * - tu **trouves**
+     - vous **trouvez**
+   * - il / elle / on **trouve**
+     - ils / elles **trouvent**
+
+|
+
+.. list-table:: **donner** verb_en (present, regular 1st)
+   :widths: auto
+   :header-rows: 1
+   :align: right
+   
+   * - singular
+     - plural
+   * - je / j' **donne**
+     - nous **donnons**
+   * - tu **donnes**
+     - vous **donnez**
+   * - il / elle / on **donne**
+     - ils / elles **donnent**
+
+|
 ****
 regular - 2nd group 'ir' 
 ****
@@ -1171,6 +1205,8 @@ continuer
    to continue, carry on, go on
 pour aller au...
    to get to...
+se donner rendez-vous
+   to meet
    
 
 
