@@ -735,7 +735,27 @@ verbes
 irregular
 ****
 
-.. list-table:: **être** to be (present)
+|
+
+present irregular
+
+.. list-table:: **verb_fr** verb_en (present, irregular)
+   :widths: auto
+   :header-rows: 1
+   :align: right
+   
+   * - singular
+     - plural
+   * - je / j' ****
+     - nous ****
+   * - tu ****
+     - vous ****
+   * - il / elle / on ****
+     - ils / elles ****
+
+|
+
+.. list-table:: **être** to be (present, irregular)
    :widths: auto
    :header-rows: 1
    :align: right
@@ -755,7 +775,7 @@ irregular
 
 |
 
-.. list-table:: **avoir** to have (present)
+.. list-table:: **avoir** to have (present, irregular)
    :widths: auto
    :header-rows: 1
    :align: right
@@ -775,7 +795,7 @@ irregular
 
 |
 
-.. list-table:: **aller** verb_en (present)
+.. list-table:: **aller** verb_en (present, irregular)
    :widths: auto
    :header-rows: 1
    :align: right
@@ -791,7 +811,7 @@ irregular
 
 |
 
-.. list-table:: **prendre** verb_en (present)
+.. list-table:: **prendre** verb_en (present, irregular)
    :widths: auto
    :header-rows: 1
    :align: right
@@ -804,68 +824,6 @@ irregular
      - vous **prenez**
    * - il / elle / on **prend**
      - ils / elles **prennent**
-
-.. list-table:: **habiter** to live (present, regular)
-   :widths: auto
-   :header-rows: 1
-   :align: right
-   
-   * - singular
-     - plural
-   * - j' **habite**
-     - nous **habitons**
-   * - tu **habites**
-     - vous **habitez**
-   * - il / elle / on **habite**
-     - ils / elles **habitent**
-     
-|
-
-.. list-table:: **aimer** to love, like (present, regular)
-   :widths: auto
-   :header-rows: 1
-   :align: right
-   
-   * - singular
-     - plural
-   * - j' **aimer**
-     - nous **aimons**
-   * - tu **aimes**
-     - vous **aimez**
-   * - il / elle / on **aime**
-     - ils / elles **aiment**
- 
-|
- 
-.. list-table:: **préférer** prefer (present, regular)
-   :widths: auto
-   :header-rows: 1
-   :align: right
-   
-   * - singular
-     - plural
-   * - je **préfère**
-     - nous **préférons**
-   * - tu **préfères**
-     - vous **préférez**
-   * - il / elle / on **préfère**
-     - ils / elles **préfèrent**
-
-|
-
-.. list-table:: **détester** to dislike (present, regular)
-   :widths: auto
-   :header-rows: 1
-   :align: right
-   
-   * - singular
-     - plural
-   * - je **déteste**
-     - nous **détestons**
-   * - tu **détestes**
-     - vous **détestez**
-   * - il / elle / on **déteste**
-     - ils / elles **détestent**
 
 |
 
@@ -901,27 +859,13 @@ irregular
 
 |
 
-
-present irregular - ir - template
-
-.. list-table:: **verb_fr** verb_en (present, irregular)
-   :widths: auto
-   :header-rows: 1
-   :align: right
-   
-   * - singular
-     - plural
-   * - je / j' ****
-     - nous ****
-   * - tu ****
-     - vous ****
-   * - il / elle / on ****
-     - ils / elles ****
+****
+regular - 1st group 'er' 
+****
 
 |
 
-
-present regular template
+present 1st regular 'er'
 
 .. list-table:: **verb_fr** verb_en (present, regular)
    :widths: auto
@@ -936,6 +880,101 @@ present regular template
      - vous **_ez**
    * - il / elle / on **_e**
      - ils / elles **_ent**
+
+|
+.. list-table:: **habiter** to live (present, regular 1st)
+   :widths: auto
+   :header-rows: 1
+   :align: right
+   
+   * - singular
+     - plural
+   * - j' **habite**
+     - nous **habitons**
+   * - tu **habites**
+     - vous **habitez**
+   * - il / elle / on **habite**
+     - ils / elles **habitent**
+     
+|
+
+.. list-table:: **aimer** to love, like (present, regular 1st)
+   :widths: auto
+   :header-rows: 1
+   :align: right
+   
+   * - singular
+     - plural
+   * - j' **aimer**
+     - nous **aimons**
+   * - tu **aimes**
+     - vous **aimez**
+   * - il / elle / on **aime**
+     - ils / elles **aiment**
+ 
+|
+ 
+.. list-table:: **préférer** prefer (present, regular 1st)
+   :widths: auto
+   :header-rows: 1
+   :align: right
+   
+   * - singular
+     - plural
+   * - je **préfère**
+     - nous **préférons**
+   * - tu **préfères**
+     - vous **préférez**
+   * - il / elle / on **préfère**
+     - ils / elles **préfèrent**
+
+|
+
+.. list-table:: **détester** to dislike (present, regular 1st)
+   :widths: auto
+   :header-rows: 1
+   :align: right
+   
+   * - singular
+     - plural
+   * - je **déteste**
+     - nous **détestons**
+   * - tu **détestes**
+     - vous **détestez**
+   * - il / elle / on **déteste**
+     - ils / elles **détestent**
+
+|
+
+****
+regular - 2nd group 'ir' 
+****
+
+|
+
+present 2nd regular 'ir'
+
+.. list-table:: **verb_fr** verb_en (present, regular)
+   :widths: auto
+   :header-rows: 1
+   :align: right
+   
+   * - singular
+     - plural
+   * - je / j' **_is**
+     - nous **_issons**
+   * - tu **_is**
+     - vous **_issez**
+   * - il / elle / on **_it**
+     - ils / elles **_issent**
+
+|
+
+****
+regular - 3rd group 're' 
+****
+
+
 
 |
 |
@@ -1040,7 +1079,7 @@ Tu habites dans quel coin de Londres?
 |
 |
 
-@ 30
+@ 32
 ====
 
 |
