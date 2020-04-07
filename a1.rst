@@ -750,12 +750,8 @@ verbes
 |
 
 ****
-irregular
+irregular present tense
 ****
-
-|
-
-**present irregular**
 
 |
 
@@ -880,16 +876,12 @@ irregular
 |
 
 ****
-regular - 1st group 'er' 
+regular 1st group 'er' present tense
 ****
 
 |
 
-**present 1st regular 'er'**
-
-|
-
-``e, es, e, ons, ez, ent``
+``_e _es _e _ons _ez _ent``
 
 |
 
@@ -1005,12 +997,15 @@ regular - 1st group 'er'
 
 |
 ****
-regular - 2nd group 'ir' 
+regular 2nd group 'ir' present tense 
 ****
 
 |
 
-**present 2nd regular 'ir'**
+``_is _is _it _issons _issez _issent``
+
+|
+
 
 .. list-table:: **verb_fr** verb_en (present, regular 2nd)
    :widths: auto
@@ -1092,8 +1087,30 @@ regular - 2nd group 'ir'
 
 |
 ****
-regular - 3rd group 're' 
+regular 3rd group 're' present tense 
 ****
+
+|
+
+``_s _s _ _ons _ez _ent``
+
+|
+
+.. list-table:: **verb_fr** verb_en (present, regular 3rd)
+   :widths: auto
+   :header-rows: 1
+   :align: right
+   
+   * - singular
+     - plural
+   * - je / j' **_s**
+     - nous **_ons**
+   * - tu **_s**
+     - vous **_ez**
+   * - il / elle / on **__**
+     - ils / elles **_ent**
+
+|
 
 
 
