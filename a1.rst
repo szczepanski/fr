@@ -1096,6 +1096,10 @@ regular 3rd group 're' present tense
 
 |
 
+``attendre - to wait for, descendre - to go down, entendre - to hear, perdre - to lose, répondre - to answer``
+
+|
+
 .. list-table:: **verb_fr** verb_en (present, regular 3rd)
    :widths: auto
    :header-rows: 1
@@ -1109,6 +1113,22 @@ regular 3rd group 're' present tense
      - vous **_ez**
    * - il / elle / on **__**
      - ils / elles **_ent**
+
+|
+
+.. list-table:: **descendre** to go down (present, regular 3rd)
+   :widths: auto
+   :header-rows: 1
+   :align: right
+   
+   * - singular
+     - plural
+   * - je **descends**
+     - nous **descendons**
+   * - tu **descends**
+     - vous **descendez**
+   * - il / elle / on **descend**
+     - ils / elles **descendent**
 
 |
 
