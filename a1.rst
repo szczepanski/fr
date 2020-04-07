@@ -755,7 +755,9 @@ irregular
 
 |
 
-present irregular
+**present irregular**
+
+|
 
 .. list-table:: **verb_fr** verb_en (present, irregular)
    :widths: auto
@@ -884,7 +886,13 @@ regular - 1st group 'er'
 |
 
 **present 1st regular 'er'**
+
+|
+
 **e es e**
+
+|
+
 **ons ez ent**
 
 |
