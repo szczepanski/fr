@@ -889,11 +889,7 @@ regular - 1st group 'er'
 
 |
 
-**e es e**
-
-|
-
-**ons ez ent**
+``e   es   e ons ez ent``
 
 |
 
