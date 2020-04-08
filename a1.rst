@@ -691,9 +691,10 @@ prononciation
 **- ils / elles ont vs ils / elles sont**
    similar but different meanings, pronunciations
    
-   ils / elles ont - 'z' sound between / they have (m/f)
-   
-   ils / elles sont - 's' sound between / they are (m/f)
+- **ils / elles ont**
+   - 'z' sound between / they have (m/f)
+- **ils / elles sont**
+   - 's' sound between / they are (m/f)
 
 |
 
@@ -701,44 +702,50 @@ prononciation
 
 |
 
-sound é
-   lips spread as if when smiling
+- **sound é**
+   - lips spread as if when smiling
+   - tip of tongue touching bottom front teeth
+   - sound applies in:
+   - **é, ée**
+   - ``fatigué(e), stressée``
+   - **es**
+   - ``ces, les`` 
+   - **er, ez**
+   - ``dîner, aimer, nez, vous mangez``
    
-   tip of tongue touching bottom front teeth
-      
-   sound applies in:
+- **sound è**
+   - mouth quite open, as if sounding letter 'o' 
+   - tip of tongue touching bottom front teeth
+   - sound applies in:
+   - **è**
+   - ``inquiète, le père``
+   - **ai**
+   - ``faire, j'aime`` 
+   - **ê**
+   - ``la forêt, être, fête``
    
-   **é, ée**
-   
-   ``fatigué(e), stressée``
-   
-   **es**
-   
-   ``ces, les`` 
+|
 
-   **er, ez**
-   
-   ``dîner, aimer, nez, vous mangez``
-   
-sound è
-   mouth quite open, as if sounding letter 'o' 
+**-  sounds r**
 
-   tip of tongue touching bottom front teeth
+|
 
-   sound applies in:
-   
-   **è**
-   
-   ``inquiète, le père``
-   
-   **ai**
-   
-   ``faire, j'aime`` 
+- **sound 'r' - final sound of word**
+   - cat's purr - gentle
+   - lips don't move, mouth slightly open
+   - tongue close to back of mouth, not moving
+   - pronounced when:
+      - followed by final consonant
+      - followed by a final 'e'
+      - ``père, air, vert``
+   - not pronounced in:
+      - regular "-er" verbs when at the end
+      - ``manger, chanter``
 
-   **ê**
-   
-   ``la forêt, être, fête``
-   
+- **sound 'r' - other positions**
+
+
+
 |
 |
 
