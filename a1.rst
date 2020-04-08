@@ -885,6 +885,16 @@ irregular present tense
 
 |
 
+.. list-table:: **verb_fr** to need (present, impersonal verb)
+   :widths: auto
+   :header-rows: 1
+   :align: right
+   
+   * - singular
+   * - il **faut**
+
+|
+
 ****
 regular 1st group 'er' present tense
 ****
