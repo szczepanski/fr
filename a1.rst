@@ -706,27 +706,27 @@ prononciation
    - lips spread as if when smiling
    - tip of tongue touching bottom front teeth
    - sound applies in:
-   - **é, ée**
-   - ``fatigué(e), stressée``
-   - **es**
-   - ``ces, les`` 
-   - **er, ez**
-   - ``dîner, aimer, nez, vous mangez``
+      - **é, ée**
+      - ``fatigué(e), stressée``
+      - **es**
+      - ``ces, les`` 
+      - **er, ez**
+      - ``dîner, aimer, nez, vous mangez``
    
 - **sound è**
    - mouth quite open, as if sounding letter 'o' 
    - tip of tongue touching bottom front teeth
    - sound applies in:
-   - **è**
-   - ``inquiète, le père``
-   - **ai**
-   - ``faire, j'aime`` 
-   - **ê**
-   - ``la forêt, être, fête``
+      - **è**
+      - ``inquiète, le père``
+      - **ai**
+      - ``faire, j'aime`` 
+      - **ê**
+      - ``la forêt, être, fête``
    
 |
 
-**-  sounds r**
+**-  sound r**
 
 |
 
@@ -742,7 +742,10 @@ prononciation
       - regular "-er" verbs when at the end
       - ``manger, chanter``
 
-- **sound 'r' - other positions**
+- **sound 'r' - beginining and middle of word**
+   - lions's roar - strong
+   - same lips, mouth and tongue behaviour
+
 
 
 
