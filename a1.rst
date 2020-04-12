@@ -409,6 +409,8 @@ use of ``je viens + de/d'/du + country``
 
 **- quantity context**
 
+``pour préparer le dîner, j'ai besoin de un litre de lait, cinq carottes, de la viande, du fromage et de l'eau``
+
 used in cases where exact amount of noun is not known / given
 
 du 
@@ -427,6 +429,33 @@ de l'
    ``pour préparer le dîner, j'ai besoin de l'eau``
 
 
+|
+
+**- none quantity context**
+
+ne + verb + pas de
+   for nouns not starting with vowel
+   
+   ``Je n'ai pas de riz dans ma cuisine``
+   
+   ``Il n'y a pas de viande dans cette boulangerie``
+
+ne + verb + pas d'
+   for nouns starting with vowel
+   
+   ``Paul n'a pas d'œufs dans son frigo``
+
+|
+
+
+**- partitive articles are never used with verbs of preference**
+
+verbs of preference (aimer, adorer, détester)
+   noun always comes after **definite article**
+   ``Je n'aime pas le chocolat``
+   ``ma sœur déteste les épinards``
+   ``mes parents adorent le café``
+   
 |
 |
 
