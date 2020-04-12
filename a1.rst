@@ -365,7 +365,7 @@ pronouncitation
 |
 |
 
-de du d' des
+partitive articles de du d' des
 ====
 
 |
@@ -394,9 +394,7 @@ des
    
    ``la poste se trouve près des Galeries Lafayette``
 
-
 |
-
 
 **- origin context**
 
@@ -406,6 +404,27 @@ use of ``je viens + de/d'/du + country``
    du - masuline country
    
    d' - vowel starting country
+
+|
+
+**- quantity context**
+
+used in cases where exact amount of noun is not known / given
+
+du 
+   masculine nouns
+
+   ``pour préparer le dîner, j'ai besoin du fromage``
+
+de la
+   feminine nouns
+   
+   ``pour préparer le dîner, j'ai besoin de la viande``
+
+de l'
+   nouns starting with a vowel
+
+   ``pour préparer le dîner, j'ai besoin de l'eau``
 
 
 |
