@@ -151,6 +151,10 @@ les articles définis
 
 |
 
+*used to talk about specific thing or give an opinion / preference (love, hate, etc)*
+
+|
+
 le
    masculine nouns
    
@@ -177,19 +181,23 @@ les articles indéfinis
 
 |
 
+*used to talk about not specific thing*
+
+|
+
 un
-   masculine nouns
+   masculine nouns including in front of a vowel
    
    ``antoine a un téléphone noir``
 une
-   feminine nouns
+   feminine nouns including in front of a vowel
    
    ``une vendeuse travaille dans une boutique``
    
 des
    masculine and feminine plural
    
-   ``nous avons des amies anglaises``
+   ``nous avons des amies anglaises``   
 
 |
 |
