@@ -1360,6 +1360,14 @@ Il fait chaud / froid
    it's hot / cold
 Il pleut
    It's raining
+janvier, février, mars, avril, mai, juin, juillet, août, septembre, octobre, novembre, décembre
+   January, February, March, April, May, June, July, August, September, October, November, December
+l'automne, l'hiver, le printemps, l'été
+   autumn, winter, spring, summer
+Pâques
+   Easter
+La rentrée / la rentrée des classes 
+   first day of term after the school holidays
    
    
 
