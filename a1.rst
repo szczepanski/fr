@@ -373,6 +373,39 @@ pronouncitation
 |
 |
 
+near future tense
+====
+temps futur proche
+
+|
+
+near future tense
+   used to talk about action that is going to happen in the near future
+   
+   syntax
+   
+   **present tense aller** + **infinitive form main verb**
+   
+   ``Je vais manger``
+   
+   ``Tu vas parler``
+
+   ``Il / Elle / On va aller`` 
+
+   ``Nous allons chanter`` 
+
+   ``Vous allez travailler`` 
+
+   ``Ils / Elles vont faire`` 
+
+
+|
+
+
+
+|
+|
+
 partitive articles de du d' des
 ====
 
