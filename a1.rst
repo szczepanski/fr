@@ -333,9 +333,10 @@ nos, vos, leurs
 |
 |
 
-present tense, regular
+present tense
 ====
-temps présent, régulier
+temps présent
+régulier
 
 |
 
@@ -370,6 +371,7 @@ pronouncitation
    singular - all sound same
    
    plural - ils and elles - sound same as in singular
+
 |
 |
 
@@ -382,7 +384,7 @@ temps futur proche
 near future tense
    used to talk about action that is going to happen in the near future
    
-   syntax
+   *syntax*
    
    **present tense aller** + **infinitive form main verb**
    
@@ -396,12 +398,27 @@ near future tense
 
    ``Vous allez travailler`` 
 
-   ``Ils / Elles vont faire`` 
-
-
-|
-
-
+   ``Ils / Elles vont faire``
+   
+   *negation syntax*
+   
+   **subject** + **ne** + **present tense aller** + **pas** + **infinitive form main verb**
+   
+   ``Je ne vais pas aller avec eux car je vais travailler``
+   
+   ``Ils ne vont pas aller au cinéma``
+   
+   *futur proche with reflexive verbs*
+   
+   place reflexive pronoun after verb "aller", before the infinitive
+   
+   ``Je vais me coucher / I am going to go to bed``
+   
+   ``Tu vas te lever / You are going to get up``
+   
+   ``Nous allons nous habiller / We are going to get dressed``
+   
+   ``Elles ne vont pas se maquiller / They are not going to put on makeup``
 
 |
 |
