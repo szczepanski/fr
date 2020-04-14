@@ -1350,6 +1350,17 @@ Je voudrais...
    I would like
 la baguette bien cuite
    well cooked baguette
+Quel temps fait-il?
+   What's the weather like?
+Il fait beau
+   The weather is nice
+Il fait mauvais
+   The weather is bad
+Il fait chaud / froid
+   it's hot / cold
+Il pleut
+   It's raining
+   
    
 
 
