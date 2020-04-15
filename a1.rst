@@ -1443,8 +1443,16 @@ Pâques
    Easter
 La rentrée / la rentrée des classes 
    first day of term after the school holidays
-   
-   
+onze, douze, treize, quatorze, quinze, seize
+   eleven, twelve, thirteen, fourteen, fifteen, sixteen
+dix-sept, dix-huit, dix-neuf
+   seventeen, eighteen, nineteen
+vingt, trente, quarante, cinquante
+   twenty, thirty, forty, fifty
+vingt-deux, quarante-huit, cinquante-sept
+   twenty-two, forty-eight, fifty-seven
+vingt et un / une, trente et un / une, quarante et un / une, cinquante et un / une
+   twenty one, thirty one, forty one, fifty one
 
 
    
