@@ -1453,13 +1453,41 @@ vingt-deux, quarante-huit, cinquante-sept
    twenty-two, forty-eight, fifty-seven
 vingt et un / une, trente et un / une, quarante et un / une, cinquante et un / une
    twenty one, thirty one, forty one, fifty one
-
-
+Quelle heure est-il ?
+   What time is it?
+Il est .... heure(s)
+   It is ... o'clock
+Il est une heure
+   It is one o'clock
+Il est deux heures
+   It is one o'clock
+midi
+   midday
+minuit
+   midnight
+Il est minuit
+   It is midnight
+Il est 11h20
+   It is 11.20am
+Il est cinq heures et demie
+   It is half past five
+Il est trois heures et quart
+   It is quarter past three
+Il est vingt-deux heures quinze
+   It is quarter past ten
+Il est neuf heures moins cinq
+   It is five to nine
+Il est neuf heures moins le quart
+   It is quarter to nine
+Il est quatre heures dix
+   It is ten past four
+Il est six heures vingt
+   It is twenty past six
    
 |
 |
 
-@ 43
+@ 46
 ====
 
 |
