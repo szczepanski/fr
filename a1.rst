@@ -626,31 +626,35 @@ pourquoi - why
 
 |
 
-- **with 'quoi / comment'**
+**- without 'est-ce que'**
 
 |
 
 quoi - what (infm)
-   place quoi after verb 
+   in full question sentence, place quoi after verb 
    
    ``Elle aime faire quoi pendant le week-end ?``
    
    ``Tu manges quoi ?``
    
    ``Quoi ?``
-
 comment - what, pardon ? / when used on its own (fm)
    ``comment?``
-   
-- **turning statements into questons by intonation rise**
-   ``Elle est professeur ?``
-   
-   ``Tu viens du Japon ?``
-   
-- **question words without est-ce que**
+où, quand, oher
    ``Où exactement ?``
    
    ``Quand exactement ?``
+
+|
+   
+**- intonation rise - turning statements into questons**
+
+|
+
+``Elle est professeur ?``
+   
+``Tu viens du Japon ?``
+   
 
 
    
