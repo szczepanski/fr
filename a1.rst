@@ -590,6 +590,51 @@ ces
 |
 |
 
+
+questions
+====
+les questions
+
+|
+
+in French space should be placed between last word and question mark
+
+|
+**questions**
+
+- with 'est-ce que'
+
+quand - when
+   ``Quand est-ce que tu commences le travail ?``
+comment
+   ``Comment est-ce qu'on prépare une pizza ?``
+où - where
+   ``Où est-ce que vous habitez ?``
+qui - who
+   ``Qui est ce qu'il attend ?``
+que - what
+   becomes 'qu' when placed before 'est-ce que'
+   
+   ``Qu'est-ce qu'elle aime faire pendant le week-end ?``
+
+pourquoi - why
+   ``Pourquoi est-ce qu'elle est fâchée ?``
+
+|
+
+- with 'quoi / comment'
+
+quoi - what (infm)
+   place quoi after verb 
+
+
+
+
+
+
+|
+|
+
 nuances
 ====
 les nuances
