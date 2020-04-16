@@ -600,9 +600,13 @@ les questions
 in French space should be placed between last word and question mark
 
 |
-**questions**
+**forming questions**
 
-- with 'est-ce que'
+|
+
+**- with 'est-ce que'**
+
+|
 
 quand - when
    ``Quand est-ce que tu commences le travail ?``
@@ -622,10 +626,34 @@ pourquoi - why
 
 |
 
-- with 'quoi / comment'
+- **with 'quoi / comment'**
+
+|
 
 quoi - what (infm)
    place quoi after verb 
+   
+   ``Elle aime faire quoi pendant le week-end ?``
+   
+   ``Tu manges quoi ?``
+   
+   ``Quoi ?``
+
+comment - what, pardon ? / when used on its own (fm)
+   ``comment?``
+   
+- **turning statements into questons by intonation rise**
+   ``Elle est professeur ?``
+   
+   ``Tu viens du Japon ?``
+   
+- **question words without est-ce que**
+   ``Où exactement ?``
+   
+   ``Quand exactement ?``
+
+
+   
 
 
 
