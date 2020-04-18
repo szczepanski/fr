@@ -1560,6 +1560,24 @@ Il est quatre heures dix
    It is ten past four
 Il est six heures vingt
    It is twenty past six
+jouer + du / de la / de l' + the instrument
+   to play some instrument
+jouer du piano
+   to play the piano
+jouer du violoncelle
+   to play the cello
+jouer du violon
+   to play the violin
+jouer de l'accordéon
+   to play the accordion
+jouer de la trompette
+   to play the trumpet
+jouer de la batterie
+   to play the drums
+jouer de la guitare
+   to play the guitar
+   
+   
    
 |
 |
