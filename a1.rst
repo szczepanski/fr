@@ -786,6 +786,11 @@ aller + à + transport mode
    ``à moto, à vélo, à pied``
 
 |
+
+**- sport**
+
+
+|
 |
 
 accents
