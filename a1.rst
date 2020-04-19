@@ -789,7 +789,34 @@ aller + à + transport mode
 
 **- sport**
 
+|
 
+jouer + à la / au / aux + activity
+   
+   ``jouer au football``
+   
+   ``jouer au tennis``
+   
+   ``jouer aux cartes (cards)``
+   
+   ``jouer aux échecs (chess)``
+   
+   ``jouer au basket``
+   
+   ``jouer au volley``
+   
+   ``jouer à la pétanque (boules)``
+
+
+faire + du / de la / de l' + activity
+   used in activities with no balls or rackets
+
+   ``faire de la natation (swimming)``
+   
+   ``faire de l'équitation (horse riding)``
+   
+   ``faire du vélo``
+   
 |
 |
 
