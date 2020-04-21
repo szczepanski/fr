@@ -452,18 +452,22 @@ passé composé
    :header-rows: 1
    :align: right
    
-   * - group and ending 
+   * - group
+     - ending 
      - transition
      - example
-   * - 1st **er**
-     - nous er -> **é**
-     - manger - mangé
-   * - ir **_es**
-     - vous **_ez**
-     - 
-   * - re / elle / on **_e**
-     - ils / elles **_ent**
-     -
+   * - 1st
+     - **er**
+     - er -> **é**
+     - ``manger -> mangé``
+   * - 2nd
+     - **ir**
+     - ir -> **i**
+     - ``finir -> fini``
+   * - 3rd
+     - **re**
+     - re -> **u**
+     - ``vendre -> vendu``
      
 |
 |
