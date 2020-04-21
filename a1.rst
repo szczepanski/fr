@@ -457,17 +457,7 @@ passé composé
 
    **examples**
    
-   ``j'ai mangé``
-   
-   ``tu as fini``
-   
-   ``il / elle / on a répondu``
-   
-   ``nous avons visité``
-   
-   ``vous avez choisi``
-   
-   ``ils / elles ont vendu``
+   ``j'ai mangé`` ``tu as fini`` ``il / elle / on a répondu`` ``nous avons visité`` ``vous avez choisi`` ``ils / elles ont vendu``
 
    **negation syntax**
    
@@ -475,9 +465,7 @@ passé composé
    
    **examples**
    
-   ``Je n'ai pas choisi ce restaurant``
-   
-   ``Elle n'a pas répondu à mon message``
+   ``Je n'ai pas choisi ce restaurant`` ``Elle n'a pas répondu à mon message``
    
    **questions syntax**
    
@@ -487,13 +475,7 @@ passé composé
    
    **examples**
    
-   ``As-tu mangé avec ton frère pendant le week-end?``
-   
-   ``Avez-vous visité Lyon pendant votre voyage ?``
-   
-   ``A-t-elle joué au tennis pendant le week-end ?``
-   
-   ``A-t-il regardé un film hier soir ?``
+   ``As-tu mangé avec ton frère pendant le week-end?`` ``Avez-vous visité Lyon pendant votre voyage ?`` ``A-t-elle joué au tennis pendant le week-end ?`` ``A-t-il regardé un film hier soir ?``
 
    
    
