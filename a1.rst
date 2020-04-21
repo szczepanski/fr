@@ -456,26 +456,26 @@ passé composé
    :header-rows: 1
    :align: right
    
-   * - group
+   * - gr
      - ending
      - 
      - transition
      - example
    * - 1
      - **er**
-     - >
+     - **>**
      - **é**
-     - mang **er** -> mang **é**
+     - manger > mangé
    * - 2
      - **ir**
-     - >
+     - **>**
      - **i**
-     - fin**ir** > fin**i**
+     - finir > fini
    * - 3
      - **re**
-     - >
+     - **>**
      - **u**
-     - vend**re** > vend**u**
+     - vendre > vendu
      
 |
 |
