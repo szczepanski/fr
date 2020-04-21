@@ -759,10 +759,21 @@ reflexive verbs
    
    ``subject`` + ``reflexive pronoun`` + ``verb``
    
+   **examples**
+   
+   ``tu te réveilles`` ``nous nous habillons``
+
+   
    **negation syntax**
    
    ``subject`` + ``ne`` + ``reflexive pronoun`` + ``verb`` + ``pas``
    
+   **examples**
+   
+   ``je ne me réveille pas à la même heure tous les jours`` ``mon père ne se rase pas le weekend``
+
+|
+
 .. list-table:: **reflexive pronouns**
    :widths: auto
    :header-rows: 1
