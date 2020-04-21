@@ -423,8 +423,12 @@ near future tense
 |
 |
 
-passé composé 
+****
+compound past
+****
 ====
+passé composé 
+
 
 |
 
