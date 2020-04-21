@@ -438,8 +438,28 @@ passé composé
 
 |
 
+passé composé 
+   to express completed actions at any time in the past
+
+   *syntax*
+   
+   **avoir** or **être** in present tense + **main verb in past participle** 
 
 
+.. list-table:: **past participle - regular verbs** verb_en (present, regular 1st)
+   :widths: auto
+   :header-rows: 0
+   :align: right
+   
+   * - 1st group
+     - er -> é 
+   * - je / j' **_e**
+     - nous **_ons**
+   * - tu **_es**
+     - vous **_ez**
+   * - il / elle / on **_e**
+     - ils / elles **_ent**
+     
 |
 |
 
