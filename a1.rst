@@ -447,7 +447,7 @@ passé composé
 
    *syntax*
    
-   ``**subject**`` + ``**avoir** or **être** **present** tense`` + main verb **past participle**
+   ``subject`` + ``avoir or être in present`` + ``main verb in past participle``
 
 |
 
@@ -461,21 +461,21 @@ passé composé
      - 
      - transition
      - example
-   * - 1st
+   * - 1
      - **er**
      - >
      - **é**
-     - manger > mangé
-   * - 2nd
+     - mang**er** > mang**é**
+   * - 2
      - **ir**
      - >
      - **i**
-     - finir > fini
-   * - 3rd
+     - fin**ir** > fin**i**
+   * - 3
      - **re**
      - >
      - **u**
-     - vendre > vendu
+     - vend**re** > vend**u**
      
 |
 |
