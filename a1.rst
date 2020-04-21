@@ -453,21 +453,25 @@ passé composé
    :align: right
    
    * - group
-     - ending 
+     - ending
+     - 
      - transition
      - example
    * - 1st
      - **er**
-     - er -> **é**
-     - ``manger -> mangé``
+     - >
+     - **é**
+     - manger > mangé
    * - 2nd
      - **ir**
-     - ir -> **i**
-     - ``finir -> fini``
+     - >
+     - **i**
+     - finir > fini
    * - 3rd
      - **re**
-     - re -> **u**
-     - ``vendre -> vendu``
+     - >
+     - **u**
+     - vendre > vendu
      
 |
 |
