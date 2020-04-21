@@ -780,7 +780,7 @@ reflexive verbs
    :align: right
    
    * - subject
-     - r. pronoun
+     - reflexive pronoun
      - example
    * - **je**
      - **me**
