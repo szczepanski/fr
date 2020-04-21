@@ -445,20 +445,25 @@ passé composé
    
    **avoir** or **être** in present tense + **main verb in past participle** 
 
+|
 
-.. list-table:: **past participle - regular verbs** verb_en (present, regular 1st)
+.. list-table:: **regular verbs - past participle**
    :widths: auto
-   :header-rows: 0
+   :header-rows: 1
    :align: right
    
-   * - 1st group
-     - er -> é 
-   * - je / j' **_e**
-     - nous **_ons**
-   * - tu **_es**
+   * - group and ending 
+     - transition
+     - example
+   * - 1st **er**
+     - nous er -> **é**
+     - manger - mangé
+   * - ir **_es**
      - vous **_ez**
-   * - il / elle / on **_e**
+     - 
+   * - re / elle / on **_e**
      - ils / elles **_ent**
+     -
      
 |
 |
