@@ -390,11 +390,13 @@ temps futur proche
 |
 
 near future tense
-   used to talk about action that is going to happen in the near future
+   *use*
+   
+   actions that are going to happen in the near future
    
    *syntax*
    
-   **present tense aller** + **infinitive form main verb**
+   **subject** + **aller** in in **present** tense + main verb **infinitive**
    
    ``Je vais manger``
    
@@ -410,7 +412,7 @@ near future tense
    
    *negation syntax*
    
-   **subject** + **ne** + **present tense aller** + **pas** + **infinitive form main verb**
+   **subject** + **ne** + **aller** **present tense** + **pas** + main verb **infinitive**
    
    ``Je ne vais pas aller avec eux car je vais travailler``
    
@@ -439,11 +441,13 @@ passé composé
 |
 
 passé composé 
-   to express completed actions at any time in the past
+   *use*
+   
+   completed actions at any time in the past
 
    *syntax*
    
-   **avoir** or **être** in present tense + **main verb in past participle** 
+   **subject** + **avoir** or **être** **present** tense + main verb **past participle** 
 
 |
 
