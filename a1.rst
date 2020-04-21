@@ -447,7 +447,7 @@ passé composé
 
    *syntax*
    
-   **subject** + **avoir** or **être** **present** tense + main verb **past participle** 
+   ``**subject**`` + ``**avoir** or **être** **present** tense`` + main verb **past participle**
 
 |
 
