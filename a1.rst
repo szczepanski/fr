@@ -1697,8 +1697,24 @@ jouer de la batterie
    to play the drums
 jouer de la guitare
    to play the guitar
-   
-   
+se réveiller
+   to wake up  
+se lever
+   to get up
+se doucher
+   to have a shower
+se brosser les dents
+   to brush your teeth
+se raser
+   to shave
+s'habiller
+   to get dressed
+se maquiller
+   to put on makeup
+se coiffer
+   to do your hair
+se coucher
+   to go to bed
    
 |
 |
