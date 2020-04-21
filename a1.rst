@@ -744,15 +744,52 @@ où, quand, oher
    
 ``Tu viens du Japon ?``
    
+reflexive verbs
+====
+les verbes réfléchis
 
+|
 
+reflexive verbs
+   **use**
    
+   when subject does something to itself
 
-
-
-
-
-
+   **syntax**
+   
+   ``subject`` + ``reflexive pronoun`` + ``verb``
+   
+   **negation syntax**
+   
+   ``subject`` + ``ne`` + ``reflexive pronoun`` + ``verb`` + ``pas``
+   
+.. list-table:: **reflexive pronouns**
+   :widths: auto
+   :header-rows: 1
+   :align: right
+   
+   * - subject
+     - r. pronoun
+     - example
+   * - **je**
+     - **me**
+     - Je me lave
+   * - **tu**
+     - **te**
+     - Tu te laves
+   * - **il / elle / on**
+     - **se**
+     - Il elle se lave
+   * - **nous**
+     - **nous**
+     - Nous nous lavons
+   * - **vous**
+     - **vous**
+     - Vous vous lavez
+   * - **ils / elles**
+     - **se**
+     - Ils/elles se lavent
+     
 |
 |
 
