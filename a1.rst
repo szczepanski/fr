@@ -390,15 +390,15 @@ temps futur proche
 |
 
 near future tense
-   *use*
+   **use**
    
    actions that are going to happen in the near future
    
-   *syntax*
+   **syntax**
    
    ``subject`` + ``aller in present`` + ``main verb infinitive``
    
-   *examples*
+   **examples**
    
    ``Je vais manger``
    
@@ -412,19 +412,21 @@ near future tense
 
    ``Ils / Elles vont faire``
    
-   *negation syntax*
+   **negation syntax**
    
    ``subject`` + ``ne`` + ``aller in present`` + ``pas`` + ``main verbb in infinitive``
    
-   *examples*
+   **examples**
    
    ``Je ne vais pas aller avec eux car je vais travailler``
    
    ``Ils ne vont pas aller au cinéma``
    
-   *futur proche with reflexive verbs*
+   **futur proche with reflexive verbs**
    
    place reflexive pronoun after verb "aller", before the infinitive
+   
+   **examples**
    
    ``Je vais me coucher / I am going to go to bed``
    
@@ -445,15 +447,15 @@ passé composé
 |
 
 passé composé 
-   *use*
+   **use**
    
    completed actions at any time in the past
 
-   *syntax*
+   **syntax**
    
    ``subject`` + ``avoir or être in present`` + ``main verb in past participle``
 
-   *examples*
+   **examples**
    
    ``j'ai mangé``
    
@@ -467,16 +469,31 @@ passé composé
    
    ``ils / elles ont vendu``
 
-   *negation syntax*
+   **negation syntax**
    
    ``subject`` + ``ne / n'`` + ``avoir or être in present`` + ``pas``+ main verb in past participle``
    
-   *examples*
+   **examples**
    
    ``Je n'ai pas choisi ce restaurant``
    
    ``Elle n'a pas répondu à mon message``
    
+   **questions syntax**
+   
+   ``avoir or être in present`` + ``hyphen`` + ``subject`` + ``main verb past participle``
+   
+   *When subject is il, elle or on -> add 't' between verb avoir and the subject*
+   
+   **examples**
+   
+   ``As-tu mangé avec ton frère pendant le week-end?``
+   
+   ``Avez-vous visité Lyon pendant votre voyage ?``
+   
+   ``A-t-elle joué au tennis pendant le week-end ?``
+   
+   ``A-t-il regardé un film hier soir ?``
 
    
    
