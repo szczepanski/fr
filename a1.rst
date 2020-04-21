@@ -396,7 +396,9 @@ near future tense
    
    *syntax*
    
-   **subject** + **aller** in in **present** tense + main verb **infinitive**
+   ``subject`` + ``aller in present`` + ``main verb infinitive``
+   
+   *examples*
    
    ``Je vais manger``
    
@@ -412,7 +414,9 @@ near future tense
    
    *negation syntax*
    
-   **subject** + **ne** + **aller** **present tense** + **pas** + main verb **infinitive**
+   ``subject`` + ``ne`` + ``aller in present`` + ``pas`` + ``main verbb in infinitive``
+   
+   *examples*
    
    ``Je ne vais pas aller avec eux car je vais travailler``
    
@@ -449,6 +453,34 @@ passé composé
    
    ``subject`` + ``avoir or être in present`` + ``main verb in past participle``
 
+   *examples*
+   
+   ``j'ai mangé``
+   
+   ``tu as fini``
+   
+   ``il / elle / on a répondu``
+   
+   ``nous avons visité``
+   
+   ``vous avez choisi``
+   
+   ``ils / elles ont vendu``
+
+   *negation syntax*
+   
+   ``subject`` + ``ne / n'`` + ``avoir or être in present`` + ``pas``+ main verb in past participle``
+   
+   *examples*
+   
+   ``Je n'ai pas choisi ce restaurant``
+   
+   ``Elle n'a pas répondu à mon message``
+   
+
+   
+   
+   
 |
 
 .. list-table:: **regular verbs - past participle**
