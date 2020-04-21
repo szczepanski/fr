@@ -1715,11 +1715,32 @@ se coiffer
    to do your hair
 se coucher
    to go to bed
-   
+avoir chaud
+   to be hot
+avoir froid
+   to be cold
+avoir faim
+   to be hungry
+avoir soif
+   to be thirsty
+avoir raison
+   to be right
+avoir tort
+   to be wrong
+avoir peur
+   to be scared
+avoir besoin de / d' + verb in infinitive 
+   to need
+avoir envie de
+   to feel like
+Je crois que
+   I think that ...
+
+
 |
 |
 
-@ 47
+@ 52
 ====
 
 |
