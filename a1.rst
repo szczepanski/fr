@@ -1272,6 +1272,39 @@ irregular present tense
 
 |
 
+.. list-table:: **voir** to see (present, irregular)
+   :widths: auto
+   :header-rows: 1
+   :align: right
+   
+   * - singular
+     - plural
+   * - je **vois**
+     - nous **voyons**
+   * - tu **vois**
+     - vous **voyez**
+   * - il / elle / on **voit**
+     - ils / elles **voient**
+
+|
+
+.. list-table:: **fair** to do, to make (present, irregular)
+   :widths: auto
+   :header-rows: 1
+   :align: right
+   
+   * - singular
+     - plural
+   * - je **fais**
+     - nous **faisons**
+   * - tu **fais**
+     - vous **faites**
+   * - il / elle / on **fait**
+     - ils / elles **font**
+
+|
+
+
 ****
 regular 1st group 'er' present tense
 ****
@@ -1797,11 +1830,17 @@ faire les magasins / faire les boutiques
    to go shopping
 voir des amis
    to see friends
+Il fait un froid de canard ! 
+   It's freezing cold!
+Tu vois ?
+   You know?
+Voyons voir...
+   Let's see...
 
 |
 |
 
-@ 54
+@ 55
 ====
 
 |
