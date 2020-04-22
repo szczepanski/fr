@@ -1783,12 +1783,25 @@ avoir envie de
    to feel like
 Je crois que
    I think that ...
-
+regarder un film
+   to watch a film (at home)
+voir un film
+   to watch a film (in cinema)
+voir une expo / exposition (infm / fm)
+   to see an exhibition
+prendre un verre
+   to go for drinks
+faire un pique-nique
+   to have a picnic 
+faire les magasins / faire les boutiques
+   to go shopping
+voir des amis
+   to see friends
 
 |
 |
 
-@ 53
+@ 54
 ====
 
 |
