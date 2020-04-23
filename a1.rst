@@ -1591,9 +1591,9 @@ regular 3rd group 're' present tense
 |
 |
  
-vocabulary
+vocabulary and phrases
 ====
-vocabulaire
+vocabulaire et phrases
 
 |
 
@@ -1900,7 +1900,24 @@ le menu
    fixed-price menu
 le plat / menu du jour
    the dish / menu of the day
-   
+J'adore !
+   I love it!   
+C'est excellent.
+   It's excellent.
+Je n'aime pas trop.
+   I don't really like it (in more polite way)
+salé
+   salty
+sucré
+   sweet
+Tu penses quoi de cette salade ?
+   What do you think of this salad?
+avoir l'air + (adjectif)
+   to look / seem + (adjective)
+Ta glace a l'air bonne.
+   Your ice cream looks good.
+Tu as l'air contente
+   You seem happy.
 |
 |
 
