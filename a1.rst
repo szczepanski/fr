@@ -1875,12 +1875,36 @@ un coca
 une coupe de champagne
    a glass of champagne
 Tchin-tchin ! / Santé ! / À la tienne !
-   Cheers   
+   Cheers
+Avez-vous une réservation ?
+   Do you have a reservation?
+Je voudrais une table pour quatre personnes
+   I would like a table for four people
+J'ai une réservation au nom de...
+   I have a reservation under the name...
+Nous allons commander à la carte.
+   We are going to order from the menu.
+Je vais prendre le menu à 15 €.
+   I am going to have the fixed menu for 15€.
+Quel est le plat du jour ?
+   What are the daily specials?
+Est-ce que vous avez... ?
+   Do you have...?
+Je vais prendre les lasagnes en plat principal.
+   I'll have the lasagna as the main course.
+Comme entrée je vais prendre une salade.
+   As a starter, I'll have a salad.
+la carte
+   main menu
+le menu
+   fixed-price menu
+le plat / menu du jour
+   the dish / menu of the day
    
 |
 |
 
-@ 56
+@ 59
 ====
 
 |
