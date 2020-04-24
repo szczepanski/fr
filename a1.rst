@@ -1948,6 +1948,23 @@ Ta glace a l'air bonne.
    Your ice cream looks good.
 Tu as l'air contente
    You seem happy.
+
+|
+|
+
+
+often
+   souvent
+at least
+   au moins
+the neighbourhood
+   le quartier
+almost
+   presque
+take a walk
+   se promener
+
+
 |
 |
 
