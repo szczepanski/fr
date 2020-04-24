@@ -507,7 +507,37 @@ passé composé
      - **>**
      - **u**
      - vendre > vendu
-     
+
+|
+
+.. list-table:: **common irregular verbs - past participle**
+   :widths: auto
+   :header-rows: 1
+   :align: right
+   
+   * - verb
+     - past participle
+   * - avoir - to have
+     - **eu**
+   * - être - to be
+     - **été**
+   * - dire - to say
+     - **dit**
+   * - faire - to do
+     - **fait**
+   * - voir - to see
+     - **vu**
+   * - boire - to drink
+     - **bu**
+   * - lire - to read
+     - **lu**
+   * - prendre - to take
+     - **pris**
+   * - apprendre - to learn
+     - **appris**
+   * - comprendre - to understand
+     - **compris**
+
 |
 |
 
