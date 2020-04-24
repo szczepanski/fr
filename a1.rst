@@ -1963,12 +1963,35 @@ almost
    presque
 take a walk
    se promener
-
+to book a hotel / a flight
+   réserver un hôtel / un vol
+to pack your bags
+   faire ses valises
+the check in
+   l'enregistrement / le check-in
+to rent an apartment / a house
+   louer un appartement / une maison
+the hostel
+   l'auberge
+to sightsee
+   faire du tourisme
+to travel
+   voyager
 
 |
 |
 
-@ 59
+practcie lessons
+====
+
+?
+
+Jean **s'est** logé dans une auberge de jeunesse à Shanghai
+
+|
+|
+
+@ 62
 ====
 
 |
