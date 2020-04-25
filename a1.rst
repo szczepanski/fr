@@ -475,10 +475,7 @@ passé composé
    
    **examples**
    
-   ``As-tu mangé avec ton frère pendant le week-end?`` ``Avez-vous visité Lyon pendant votre voyage ?`` ``A-t-elle joué au tennis pendant le week-end ?`` ``A-t-il regardé un film hier soir ?``
-
-   
-   
+   ``As-tu mangé avec ton frère pendant le week-end?`` ``Avez-vous visité Lyon pendant votre voyage ?`` ``A-t-elle joué au tennis pendant le week-end ?`` ``A-t-il regardé un film hier soir ?``   
    
 |
 
@@ -515,7 +512,7 @@ passé composé
    :header-rows: 1
    :align: right
    
-   * - verb
+   * - verb infinitive
      - past participle
    * - avoir - to have
      - **eu**
@@ -538,6 +535,56 @@ passé composé
    * - comprendre - to understand
      - **compris**
 
+|
+
+.. list-table:: **13 verbs that conjugate with être**
+   :widths: auto
+   :header-rows: 1
+   :align: right
+   
+   * - #
+     - verb infinitive
+     - past participle
+   * - 1
+     - monter (to go up)
+     - **monté**
+   * - 2
+     - rester (to stay)
+     - **resté**
+   * - 3
+     - sortir (to go out)
+     - **sorti**
+   * - 4
+     - venir (to come)
+     - **venu**
+   * - 5
+     - aller (to go)
+     - **allé**
+   * - 6
+     - naître (to be born)
+     - **né**
+   * - 7
+     - descendre (to go down)
+     - **descendu**
+   * - 8
+     - entrer (to go in)
+     - **entré**
+   * - 9
+     - tomber (to fall)
+     - **tombé**
+   * - 10
+     - retourner (to return)
+     - **retourné**
+   * - 11
+     - arriver (to arrive / to happen)
+     - **arrivé**
+   * - 12
+     - Mourir (to die)
+     - **mort**
+   * - 13
+     - partir (to leave)
+     - **parti**
+     
 |
 |
 
