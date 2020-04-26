@@ -539,9 +539,13 @@ passé composé - avoir and être
 passé composé - être
    **use**
    
-   no single principal reason, generally used with verbs of movement, motion, change of place or condition
+   - generally used with verbs of movement, motion, change of place or condition
    
-   with all reflexive verbs
+   ``Je suis allé au parc``
+   
+   - with all reflexive verbs
+   
+   ``Je me suis douché.`` ``Nous nous sommes amusés.`` ``ls se sont coiffés.`` ``u t'es levé.``
    
    **verb endings**
    
@@ -549,11 +553,19 @@ passé composé - être
    
    - masculine - no change
    
-   - masculine plural - add 's'
+   ``Il est allé à la plage``
+   
+   - masculine plural - add **s**
+   
+   ``Ils sont allés à la plage``
 
-   - feminine subjects - add 'e'
+   - feminine subjects - add **e**
+   
+   ``Elle est allée à la plage``
   
-   - feminine plural - add 'es'
+   - feminine plural - add **es**
+   
+   ``Elles sont allées à la plage.``
 
 |
 
