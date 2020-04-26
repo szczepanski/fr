@@ -529,8 +529,7 @@ passé composé - avoir and être
    * - lire - to read
      - **lu**
    * - prendre - to take
-     - **pris**
-   * - apprendre - to learn
+     - **pris**   * - apprendre - to learn
      - **appris**
    * - comprendre - to understand
      - **compris**
@@ -541,6 +540,20 @@ passé composé - être
    **use**
    
    no single principal reason, generally used with verbs of movement, motion, change of place or condition
+   
+   with all reflexive verbs
+   
+   **verb endings**
+   
+   past participle ending must match with  person or thing completing the action (subject)
+   
+   - masculine - no change
+   
+   - masculine plural - add 's'
+
+  - feminine subjects - add 'e'
+  
+  - feminine plural - add 'es'
 
 |
 
@@ -559,8 +572,8 @@ passé composé - être
      - rester (to stay)
      - **resté**
    * - 3
-     - sortir (to go out)
-     - **sorti**
+     - sortir, ressortir(to go out, to go out again)
+     - **sorti, ressorti**
    * - 4
      - venir, revenir (to come, to come back)
      - **venu, revenu**
@@ -574,8 +587,8 @@ passé composé - être
      - naître (to be born)
      - **né**
    * - 8
-     - descendre (to go down)
-     - **descendu**
+     - descendre, redescendre(to go down, to go down again)
+     - **descendu, redescendu**
    * - 9
      - entrer, rentrer (to go in, to go back in)
      - **entré, rentré**
@@ -589,11 +602,11 @@ passé composé - être
      - arriver (to arrive / to happen)
      - **arrivé**
    * - 13
-     - Mourir (to die)
+     - mourir (to die)
      - **mort**
    * - 14
-     - partir (to leave)
-     - **parti**
+     - partir, repartir (to leave, to leave again)
+     - **parti, reparti**
      
 |
 |
