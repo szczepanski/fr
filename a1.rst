@@ -564,7 +564,7 @@ passé composé - être
    * - 4
      - venir, revenir (to come, to come back)
      - **venu, revenu**
-  * - 5
+   * - 5
      - devenir (to become)
      - **devenu**
    * - 6
