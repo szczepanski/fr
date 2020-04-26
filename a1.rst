@@ -446,7 +446,7 @@ passé composé
 
 |
 
-passé composé 
+passé composé - avoir and être
    **use**
    
    completed actions at any time in the past
@@ -537,17 +537,24 @@ passé composé
 
 |
 
-.. list-table:: **13 verbs that conjugate with être**
+passé composé - être
+   **use**
+   
+   no single principal reason, generally used with verbs of movement, motion, change of place or condition
+
+|
+
+.. list-table:: **14 verbs conjugating with être**
    :widths: auto
    :header-rows: 1
    :align: right
    
-   * - #
+   * - 
      - verb infinitive
      - past participle
    * - 1
-     - monter (to go up)
-     - **monté**
+     - monter, remonter (to go up, to go back up) 
+     - **monté, remonté**
    * - 2
      - rester (to stay)
      - **resté**
@@ -555,33 +562,36 @@ passé composé
      - sortir (to go out)
      - **sorti**
    * - 4
-     - venir (to come)
-     - **venu**
-   * - 5
+     - venir, revenir (to come, to come back)
+     - **venu, revenu**
+  * - 5
+     - devenir (to become)
+     - **devenu**
+   * - 6
      - aller (to go)
      - **allé**
-   * - 6
+   * - 7
      - naître (to be born)
      - **né**
-   * - 7
+   * - 8
      - descendre (to go down)
      - **descendu**
-   * - 8
-     - entrer (to go in)
-     - **entré**
    * - 9
-     - tomber (to fall)
-     - **tombé**
+     - entrer, rentrer (to go in, to go back in)
+     - **entré, rentré**
    * - 10
+     - tomber, retomber(to fall, to fall again)
+     - **tombé, retombé**
+   * - 11
      - retourner (to return)
      - **retourné**
-   * - 11
+   * - 12
      - arriver (to arrive / to happen)
      - **arrivé**
-   * - 12
+   * - 13
      - Mourir (to die)
      - **mort**
-   * - 13
+   * - 14
      - partir (to leave)
      - **parti**
      
@@ -2033,7 +2043,11 @@ practcie lessons
 
 ?
 
-Jean **s'est** logé dans une auberge de jeunesse à Shanghai
+- Jean **s'est** logé dans une auberge de jeunesse à Shanghai
+se loger ...
+
+- confirm etre passse compose etre 14 verbs
+
 
 |
 |
