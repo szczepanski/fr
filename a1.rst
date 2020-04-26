@@ -551,9 +551,9 @@ passé composé - être
    
    - masculine plural - add 's'
 
-  - feminine subjects - add 'e'
+   - feminine subjects - add 'e'
   
-  - feminine plural - add 'es'
+   - feminine plural - add 'es'
 
 |
 
