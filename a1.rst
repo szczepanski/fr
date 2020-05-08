@@ -590,6 +590,29 @@ passé composé - être
 
 |
 
+Dr M. VANDERTRAMPS
+
+|
+``**D**evenir``
+Retourner
+.
+Monter
+.
+Venir
+Aller
+Naître
+Descendre
+Entrer
+Rester
+Tomber
+Rentrer
+Arriver
+Mourir
+Partir
+Sortir
+|
+
+
 .. list-table:: **14 verbs conjugating with être**
    :widths: auto
    :header-rows: 1
