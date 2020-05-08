@@ -590,28 +590,6 @@ passé composé - être
 
 |
 
-Dr M. VANDERTRAMPS
-
-|
-``**D**evenir``
-Retourner
-.
-Monter
-.
-Venir
-Aller
-Naître
-Descendre
-Entrer
-Rester
-Tomber
-Rentrer
-Arriver
-Mourir
-Partir
-Sortir
-|
-
 
 .. list-table:: **14 verbs conjugating with être**
    :widths: auto
@@ -663,7 +641,17 @@ Sortir
    * - 14
      - partir, repartir (to leave, to leave again)
      - **parti, reparti**
-     
+
+|
+
+memorizing acronym
+
+Dr M. VANDERTRAMPS
+
+|
+
+**D**evenir **R**etourner **M** **V**enir **A**ller **N**aître **D**escendre **E**ntrer **R**ester **T**omber **R**entrer **A**rriver **M**ourir **P**artir **S**ortir
+
 |
 |
 
