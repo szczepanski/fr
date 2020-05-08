@@ -535,6 +535,19 @@ passé composé - avoir and être
    * - comprendre - to understand
      - **compris**
 
+   Some verbs take both avoir and être depending on the case.
+   Normally, they take avoir when they are followed by a direct object. 
+
+
+Être ``Tu es descendu.``
+Avoir ``Tu as descendu ta valise.``
+
+Être ``Elles sont montées.``
+Avoir ``Elles ont monté l'escalier.``
+
+Être ``Je suis sorti.``
+Avoir ``J'ai sorti mon portefeuille.``
+
 |
 
 passé composé - être
