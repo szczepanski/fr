@@ -1100,14 +1100,12 @@ faire + du / de la / de l' + activity
 
 |
 
-**- use of 'si'**
+**- use of 'si' in responses**
 
 |
 
 si or si si
-   reply to a negative question or statement
-   
-   repeating the word si shows that the person speaking really wants to point out that the other person is wrong!
+   used as reply to a negative question or statement, repetition emphasises answer
    
    ``Vous n'avez visité aucun musée ?`` ``Si si ! (Yes, we did!)``
    
