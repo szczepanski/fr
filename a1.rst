@@ -1201,7 +1201,7 @@ prononciation
 - **sound é**
    - lips spread as if when smiling
    - tip of tongue touching bottom front teeth
-   - sound applies in:
+   - sound é can be written as:
       - **é, ée**
       - ``fatigué(e), stressée``
       - **es**
@@ -1248,7 +1248,7 @@ prononciation
 
 |
 
-- **sound g as in génial**
+- **sound g (génial)**
    - applied before
       - 'e'
       - ``génial, gentil``
@@ -1260,7 +1260,7 @@ prononciation
 
 |
 
-- **sound g as in gare**
+- **sound g (gare)**
    - applied before
       - consonants
       - ``grand, glace``
@@ -1293,6 +1293,28 @@ prononciation
    - mouth almost closed
    - tongue is at back of mouth, doesn't touch teeth
 
+|
+
+**-  sound s**
+
+|
+
+- **sound s**
+   - pronounced
+      - at start of word ``salut``
+      - between two consonants ``installer``
+      - between vowel and consonant ``personne``
+   - silent
+      - at end of word (with some rare exceptions) ``parents gentils``
+   - sound s can be written as:
+      - **s** ``détester simple``
+      - **ss** ``dessert poisson``
+      - **tie** ``ambitieux``
+      - **tio** ``perfection``
+      - **ci** ``cinq``
+      - **ce** ``cerise``
+      - **cy** ``bicyclette``
+      - **ç** ``façon garçon``
 
 |
 |
