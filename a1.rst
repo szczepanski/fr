@@ -1112,6 +1112,17 @@ si or si si
    ``Tu ne viens pas avec moi.`` ``Si, je viens ! (Yes I am!)``
 
 |
+
+**- colors**
+
+colors
+   when ending with e feminine and masculine forms stay same ``rouge``
+   
+   orange and marron stay same regardless of gender and number
+
+   noir / noire, blanc / blanche, gris / grise, bleu / bleue, vert / verte, rouge, jaune, orange, marron
+
+|
 |
 
 accents
