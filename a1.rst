@@ -1097,7 +1097,22 @@ faire + du / de la / de l' + activity
    ``faire de l'équitation (horse riding)``
    
    ``faire du vélo``
+
+|
+
+**- use of 'si'**
+
+|
+
+si or si si
+   reply to a negative question or statement
    
+   repeating the word si shows that the person speaking really wants to point out that the other person is wrong!
+   
+   ``Vous n'avez visité aucun musée ?`` ``Si si ! (Yes, we did!)``
+   
+   ``Tu ne viens pas avec moi.`` ``Si, je viens ! (Yes I am!)``
+
 |
 |
 
