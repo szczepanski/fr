@@ -462,10 +462,11 @@ passé composé - avoir and être
 
 |
 
-``nous avons visité`` ``vous avez choisi`` ``ils / elles ont vendu``
+   ``nous avons visité`` ``vous avez choisi`` ``ils / elles ont vendu``
 
 |
-``Nous sommes allés travailler ce matin``
+
+   ``Nous sommes allés travailler ce matin``
 
    **negation syntax**
    
@@ -473,7 +474,11 @@ passé composé - avoir and être
    
    **examples**
    
-   ``Je n'ai pas choisi ce restaurant`` ``Elle n'a pas répondu à mon message`` ``Nous ne sommes pas allés travailler ce matin`` ``Elle n'est pas allée à la plage ce week-end.``
+   ``Je n'ai pas choisi ce restaurant`` ``Elle n'a pas répondu à mon message`` 
+   
+|
+   
+   ``Nous ne sommes pas allés travailler ce matin`` ``Elle n'est pas allée à la plage ce week-end.``
    
    **questions syntax**
    
@@ -483,7 +488,14 @@ passé composé - avoir and être
    
    **examples**
    
-   ``As-tu mangé avec ton frère pendant le week-end?`` ``Avez-vous visité Lyon pendant votre voyage ?`` ``Est-elle arrivée ? `` ``Sont-ils allés à ta fête ? `` ``Êtes-vous restés à la maison pendant le week-end?``
+   ``As-tu mangé avec ton frère pendant le week-end?`` ``Avez-vous visité Lyon pendant votre voyage ?`` 
+   
+|
+   
+   ``Est-elle arrivée ? `` ``Sont-ils allés à ta fête ? `` ``Êtes-vous restés à la maison pendant le week-end?``
+   
+|
+   
    ``A-t-elle joué au tennis pendant le week-end ?`` ``A-t-il regardé un film hier soir ?``   
    
 |
