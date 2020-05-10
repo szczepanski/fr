@@ -492,7 +492,11 @@ passé composé - avoir and être
    
 |
    
-   ``Est-elle arrivée ? `` ``Sont-ils allés à ta fête ? `` ``Êtes-vous restés à la maison pendant le week-end?``
+   ``Est-elle arrivée ? `` ``Sont-ils allés à ta fête ? `` 
+   
+|
+   
+   ``Êtes-vous restés à la maison pendant le week-end?``
    
 |
    
