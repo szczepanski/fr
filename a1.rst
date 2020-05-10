@@ -1,5 +1,5 @@
 **beginner - a1**
-----
+-----------------
 
 |
 |
@@ -8,8 +8,9 @@
 
 |
 |
+
 contents
-====
+========
 .. comment --> depth describes headings level inclusion
 .. contents:: .
    :depth: 10
@@ -18,7 +19,7 @@ contents
 |
 
 subject pronouns
-====
+================
 pronoms sujets
 
 zaimki
@@ -50,7 +51,7 @@ zaimki
 
 
 adjectives
-====
+==========
 adjectifs
 
 |
@@ -78,7 +79,7 @@ adjectifs
 |
 
 negative sentences
-====
+==================
 phrases négatives
 
 |
@@ -101,7 +102,7 @@ c'est pas
 |
 
 gender of nouns
-====
+===============
 genre des noms
 
 |
@@ -146,7 +147,7 @@ ure
 |
 
 definite articles
-====
+=================
 les articles définis
 
 |
@@ -176,7 +177,7 @@ les
 |
 
 indefinite articles
-====
+===================
 les articles indéfinis
 
 |
@@ -203,7 +204,7 @@ des
 |
 
 habite à / dans / avec
-====
+======================
 
 |
 
@@ -231,7 +232,7 @@ Tu habites avec qui ?
 
 
 possessive adjectives 
-====
+=====================
 adjectifs possessifs 
 
 |
@@ -334,14 +335,14 @@ nos, vos, leurs
 |
 
 tenses
-====
+======
 
 |
 |
 
-****
+*******
 present
-****
+*******
 temps présent
 régulier
 
@@ -382,9 +383,9 @@ pronouncitation
 |
 |
 
-****
+***********
 near future
-****
+***********
 temps futur proche
 
 |
@@ -439,9 +440,9 @@ near future tense
 |
 |
 
-****
+*************
 compound past
-****
+*************
 passé composé 
 
 |
@@ -457,7 +458,14 @@ passé composé - avoir and être
 
    **examples**
    
-   ``j'ai mangé`` ``tu as fini`` ``il / elle / on a répondu`` ``nous avons visité`` ``vous avez choisi`` ``ils / elles ont vendu`` ``Nous sommes allés travailler ce matin``
+   ``j'ai mangé`` ``tu as fini`` ``il / elle / on a répondu``
+
+|
+
+``nous avons visité`` ``vous avez choisi`` ``ils / elles ont vendu``
+
+|
+``Nous sommes allés travailler ce matin``
 
    **negation syntax**
    
@@ -530,7 +538,8 @@ passé composé - avoir and être
    * - lire - to read
      - **lu**
    * - prendre - to take
-     - **pris**   * - apprendre - to learn
+     - **pris**   
+   * - apprendre - to learn
      - **appris**
    * - comprendre - to understand
      - **compris**
@@ -657,7 +666,7 @@ Dr M. VANDERTRAMPS
 
 
 partitive articles de du d' des
-====
+===============================
 
 |
 
@@ -751,7 +760,7 @@ verbs of preference (aimer, adorer, détester)
 |
 
 plural of nouns
-====
+===============
 
 |
 
@@ -796,7 +805,7 @@ plural forms
 |
 
 demonstrative adjectives
-====
+========================
 les adjectifs démonstratifs
 
 *przymiotniki indykatywne*
@@ -820,12 +829,13 @@ ces
    plural masculine and feminine
    
    ``ces restaurants sont fermés``
+
 |
 |
 
 
 questions
-====
+=========
 les questions
 
 |
@@ -833,6 +843,7 @@ les questions
 in French space should be placed between last word and question mark
 
 |
+
 **forming questions**
 
 |
@@ -889,7 +900,7 @@ où, quand, oher
 ``Tu viens du Japon ?``
    
 reflexive verbs
-====
+===============
 les verbes réfléchis
 
 |
@@ -949,7 +960,7 @@ reflexive verbs
 |
 
 nuances
-====
+=======
 les nuances
 
 |
@@ -972,6 +983,7 @@ when je precedes a word starting with a, e, i, o, u, y or h
 |
 
 **- articles in front of nouns in jobs context**
+
 always use articles in front of nouns 
    except when describing profession using the verb 'être'
    
@@ -990,7 +1002,7 @@ used to describe which sector person works
    
    ``On travaille dans la finance.``
    
-   ``Elle travaille dans la publicité. ``
+   ``Elle travaille dans la publicité.``
    
 |
    
@@ -1126,7 +1138,7 @@ colors
 |
 
 accents
-====
+=======
 les accents
 
 |
@@ -1189,7 +1201,7 @@ les accents
 |
 
 pronunciation 
-====
+=============
 prononciation
 
 |
@@ -1345,14 +1357,14 @@ prononciation
 
 
 verbs
-====
+=====
 verbes
 
 |
 
-****
+***********************
 irregular present tense
-****
+***********************
 
 |
 
@@ -1363,12 +1375,12 @@ irregular present tense
    
    * - singular
      - plural
-   * - je / j' ****
-     - nous ****
-   * - tu ****
-     - vous ****
-   * - il / elle / on ****
-     - ils / elles ****
+   * - je / j' **...**
+     - nous **...**
+   * - tu **...**
+     - vous **...**
+   * - il / elle / on **...**
+     - ils / elles **...**
 
 |
 
@@ -1519,9 +1531,9 @@ irregular present tense
 |
 
 
-****
+************************************
 regular 1st group 'er' present tense
-****
+************************************
 
 |
 
@@ -1640,10 +1652,10 @@ regular 1st group 'er' present tense
      - ils / elles **donnent**
 
 |
-****
-regular 2nd group 'ir' present tense 
-****
 
+************************************
+regular 2nd group 'ir' present tense 
+************************************
 |
 
 ``_is _is _it _issons _issez _issent``
@@ -1715,6 +1727,7 @@ regular 2nd group 'ir' present tense
      - ils / elles **réussissent**
 
 |
+
 .. list-table:: **réfléchir** to think (present, regular 2nd)
    :widths: auto
    :header-rows: 1
@@ -1730,9 +1743,10 @@ regular 2nd group 'ir' present tense
      - ils / elles **réfléchissent**
 
 |
-****
+
+************************************
 regular 3rd group 're' present tense 
-****
+************************************
 
 |
 
@@ -1775,14 +1789,10 @@ regular 3rd group 're' present tense
      - ils / elles **descendent**
 
 |
-
-
-
-|
 |
  
 vocabulary and phrases
-====
+======================
 vocabulaire et phrases
 
 |
@@ -2137,26 +2147,6 @@ to sightsee
    faire du tourisme
 to travel
    voyager
-
-|
-|
-
-practcie lessons
-====
-
-?
-
-- Jean **s'est** logé dans une auberge de jeunesse à Shanghai
-se loger ...
-
-- confirm etre passse compose etre 14 verbs
-
-
-|
-|
-
-@ 62
-====
 
 |
 |
