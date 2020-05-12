@@ -615,6 +615,12 @@ passé composé - être
 
 |
 
+memorizing acronym
+Dr M. VANDERTRAMPS
+
+**D** evenir **R** etourner **M** onter **V** enir **A** ller **N** aître **D** escendre **E** ntrer **R** ester **T** omber **R** entrer **A** rriver **M** ourir **P** artir **S** ortir
+
+|
 
 .. list-table:: **14 verbs conjugating with être**
    :widths: auto
@@ -622,61 +628,66 @@ passé composé - être
    :align: right
    
    * - 
+     -
      - verb infinitive
      - past participle
    * - 1
+     - **D**
+     - devenir (to become)
+     - **devenu**
+   * - 2
+     - **r.**
+     - retourner (to return)
+     - **retourné**
+   * - 3
+     - **M.**
      - monter, remonter (to go up, to go back up) 
      - **monté, remonté**
-   * - 2
-     - rester (to stay)
-     - **resté**
-   * - 3
-     - sortir, ressortir(to go out, to go out again)
-     - **sorti, ressorti**
    * - 4
+     - **V**
      - venir, revenir (to come, to come back)
      - **venu, revenu**
    * - 5
-     - devenir (to become)
-     - **devenu**
-   * - 6
+     - **a**
      - aller (to go)
      - **allé**
-   * - 7
+   * - 6
+     - **n**
      - naître (to be born)
      - **né**
-   * - 8
+   * - 7
+     - **d**
      - descendre, redescendre(to go down, to go down again)
      - **descendu, redescendu**
-   * - 9
+   * - 8
+     - **e**
      - entrer, rentrer (to go in, to go back in)
      - **entré, rentré**
+   * - 9
+     - **r**
+     - rester (to stay)
+     - **resté**
    * - 10
+     - **t**
      - tomber, retomber(to fall, to fall again)
      - **tombé, retombé**
    * - 11
-     - retourner (to return)
-     - **retourné**
-   * - 12
+     - *a*
      - arriver (to arrive / to happen)
      - **arrivé**
-   * - 13
+   * - 12
+     - **m**
      - mourir (to die)
      - **mort**
-   * - 14
+   * - 13
+     - **p**
      - partir, repartir (to leave, to leave again)
      - **parti, reparti**
-
-|
-
-memorizing acronym
-
-Dr M. VANDERTRAMPS
-
-|
-
-**D** evenir **R** etourner **M** onter **V** enir **A** ller **N** aître **D** escendre **E** ntrer **R** ester **T** omber **R** entrer **A** rriver **M** ourir **P** artir **S** ortir
-
+   * - 14
+     - **s**
+     - sortir, ressortir(to go out, to go out again)
+     - **sorti, ressorti**
+     
 |
 |
 
