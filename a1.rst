@@ -615,10 +615,6 @@ passé composé - être
 
 |
 
-**D** evenir **R** etourner **M** onter **V** enir **A** ller **N** aître **D** escendre **E** ntrer **R** ester **T** omber **R** entrer **A** rriver **M** ourir **P** artir **S** ortir
-
-|
-
 .. list-table:: **14 verbs used in passé composé with être - acronym Dr M. VANDERTAMPS**
    :widths: auto
    :header-rows: 1
