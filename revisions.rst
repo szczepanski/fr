@@ -25,25 +25,19 @@ a1 - beginner
 |
 
 ***********
-cooos
+gender
 ***********
 
 |
 
-
-
-|
-
-**gender**
-
-- generally 
+- general 
   add "-e" at end
   
   ``content/ contente``
 
   ``fatigué / fatiguée.``
 
-- if masuline ends with e
+- masuline ending with e
   no changes
   
   ``triste / triste calme/calme``
@@ -83,9 +77,9 @@ ure
 |
 |
 
+******************
 negative sentences
-==================
-phrases négatives
+******************
 
 |
 
@@ -94,99 +88,60 @@ how
 
 ``Je ne suis pas content. (wr / fm)``
 
-``Je suis pas content. (sp / infm)``
 
-**it is vs it is not**
-
-ce n'est pas
-   it is not (fm)
-c'est pas
-   it isn't (infm)
-
-|
-|
-
-gender of nouns
-===============
-genre des noms
+******************
+articles
+******************
 
 |
 
-
-
-definite articles
-=================
-les articles définis
-
-|
-
-*used to talk about specific thing or give an opinion / preference (love, hate, etc)*
+**definite**
 
 |
 
 le
-   masculine nouns
+   masculine
    
-   ``le garçon``
 la
-   feminine nouns
+   feminine
    
-   ``la fille``
 l'
-   masculine and feminine nouns starting with vowel or 'h'
+   masculine and feminine starting with vowel or 'h'
    
-   ``l'homme``   
 les
    masculine and feminine plural
-   
-   ``les garçons, les filles, les hommes``
-
+  
 |
 |
 
-indefinite articles
-===================
-les articles indéfinis
-
-|
-
-*used to talk about not specific thing*
+**indefinite**
 
 |
 
 un
-   masculine nouns including in front of a vowel
+   masculine
    
-   ``antoine a un téléphone noir``
 une
-   feminine nouns including in front of a vowel
-   
-   ``une vendeuse travaille dans une boutique``
-   
+   feminine   
+
 des
    masculine and feminine plural
    
-   ``nous avons des amies anglaises``   
-
 |
 |
 
+**********************
 habite à / dans / avec
-======================
-
+**********************
 |
 
 Tu habites où ?
    habiter + à (place, city / town / village)
       ``mon ami Jean habite à New York``
-      
-      ``lucie et Claire habitent à Bordeaux``
-      
+            
    habiter + dans (accommodation type)
       ``ma sœur habite dans un appart``
       
-      ``mes cousins habitent dans une maison``
-
 |
 
 Tu habites avec qui ?
