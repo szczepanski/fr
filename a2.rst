@@ -1,5 +1,5 @@
 **elementary - a2**
-----
+-------------------
 
 |
 |
@@ -15,3 +15,25 @@
 
 |
 |
+
+vocabulary and phrases
+======================
+
+|
+
+to go travelling
+   partir en voyage   
+to go abroad
+   partir à l'étranger
+a stay
+   un séjour
+to pack
+   faire ses valises
+a map
+   une carte
+the foreign exchange desk
+   le bureau de change
+Have a good holiday!
+   bonnes vacances
+   
+
