@@ -16,6 +16,46 @@
 |
 |
 
+Prepositions of place
+=====================
+
+|
+
+à 
+   in front of city
+au
+   in front of a masculine country
+en
+   in front of a feminine country
+aux
+   in front of a plural country
+
+|
+
+examples
+   ``Je pars à Madrid demain.``
+   
+   ``Je vais au Japon cet été.``
+   
+   ``Tu es déjà allé en France ?`` 
+   
+   ``Tu pars quand aux États-Unis ?``
+
+|
+|
+
+nuances
+=======
+
+|
+
+
+
+
+
+|
+|
+
 vocabulary and phrases
 ======================
 
