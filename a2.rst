@@ -35,5 +35,23 @@ the foreign exchange desk
    le bureau de change
 Have a good holiday!
    bonnes vacances
+the check-in desk
+   le comptoir d'enregistrement
+a cabin bag
+   un bagage cabine 
+a checked bag
+   un bagage en soute 
+a boarding pass
+   une carte d'embarquement
+a boarding gate
+   une porte d'embarquement 
+a flight
+   un vol
+to take off
+   décoller 
+to land
+   atterrir
+Here you go
+   tenez
    
 
