@@ -93,5 +93,18 @@ to land
    atterrir
 Here you go
    tenez
-   
+shirt
+   le chemise
+jeans
+   le jean
+skirt
+   la jupe
+the jumper
+   le pull
+the shoes
+   les chaussures
+jacket
+   la veste
+creased shirt
+   chemise froissée
 
