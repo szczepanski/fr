@@ -107,4 +107,16 @@ jacket
    la veste
 creased shirt
    chemise froissée
+transparent, see-through
+   transparent
+stripy
+   à rayures
+loose
+   large
+tight
+   serré
+the bigger size
+   la taille au dessus
+comfortable
+   confortable   
 
