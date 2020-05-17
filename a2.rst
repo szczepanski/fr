@@ -52,9 +52,28 @@ comparative
 more… than... / -er than...
    plus + adjective + que
    
-   plus + de + noun + que (de)
-
-
+   plus + de + noun + que (de) 
+less / fewer… than...
+   moins + adjective + que
+   
+   moins + de + noun + que (de)
+as... as...
+   aussi + adjective + que
+   
+   autant + de + noun + que de 
+examples
+   ``Le pantalon noir est plus court que le pantalon rouge.``
+   
+   ``Il y a plus de vestes que de chemises dans cette boutique.``
+   
+   ``Ce jean me va mieux car il est moins large que ce pantalon.``
+   
+   ``Il y a moins de vestes que de chemises dans cette boutique.``
+   
+   ``Ce pull est aussi large que cette veste. ``
+   
+   ``Il y a autant de vestes que de chemises dans cette boutique``
+   
 |
 |
 
