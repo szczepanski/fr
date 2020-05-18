@@ -80,6 +80,58 @@ examples
 |
 |
 
+negatives
+========
+
+|
+
+ne ... plus
+   no longer / anymore
+
+ne ... jamais
+   never / not ever
+
+ne ... rien
+   nothing / not anything
+
+ne ... personne
+   nobody / no one / not anybody
+
+examples
+   Marc ne mange plus de pain pour le petit déjeuner.
+   
+   Marie n'a jamais mangé de fruits de mer.(Marie has never eaten seafood.)
+   
+   Il n'a rien acheté au marché ce matin. (He didn't buy anything at the market this morning.)
+   
+   Personne ne veut cuisiner ce soir !
+
+|
+
+ne … pas / ne … plus / ne … jamais
+   always surrounds
+   
+   - main verb (present simple)
+   
+   - auxiliary verb (passé composé / futur proche)
+   
+examples
+   Je ne joue (main verb) plus de la guitare.
+
+   Ils ne vont (auxiliary verb) pas aller au supermarché.
+   
+   Nous n'avons (auxiliary verb) rien acheté. We haven't bought anything.
+   
+|
+
+Written Vs spoken French
+   Je ne sais pas.
+   
+   Je sais pas.
+
+|
+|
+
 
 nuances
 =======
@@ -155,5 +207,35 @@ tight
 the bigger size
    la taille au dessus
 comfortable
-   confortable   
+   confortable
+to go shopping
+   faire les magasins
+Where can I find...
+   Où est-ce que je peux trouver...
+Excuse me, I'm looking for...
+   Excusez-moi, je cherche...
+Are you paying by card or by cash?
+   Vous payez par carte ou en espèces ?
+a plastic bag
+   un sac en plastique
+the receipt
+   le ticket de caisse
+What are you going to wear?
+   Comment tu vas t'habiller ?
+I like / don't like how you dress.
+   Je trouve que tu t'habilles bien / Je trouve que tu t'habilles mal.
+What's your size?
+   Quelle est ta taille ?
+My size is...
+   Je fais du...
+What's your shoe size?
+   Quelle est ta pointure ?
+My shoe size is...
+   Je chausse du...
+I'd like a smaller / larger size please.
+   Je voudrais une taille en dessous / au dessus s'il vous plaît.
+That (does not) suits you!
+   Ça (ne) te va (pas) bien !
+That dress doesn't really suit you.
+   Cette robe ne te va pas bien.
 
