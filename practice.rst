@@ -21,10 +21,25 @@ contents
 |
 |
 
-Monday 18/05/20
+mon 18-05-20
 ===============
 
 |
+
+**present tenses**
+
+1st group - ER -
+   **_e, _es, _e, _ons, _ez, _ent**
+2nd group - IR -
+   **_is, _is, _it, _issons, _issez, _issent**
+3rd group
+   re
+      ****
+   ir
+      ****
+   oir
+      ****
+   ds, -ds, -d, -dons, -dez, -dent
 
 PARLER je parl-e e ils parl-ent finir FIN-IR je fin-is tu fin-is il fin-it OUVRIR 
 
