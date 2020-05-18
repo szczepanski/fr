@@ -46,8 +46,7 @@ aux
 
 |
 
-`top <contents>`_
-
+.. contents: 
 
 |
 |
