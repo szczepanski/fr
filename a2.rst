@@ -64,18 +64,18 @@ as... as...
    
    autant + de + noun + que de 
 
-examples
-   Le pantalon noir est plus court que le pantalon rouge.
-   
-   Il y a plus de vestes que de chemises dans cette boutique.
-   
-   Ce jean me va mieux car il est moins large que ce pantalon.
-   
-   Il y a moins de vestes que de chemises dans cette boutique.
-   
-   Ce pull est aussi large que cette veste.
-   
-   Il y a autant de vestes que de chemises dans cette boutique
+   examples
+      Le pantalon noir est plus court que le pantalon rouge.
+
+      Il y a plus de vestes que de chemises dans cette boutique.
+
+      Ce jean me va mieux car il est moins large que ce pantalon.
+
+      Il y a moins de vestes que de chemises dans cette boutique.
+
+      Ce pull est aussi large que cette veste.
+
+      Il y a autant de vestes que de chemises dans cette boutique
    
 |
 |
