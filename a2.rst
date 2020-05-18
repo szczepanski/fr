@@ -9,13 +9,13 @@
 |
 |
 
-contents
+up
 ========
 
 |
 
 .. comment --> depth describes headings level inclusion
-.. contents:: .
+.. contents:: contents
    :depth: 10
 
 |
@@ -46,11 +46,7 @@ aux
 
 |
 
-contents_
-
-|
-
-:ref:`up text<contents>`
+up_
 
 |
 |
