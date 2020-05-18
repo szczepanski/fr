@@ -9,13 +9,13 @@
 |
 |
 
-up
+contents
 ========
 
 |
 
 .. comment --> depth describes headings level inclusion
-.. contents:: contents
+.. contents:: .
    :depth: 10
 
 |
@@ -46,7 +46,7 @@ aux
 
 |
 
-up_
+contents_
 
 |
 |
@@ -84,6 +84,10 @@ as... as...
 
       Il y a autant de vestes que de chemises dans cette boutique
    
+|
+
+contents_
+
 |
 |
 
@@ -184,8 +188,11 @@ indefinite articles (un, une, des) and partitive articles (du, de la, de l')
       On a une voiture. On n'a plus de voiture. 
       
 |
-|
 
+contents_
+
+|
+|
 
 nuances
 =======
@@ -195,6 +202,10 @@ nuances
 
 
 
+
+|
+
+contents_
 
 |
 |
@@ -292,4 +303,16 @@ That (does not) suits you!
    Ça (ne) te va (pas) bien !
 That dress doesn't really suit you.
    Cette robe ne te va pas bien.
+
+
+
+
+
+
+|
+
+contents_
+
+|
+|
 
