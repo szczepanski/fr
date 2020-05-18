@@ -48,7 +48,9 @@ aux
 
 contents_
 
-A link-  :ref:`contents`
+|
+
+:ref:`up text<contents>`
 
 |
 |
