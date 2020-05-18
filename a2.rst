@@ -78,7 +78,7 @@ as... as...
 |
 |
 
-negatives
+negative expressions
 ========
 
 |
@@ -127,6 +127,53 @@ Written Vs spoken French
    
    Je sais pas.
 
+
+|
+
+rien as subject
+   placed at begining of sentence
+   
+   examples
+      Rien ne va plus ! Nothing is going right!
+      
+      Rien ne marche ! Nothing is working!
+
+|
+
+use of personne
+   passé composé - after past participle
+
+   futur proche - after infinitive
+
+   other tenses - after verb
+
+   personne as subject - place ne directly after personne
+   
+   examples
+      Je n'ai vu personne.
+   
+      Je ne vais voir personne aujourd'hui.
+      
+      Il ne connaît personne à la fête. 
+      
+      Personne ne veut venir à la fête.
+
+|
+
+indefinite articles (un, une, des) and partitive articles (du, de la, de l')
+   become de or d' within negative expressions
+   
+   definite articles (le, la, les) stay same
+   
+   examples
+      J'ai de l'argent. Je n'ai pas d'argent.
+      
+      Elle achète du poulet. Elle n'achète pas de poulet.
+      
+      Nous allons manger des pommes. Nous n'allons pas manger de pommes. 
+      
+      On a une voiture. On n'a plus de voiture. 
+      
 |
 |
 
