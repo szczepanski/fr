@@ -1,5 +1,5 @@
 **practice**
--------------------
+------------
 
 |
 |
@@ -34,12 +34,11 @@ mon 18-05-20
    **_is, _is, _it, _issons, _issez, _issent**
 3rd group
    re
-      ****
+      **eee**
    ir
-      ****
+      **eee**
    oir
-      ****
-   ds, -ds, -d, -dons, -dez, -dent
+      **eee**
 
 PARLER je parl-e e ils parl-ent finir FIN-IR je fin-is tu fin-is il fin-it OUVRIR 
 
