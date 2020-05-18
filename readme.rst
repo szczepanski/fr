@@ -3,6 +3,10 @@
 *...from scratch*
 
 |
+
+based on notes from busuu.com course
+
+|
    
 `beginner - a1 <https://github.com/szczepanski/fr/blob/master/a1.rst>`_
 
