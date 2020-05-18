@@ -46,7 +46,7 @@ aux
 
 |
 
-.. _contents: 
+contents_
 
 |
 |
