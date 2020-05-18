@@ -30,16 +30,14 @@ en
 aux
    in front of a plural country
 
-|
+   examples
+      Je pars à Madrid demain.
 
-examples
-   Je pars à Madrid demain.
-   
-   Je vais au Japon cet été.
-   
-   Tu es déjà allé en France ?
-   
-   Tu pars quand aux États-Unis ?
+      Je vais au Japon cet été.
+
+      Tu es déjà allé en France ?
+
+      Tu pars quand aux États-Unis ?
 
 |
 |
@@ -115,12 +113,12 @@ ne … pas / ne … plus / ne … jamais
    
    - auxiliary verb (passé composé / futur proche)
    
-examples
-   Je ne joue (main verb) plus de la guitare.
+   examples
+      Je ne joue (main verb) plus de la guitare.
 
-   Ils ne vont (auxiliary verb) pas aller au supermarché.
-   
-   Nous n'avons (auxiliary verb) rien acheté. We haven't bought anything.
+      Ils ne vont (auxiliary verb) pas aller au supermarché.
+
+      Nous n'avons (auxiliary verb) rien acheté. We haven't bought anything.
    
 |
 
