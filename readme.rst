@@ -4,7 +4,7 @@
 
 |
 
-based on notes from busuu.com course
+*busuu.com course notes*
 
 |
    
