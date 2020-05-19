@@ -290,6 +290,22 @@ imperfect tense / imparfait
 
 |
 
+.. list-table:: example - étudier -> nous **étudi** ons (duble ii in nous and vous)
+   :widths: auto
+   :header-rows: 1
+   :align: right
+
+   * - singular
+     - plural
+   * - je étudi **ais**
+     - nous étudi **ions**
+   * - tu étudi **ais**
+     - vous étudi **iez**
+   * - il / elle / on étudi **ait**
+     - ils / elles étudi **aient**
+
+|
+
 contents_
 
 |
