@@ -261,10 +261,17 @@ imparfait
 |
 
 imperfect tense / imparfait
-   use for:
+   descriptive past tense used for:
    
    - regular / ongoing actions in past
    - physical and emotional descriptions in past
+   
+   syntax
+      nous form present verb **without ons** + ending
+   examples
+      regular -> J'allais chez mes grands-parents chaque semaine.     
+      
+      descriptive - Mes grands-parents habitaient à côté de chez moi.
 
 |
 
