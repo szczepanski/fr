@@ -415,6 +415,32 @@ the cup / mug
    la tasse
 cutlery
    es couverts
+to explain
+   expliquer
+to listen
+   écouter
+to revise
+   réviser
+to pass
+   réussir
+to fail
+   rater
+to learn
+   apprendre
+to retake
+   redoubler
+to make a mistake
+   faire une erreur
+to take an exam
+   passer un examen
+primary school
+   l'école
+secondary school (ages 11-14)
+   le collège
+secondary school (ages 15-17)
+   le lycée
+university
+   l'université
 
 
 
