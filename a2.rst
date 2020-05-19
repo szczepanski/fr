@@ -46,22 +46,6 @@ aux
 
 |
 
-.. list-table:: example - avoir - nous **av** ons
-   :widths: auto
-   :header-rows: 1
-   :align: right
-
-   * - singular
-     - plural
-   * - je av**ais**
-     - nous av**ions**
-   * - tu av**ais**
-     - vous av**iez**
-   * - il / elle / on av**ait**
-     - ils / elles av**aient**
-
-|
-
 contents_
 
 |
@@ -259,8 +243,7 @@ imperative
       
       Tu coupes les carottes. -> Coupe les carottes!
       
-      Tu n'oublies pas. -> N'oublie pas.
-      
+      Tu n'oublies pas. -> N'oublie pas.    
 
 |
 
@@ -288,6 +271,22 @@ imperfect tense / imparfait
       regular -> J'allais chez mes grands-parents chaque semaine.     
       
       descriptive - Mes grands-parents habitaient à côté de chez moi.
+
+|
+
+.. list-table:: example - avoir -> nous **av** ons
+   :widths: auto
+   :header-rows: 1
+   :align: right
+
+   * - singular
+     - plural
+   * - je av **ais**
+     - nous av **ions**
+   * - tu av **ais**
+     - vous av **iez**
+   * - il / elle / on av **ait**
+     - ils / elles av **aient**
 
 |
 
