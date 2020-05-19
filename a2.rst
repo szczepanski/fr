@@ -433,15 +433,32 @@ to make a mistake
    faire une erreur
 to take an exam
    passer un examen
+kindergarten / nursery (ages of 2 to 6)
+   l'école maternelle 
 primary school
    l'école
 secondary school (ages 11-14)
    le collège
 secondary school (ages 15-17)
    le lycée
-university
-   l'université
-
+university / uni (infm)
+   l'université / la fac
+department
+   la faculté
+the subject
+   la matière
+the timetable
+   l’emploi du temps
+the class
+   le cours
+the pupil
+   l'élève
+the student
+   l'étudiant
+the exam
+   l'examen
+the results
+   les résultats
 
 
 
