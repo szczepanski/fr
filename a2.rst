@@ -92,7 +92,7 @@ contents_
 |
 
 negative expressions
-========
+====================
 
 |
 
@@ -194,14 +194,36 @@ contents_
 |
 |
 
-nuances
+adverbs
 =======
 
 |
 
+adjective ending with e
+   add **ment**
+   
+adjective ending with ent
+      replace it with **emment**
 
+adjective ending with ant
+      replace it with **amment**
 
+examples
+   parfaite -> parfaitement, heureuse -> heureusement, facilement
+   
+   récent -> récemment, apparent -> apparemment
+   
+   constant -> constamment, bruyant -> bruyamment
 
+|
+
+contents_
+
+|
+|
+
+nuances
+=======
 
 |
 
