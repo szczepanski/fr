@@ -222,6 +222,36 @@ contents_
 |
 |
 
+imperative
+==========
+
+|
+
+imperative
+   used in orders, instructions with **tu, vous, nous**
+   
+   to form it use present tense verb and remove subject pronoun
+   
+   when used in 'tu' form with 1st gr verbs 'er', ending 's' needs to drop
+   
+   examples
+      Vous mettez la table -> Mettez la table ! 
+      
+      Tu fais attention. -> Fais attention!
+      
+      Tu ne prends pas mon téléphone. - > Ne prends pas mon téléphone.
+      
+      Tu coupes les carottes. -> Coupe les carottes!
+      
+      Tu n'oublies pas. -> N'oublie pas.
+      
+
+|
+contents_
+
+|
+|
+
 nuances
 =======
 
