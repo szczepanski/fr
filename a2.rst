@@ -303,7 +303,26 @@ That (does not) suits you!
    Ça (ne) te va (pas) bien !
 That dress doesn't really suit you.
    Cette robe ne te va pas bien.
-
+the terrace
+   la terrasse
+the dining room
+   la salle à manger
+a small kitchen
+   une kitchenette
+to rest
+   se reposer
+to watch TV
+   regarder la télé
+to read
+   lire
+to do some exercise
+   faire de l'exercice
+to listen to music
+   écouter de la musique
+to cook
+   préparer le repas
+to water the plants
+   arroser les plantes
 
 
 
