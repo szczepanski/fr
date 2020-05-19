@@ -268,9 +268,21 @@ imperfect tense / imparfait
    syntax
       nous form present verb **without ons** + ending
    examples
-      regular -> J'allais chez mes grands-parents chaque semaine.     
+      regular -> J'allais chez mes grands-parents chaque semaine.
+
+      regular -> Quand j'étais petit, nous allions à la plage chaque semaine.
       
       descriptive - Mes grands-parents habitaient à côté de chez moi.
+   
+   negation syntax
+      negative forms around verb in the imperfect tense.
+      
+      examples
+         On ne s'ennuyait jamais.
+         
+         Ils n'habitaient pas près de l'université. 
+         
+         Nous n'étudiions jamais ! 
 
 |
 
@@ -303,6 +315,22 @@ imperfect tense / imparfait
      - vous étudi **iez**
    * - il / elle / on étudi **ait**
      - ils / elles étudi **aient**
+
+|
+
+.. list-table:: exception - être -> stem is 'ét' not one based on nous form
+   :widths: auto
+   :header-rows: 1
+   :align: right
+
+   * - singular
+     - plural
+   * - je ét **ais**
+     - nous ét **ions**
+   * - tu ét **ais**
+     - vous ét **iez**
+   * - il / elle / on ét **ait**
+     - ils / elles ét **aient**
 
 |
 
