@@ -46,6 +46,22 @@ aux
 
 |
 
+.. list-table:: example - avoir - nous **av** ons
+   :widths: auto
+   :header-rows: 1
+   :align: right
+
+   * - singular
+     - plural
+   * - je av**ais**
+     - nous av**ions**
+   * - tu av**ais**
+     - vous av**iez**
+   * - il / elle / on av**ait**
+     - ils / elles av**aient**
+
+|
+
 contents_
 
 |
