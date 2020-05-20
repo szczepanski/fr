@@ -30,7 +30,7 @@ contents
 present tenses conjugation
 **************************
 
-`conjugation <https://en.wikibooks.org/wiki/French/Grammar/Verbs/Conjugations#First_Section_(-ir_verbs_/_gerund_ending_in_-ant)>`_
+`conjugation wikibooks <https://en.wikibooks.org/wiki/French/Grammar/Verbs/Conjugations#First_Section_(-ir_verbs_/_gerund_ending_in_-ant)>`_
 
 |
 
