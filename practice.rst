@@ -26,7 +26,9 @@ contents
 
 |
 
-**present tenses conjugation**
+**************************
+present tenses conjugation
+**************************
 
 1st group - ER -
    **_e, _es, _e, _ons, _ez, _ent**
