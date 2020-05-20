@@ -181,7 +181,38 @@ Old french used y which transitition in i
 |
 
 all quantity description use 'de / d' only not 'de le / la l' '  
-   Un kilo de fraises, une bouteille de vin, un verre de vin, un litre de lait, un pot de confiture, 
+   un kilo de fraises
+   
+   une barquette de fraises
+   
+   une bouteille de vin 
+   
+   un verre de vin
+   
+   un litre de lait
+   
+   un pot de confiture
+   
+   un paquet de pâtes
+   
+   un sac de pommes de terre
+   
+   une plaquette de beurre
+   
+   une botte de radis
+   
+   une botte de tulipes
+   
+   une boîte de Cammembert
+   
+   un sachet d'épinards
+
+
+
+   
+   
+
+
 
    
    
@@ -193,44 +224,22 @@ all quantity description use 'de / d' only not 'de le / la l' '
 Combien coûte un ... ?
    Un journal coûte 1 € 50
    
+   c’est très cher!
+   
+   C’est trop cher
 
-un paquet de pâtes
-| un sac de pommes de terre
-| une plaquette de beurre
-| une botte de radis
-| une botte de tulipes
-| une salade
-| c’est très cger!
-| cher
-| c’est assez cher
-| c’est bon marché
-| 20
-| une barquette de fraises
-| une boîte Cmmembert
-| Cammembert
-| de
-| un sachet d'épinards
-| Un packet de the , 50 €? C’ets très cher!
-| c'est
-| C’est trop cher
-| Une bouteille de vin , 300 €
-| Quel/quelle/quels/quelles
-| Quel age as -tu?
-| Quel est ton nom?
-| quelle haure est -il?
-| heure
-| Il est 2 hueres
-| une heure
-| & h
-| 1 h
-| 13 h
-| 16 h 45
-| 15h45
-| il est quatre heures moins le quart
-| 16 h 15
-| quatre heures et quart
-| 17 30
-| il est
+   c’est assez cher
+   
+   c’est bon marché
+
+
+Quel/quelle/quels/quelles
+   Quel age as -tu?
+   
+   Quel est ton nom?
+   
+   quelle haure est -il?
+
 
 
 operators
