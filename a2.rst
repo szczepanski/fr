@@ -266,22 +266,18 @@ forming feminine adjectives
    
    fatigué / fatiguée, fier / fière, blond / blonde, grand / grande
    
-   - 4 rules (only some adjectives)
+   - 4 rules (only for some adjectives)
       
-      - **_f** -> **ve**
-      
+   _f -> _ve
       sportif / sportive, naïf / naïve
-      
-      - **_x** -> **se**
-      
+
+  _x -> _se
       heureux / heureuse, aventureux / aventureuse, peureux / peureuse, 
-      
-      - **_s, _n, _l** -> **_sse, _nne, _lle**
-      
+
+   _s, _n, _l -> _sse, _nne, _lle
       cambodgien / cambodgienne, gentil/gentille
-      
-      - **_er** -> **ère**
-      
+
+   _er -> _ère
       premier/première
    
    - exceptions
