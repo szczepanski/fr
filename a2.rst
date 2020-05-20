@@ -252,7 +252,58 @@ contents_
 |
 |
 
+feminine adjectives
+===================
 
+|
+
+forming feminine adjectives
+   - no action - verbs ending with **e**
+   
+   timide / timide
+   
+   - add e - most verbs
+   
+   fatigué / fatiguée, fier / fière, blond / blonde, grand / grande
+   
+   - 4 rules (only some adjectives)
+      
+      - **_f** -> **ve**
+      
+      sportif / sportive, naïf / naïve
+      
+      - **_x** -> **se**
+      
+      heureux / heureuse, aventureux / aventureuse, peureux / peureuse, 
+      
+      - **_s, _n, _l** -> **_sse, _nne, _lle**
+      
+      cambodgien / cambodgienne, gentil/gentille
+      
+      - **_er** -> **ère**
+      
+      premier/première
+   
+   - exceptions
+   
+   beau / belle
+
+   nouveau / nouvelle
+   
+   vieux / vieille
+   
+   blanc / blanche
+   
+   long / longue
+
+   
+
+|
+
+contents_
+
+|
+|
 imperfect tense
 ===============
 imparfait
