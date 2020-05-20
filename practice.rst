@@ -32,19 +32,47 @@ present tenses conjugation
 
 1st group - ER -
    **_e, _es, _e, _ons, _ez, _ent**
+   
+   examples
+      ...
+   exceptions
+      ...
 
 2nd group - IR -
    **_is, _is, _it, _issons, _issez, _issent**
+   
+   examples
+      ...
+   exceptions
+      ...
 
 3rd group
    - ir
       **_s, _s, _t, _ons, _ez, _ent**
+      
+   examples
+      ...
+      
+   exceptions
+      ...
    
    - oir
       **_s, _s, _t, _ons, _ez, _ent**
       
+   examples
+      ...
+      
+   exceptions
+      ...
+      
    - re
       **_s, _s, _t, _ons, _ez, _ent**
+      
+   examples
+      ...
+      
+   exceptions
+      ...
 
 
 
@@ -54,7 +82,6 @@ old
 aged (polite 'old') 
    âgé/agée
 
-Ce sont des 
    ...
 
 Qu’est ce que c’est ... ?
@@ -62,10 +89,24 @@ Qu’est ce que c’est ... ?
    
    Non, ce n’est pas un... / une ...
    
+   Ce sont des ...
+   
    Ce ne sont pas des ...
    
    examples
-      ...
+      C'est une chaise; C'est une table; C'est un chat
+      
+      Non, ce n’est pas un chien; Non, ce n’est pas une lamp;
+      
+      Ce sont des fleurs
+   
+      Ce ne sont pas des chaussures
+
+
+
+ 
+      
+      
 
 Est ce qu’il y a ...
    il y a
@@ -73,7 +114,10 @@ Est ce qu’il y a ...
    il n’y a pas de /d'
    
    examples
-      ...
+      il y a trois lamps 
+      
+      il n’y a pas de placard
+
       
       
 londres
