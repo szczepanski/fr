@@ -75,6 +75,13 @@ present tenses conjugation
       exceptions
          ...
 
+other group 1
+   ETRE,AVOIR, ALLER, FAIRE (ent -> ont)
+   
+   DIRE,FAIRE -vous dites vous faites - exception with vous only
+
+other group 2
+   VOULOIR , POUVOIR, VALLOIR
 
 
 old
@@ -97,7 +104,7 @@ Qu’est ce que c’est ... ?
    examples
       C'est une chaise; C'est une table; C'est un chat
       
-      Non, ce n’est pas un chien; Non, ce n’est pas une lamp;
+      Non, ce n’est pas un chien; Non, ce n’est pas une lampe;
       
       Ce sont des fleurs
    
@@ -115,7 +122,7 @@ Est ce qu’il y a ...
    il n’y a pas de /d'
    
    examples
-      il y a trois lamps 
+      il y a trois lampes 
       
       il n’y a pas de placard
 
@@ -142,7 +149,33 @@ contents_
 
 |
 
-practice
+   ...
+
+3 ways to ask questions
+   1. Vous parlez français ? intonation
+   
+   2. Est ce que vous parlez français ? est ce que
+      Est ce que que c’est / ce sont ...?
+   
+   3. Parlez - vous français ? inversion
+
+
+all quantity description never with le la ... 
+   Un kilo de fraises
+   
+   une bouteille de vin
+   
+
+à peu près
+   aproximately
+
+entre 10 et 20 €
+
+ça dépend
+   that depends
+   
+c’est assez cher
+   quite expensive
 
 |
 
