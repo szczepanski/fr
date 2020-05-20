@@ -50,29 +50,29 @@ present tenses conjugation
    - ir
       **_s, _s, _t, _ons, _ez, _ent**
       
-   examples
-      ...
-      
-   exceptions
-      ...
-   
+      examples
+         ...
+
+      exceptions
+         ...
+
    - oir
       **_s, _s, _t, _ons, _ez, _ent**
       
-   examples
-      ...
-      
-   exceptions
-      ...
+      examples
+         ...
+
+      exceptions
+         ...
       
    - re
       **_s, _s, _t, _ons, _ez, _ent**
       
-   examples
-      ...
-      
-   exceptions
-      ...
+      examples
+         ...
+
+      exceptions
+         ...
 
 
 
