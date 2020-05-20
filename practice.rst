@@ -46,10 +46,7 @@ present tenses conjugation
    - re
       **_s, _s, _t, _ons, _ez, _ent**
 
-|
 
-il y a
-il n’y a pas de /d'
 
 old
    vieux/vieille
@@ -57,20 +54,23 @@ old
 aged (polite 'old') 
    âgé/agée
 
-C’est un...
- C’est une ...
-
 Ce sont des 
    ...
 
 Qu’est ce que c’est ... ?
-   C’est un ...
+   C’est un .../ une
    Non, ce n’est pas un... / une ...
    Ce ne sont pas des ...
+   
 
 Est ce qu’il y a ...
-   ...
-londres
+   il y a
+   il n’y a pas de /d'
+   examples
+      ...
+      
+      
+| londres
    J’habite à Londres
 le Havre
    J’habite au Havre
