@@ -59,18 +59,24 @@ Ce sont des
 
 Qu’est ce que c’est ... ?
    C’est un .../ une
+   
    Non, ce n’est pas un... / une ...
+   
    Ce ne sont pas des ...
    
+   examples
+      ...
 
 Est ce qu’il y a ...
    il y a
+   
    il n’y a pas de /d'
+   
    examples
       ...
       
       
-| londres
+londres
    J’habite à Londres
 le Havre
    J’habite au Havre
