@@ -36,22 +36,23 @@ present tenses conjugation
    examples
       ...
    exceptions
-      ...
+      no major exceptions
 
 2nd group - IR -
    **_is, _is, _it, _issons, _issez, _issent**
    
    examples
-      ...
+      finir ...
    exceptions
-      ...
+      no exceptions
+
 
 3rd group
    - ir
       **_s, _s, _t, _ons, _ez, _ent**
       
       examples
-         ...
+         partir
 
       exceptions
          ...
