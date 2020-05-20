@@ -259,19 +259,19 @@ feminine adjectives
 
 forming feminine adjectives
    - no action - verbs ending with **e**
-   
+
    timide / timide
-   
+
    - add e - most verbs
-   
+
    fatigué / fatiguée, fier / fière, blond / blonde, grand / grande
-   
+
    - 4 rules (only for some adjectives)
-      
+
    _f -> _ve
       sportif / sportive, naïf / naïve
 
-  _x -> _se
+   _x -> _se
       heureux / heureuse, aventureux / aventureuse, peureux / peureuse, 
 
    _s, _n, _l -> _sse, _nne, _lle
@@ -279,17 +279,17 @@ forming feminine adjectives
 
    _er -> _ère
       premier/première
-   
+
    - exceptions
-   
+
    beau / belle
 
    nouveau / nouvelle
-   
+
    vieux / vieille
-   
+
    blanc / blanche
-   
+
    long / longue
 
    
