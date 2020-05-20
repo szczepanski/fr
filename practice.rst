@@ -30,7 +30,11 @@ contents
 present tenses conjugation
 **************************
 
-https://en.wikibooks.org/wiki/French/Grammar/Verbs/Conjugations#First_Section_(-ir_verbs_/_gerund_ending_in_-ant)
+`Link text <link URL>`_
+
+|
+
+en.wikibooks.org/wiki/French/Grammar/Verbs/Conjugations#First_Section_(-ir_verbs_/_gerund_ending_in_-ant)
 
 1st group - ER -
    **_e, _es, _e, _ons, _ez, _ent**
