@@ -158,10 +158,6 @@ contents_
    3. Parlez - vous français ? inversion
 
 
-all quantity description use 'de / d' only not de le la l ... 
-   Un kilo de fraises
-   
-   une bouteille de vin
    
 à peu près
    aproximately
@@ -176,25 +172,29 @@ c’est assez cher
 
 |
 
-
 Old french used y which transitition in i
    le roy -> le roi 
    
    example of current old use of y --> Palis Royal
 
+   
+|
 
-|Combien coûte un journal?
-|Un journal coûte 1 € 50
-| Un kilo de fraises
-| de / d'
-| une bouteille de vin
-| à peu près
-| entre 10 et 20 €
-| ça dépend
-| un verre de vin
-| un litre de lait
-| un pot de confiture
-| un paquet de pâtes
+all quantity description use 'de / d' only not 'de le / la l' '  
+   Un kilo de fraises, une bouteille de vin, un verre de vin, un litre de lait, un pot de confiture, 
+
+   
+   
+
+
+   
+
+
+Combien coûte un ... ?
+   Un journal coûte 1 € 50
+   
+
+un paquet de pâtes
 | un sac de pommes de terre
 | une plaquette de beurre
 | une botte de radis
@@ -231,49 +231,55 @@ Old french used y which transitition in i
 | quatre heures et quart
 | 17 30
 | il est
-| 80
-| 92
-| 16
-| 66
-| 166
-| 44
-| 84
-| 194
-| 2 + »=
-| 5
-| +
-| :
-| divisé par
-| égal = font
-| 2 +3  font 5
-| Combien font 2+3?
-| c’est 5
-| moins que
-| plus que
-| >
-| <
-| >=
-| =<
-| ou
-| Quel jour?
-| Nous sommes mercredi le 20 mai
-| J’ai un RV vendredi le 26 juin
-| chez le dentiste
-| Il travaille chez Chanel
-| JE travaille à IBM
-| Chez always in with person
-| Chez moi c’est en France
-| Chez moi chez à Paris
-| C’est moi
+
+
+operators
+   plus +
+   
+   divisé par
+   
+   égal == font
+      
+   Combien font 2+3? -> c’est 5 / il font 5
+   
+   moins que <
+   
+   plus que <
+
+   plus ou égal >=
+   
+   moins ou égal <=
+
+Quel jour?
+   Nous sommes mercredi le 20 mai
+   
+   J’ai un RV vendredi le 26 juin
+
+
+
+chez
+   always used in person context
+   
+   when use with organizations the organization should be assocaited with a person
+   
+   Je travaille chez Chanel / chez Louis Vuitton
+   
+   Je travaille à IBM / à GFI
+
+| 
+| chez moi
 | chez toi
 | chez lui/elle
+|
 | chez nous
 | chez vous
-| chez eux
-| chez elle
-| elles
+| chez eux/elles
 
 |
+
+| Chez moi c’est en France
+| Chez moi chez à Paris
+| chez le dentiste
 
 contents_
 
