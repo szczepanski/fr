@@ -44,17 +44,7 @@ contents
    - re
       **_s, _s, _t, _ons, _ez, _ent**
 
-PARLER je parl-e e ils parl-ent finir FIN-IR je fin-is tu fin-is il fin-it OUVRIR 
-
 |
-
-j’ouvre tu ourves il ouvre nous ouvrons vous ouvrez ils ouvrent OUVR-IR tu ouvres OFFR-IR PREN-DRE 
-
-Wyjatki OUVRIR et OFFR-IR 
-
-je pren-ds tu pren-ds il prend-d VOULOIR, POUVOIR, VALOIR je veux je peux je vaux tu veux il veut DIRE je dis tu dis il dit FAIRE, DIRE 
-
-
 
 il y a
 il n’y a pas de /d'
@@ -62,24 +52,30 @@ il n’y a pas de /d'
 old
    vieux/vieille
 
-old - aged (polite) 
+aged (polite 'old') 
    âgé/agée
 
 C’est un...
  C’est une ...
-Ce sont des ... Sur la table il a un ordi 
 
-Qu’est ce que c’est
-   c’est un ordi
-   Non, ce n’est pas un....pas une ...
+Ce sont des 
+   ...
+
+Qu’est ce que c’est ... ?
+   C’est un ...
+   Non, ce n’est pas un... / une ...
    Ce ne sont pas des ...
-Est ce qu’il y a ...
 
+Est ce qu’il y a ...
+   ...
+londres
+   J’habite à Londres
 le Havre
    J’habite au Havre
 le Caire
    J’habite au Caire
-
+le Vesinet
+   J’habite au Vesinet
 
 |
 
@@ -88,4 +84,30 @@ contents_
 |
 |
 
+20-05-20
+===============
 
+|
+
+practice
+
+|
+
+contents_
+
+|
+|
+
+21-05-20
+===============
+
+|
+
+practice
+
+|
+
+contents_
+
+|
+|
