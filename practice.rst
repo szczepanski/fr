@@ -149,8 +149,6 @@ contents_
 
 |
 
-   ...
-
 3 ways to ask questions
    1. Vous parlez français ? intonation
    
@@ -160,12 +158,11 @@ contents_
    3. Parlez - vous français ? inversion
 
 
-all quantity description never with le la ... 
+all quantity description use 'de / d' only not de le la l ... 
    Un kilo de fraises
    
    une bouteille de vin
    
-
 à peu près
    aproximately
 
@@ -179,57 +176,15 @@ c’est assez cher
 
 |
 
-| PARTIR
-| je pars
-| tu pars
-| il part
-| nous aprtons
-| vous partons
-| nous partons
-| ils partent
-| CROIRE
-| je crois
-| nous croyons
-| vous croyez
-| ils croient
-| y = i
-| le roy
-| le roi
-| Palis Royal
-| Palais
-| ENOYER
-| j'envoie
-| tu envoies
-| il envoie
-| nous envoyons
-| voues envoyez
-| vous
-| ils envoient
-| ETRE,AVOIR, ALLER, FAIRE
-| ils / elles sont, ont,vont,font
-| DIRE,FAIRE
-| vous dites
-| vous faites
-| VOULOI,POUVOIR, VALLOIR
-| VOULOIR
-| je veux
-| tu veux
-| il veut
-| nous voulons
-| vous voulez
-| ils veulent
-| LIRE
-| je lis, tu lis , il lit, nous lisons,vous lisez, ils lisent
-| DIRE
-| Les questions
-| Est ce que que c’est / ce sont ...?
-| Est ce que
-| 1. Vous parlez français ?
-| 2. Est ce que vous parlez français ?
-| 3. Parlez - vous français ?
-| Vous voulez un café ?
-| Combien coûte un journal?
-| Un journal coûte 1 € 50
+
+Old french used y which transitition in i
+   le roy -> le roi 
+   
+   example of current old use of y --> Palis Royal
+
+
+|Combien coûte un journal?
+|Un journal coûte 1 € 50
 | Un kilo de fraises
 | de / d'
 | une bouteille de vin
