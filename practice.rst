@@ -185,7 +185,7 @@ Old french used y which transitition in i
    
 |
 
-all quantity description use 'de / d' only not 'de le / la l' '  
+all quantity description use 'de / d' only not 'des, le / la l' '  
    un kilo de fraises
    
    une barquette de fraises
@@ -211,19 +211,10 @@ all quantity description use 'de / d' only not 'de le / la l' '
    une boîte de Cammembert
    
    un sachet d'épinards
-
-
-
    
+   une semaine de vacances
    
-
-
-
-   
-   
-
-
-   
+   un kilomètre de marche
 
 
 Combien coûte un ... ?
@@ -308,22 +299,29 @@ coûter
 Combien coûte un kilo d'oranges?
    Un kilo d'oranges coûte deux euro et cinquante cents.
    
-   Bien, c'est bonne marché
-   
+   Bien, c'est bon marché
    
 
 Nous sommes quel jour?
-   Nous sommes le jeudi.
-Vous êtes à quel date?
-   Nous sommes le vendredi vingt-deux août.
+   Nous sommes jeudi. (do not use 'le')
+   
+   Le mariage va avoir lieu le samedi 30 juin 2020 (important date - 'le' used)
+   
+   La banque est fermée le samedi et le dimnche ('le' used for each repetetive)
+   
+C’est à quelle date ?
+   Quelle est la date d’aujourd’hui?
+   
+   Nous sommes vendredi **le** vingt-deux août.
+ 
 Est-ce que vous avez des rendez-vous aujourd'hui ?
-   Non, nous avons un rendes-vous le vendredi. 
+   Non, nous avons un rendez-vous le vendredi. (each friday - use of 'le')
    
-   Oui, nous avons un à quatorze heurs et quart. 
+   Oui, nous avons un à quatorze heures et quart. 
    
-   Oui, nous avons un rendes-vous dans demi heur / deux heurs.
+   Oui, nous avons un rendez-vous dans une demi heure / deux heures.
 
-Quel entreprise est-ce que tu travailles ?
+Dans quelle entreprise est-ce que tu travailles ?
    Je travaille à GFI.
    
    Ils / Elles travaillent chez Chanel.
@@ -341,7 +339,39 @@ contents_
 
 |
 
-practice
+du, de la, des (kogo, czego?)
+   de + le = du
+      C’est le bureau (de +le) du president
+   
+      c’est la maison (de +le)du Père Noël
+   
+   de + la = de la
+      c’est la voiture de la voisine
+   
+   de + les = des
+      Ce sont les enfants des voisins 
+   
+   
+au, à la , aux (komu, czemu?)
+   à + la = à la
+      J’offre un cadeau à la voisine
+   
+      J’offre un cadeau à ma mère
+
+      Il donne une lettre à sa soeur
+      
+      J’écris une lettre à la direction
+
+      
+à+le =au
+   Je donne ma démission au directeur
+
+   Je dis bonjour au concièrge
+      
+à+les =aux
+   Le père Noël donne les cadeaux aux enfants
+      
+      
 
 |
 
