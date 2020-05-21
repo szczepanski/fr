@@ -295,6 +295,42 @@ chez
 | Chez moi chez à Paris
 | chez le dentiste
 
+|
+
+J'ai une réunion le mercredi 22 juillet à 14h05
+
+
+**revision**
+
+coûter
+   coûte, coûtes, coûte, coûtons, coûtez, coûtent
+
+Combien coûte un kilo d'oranges?
+   Un kilo d'oranges coûte deux euro et cinquante cents.
+   
+   Bien, c'est bonne marché
+   
+   
+
+Nous sommes quel jour?
+   Nous sommes le jeudi.
+Vous êtes à quel date?
+   Nous sommes le vendredi vingt-deux août.
+Est-ce que vous avez des rendez-vous aujourd'hui ?
+   Non, nous avons un rendes-vous le vendredi. 
+   
+   Oui, nous avons un à quatorze heurs et quart. 
+   
+   Oui, nous avons un rendes-vous dans demi heur / deux heurs.
+
+Quel entreprise est-ce que tu travailles ?
+   Je travaille à GFI.
+   
+   Ils / Elles travaillent chez Chanel.
+   
+     
+   
+
 contents_
 
 |
@@ -308,6 +344,7 @@ contents_
 practice
 
 |
+
 
 contents_
 
