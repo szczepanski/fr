@@ -393,7 +393,96 @@ au, à la , aux (komu, czemu?)
    à+les =aux
       Le père Noël donne les cadeaux aux enfants
       
-      
+*****      
+other
+*****
+
+|
+
+
+| c’est bon marché
+| Le mariage va avoir lieu le samedi é§ juin éàéà
+| le samedi 30 juin 2020
+| La banque est fermée le samedi et le dimnche
+| C’est à quelle date ?
+| Quelle est la date d’aujourd’hui?
+| rendez - vous
+| RV
+| se rendre
+| Je me rends au travail tous les matin
+| Rendez - vous !
+| Il y a
+| Il n’y a pas de /d'
+| il n’y a pas de pain
+| il n’y a pas d'oranges
+| je n’ai pas d'argent
+| il n’a pas d’enfants
+| pas de/d'
+| j’ai des poules
+| ils n’ont pas de poules
+| les , des
+| Negacja z avoir nigdy Les / des
+| je n’ai pas le temps
+| Tu n’as pas le temps
+| Je n’ai pas de temps à pardre
+| perdre
+| Wyjatek
+| la faute de scribe
+| je n’ai pas le temps - wyjatek
+| heure
+| une heure
+| une demi heure
+| dans ....
+| dans trois jours
+| dans quelle entreprise
+| je n’ai pas beaucoup de temps
+| combien de temps avez - vous ?
+| J’ai un peu de temps
+| une semaine de vacances
+| un kilomètre de marche
+| un mètre de tissus
+| du, de la des
+| au, à la , aux
+| c’est la maison du Père Noël
+| .... de + le +du
+| de + le père = du père
+| C’est le bureau (de +le) du president
+| c’est la voiture de la voisine
+| de + la = de la
+| Ce sont les enfants des voisins
+| de + les = des
+| de mon
+| de ma
+| de mes
+| C’est le problème de mon chef
+| C’est la leàon de Pierre
+| leçon
+| C’est le chat de Nina
+| C’est la voiture de monsieur Dupont
+| de mademe X
+| C’est le tableau de Van Gogh
+| C’est l’argent de la mafia italienne
+| à + la = à la
+| J’offre un cadeau à la voisine
+| à ma mère
+| Il donne une lettre à sa souer
+| soeur
+| à+le =au
+| Je donne ma démission au directeur
+| J’écris une lettre à la direction
+| à+les =aux
+| Le père Noël donne les cadeaux aux enfants
+| Je dis bonjour au concière
+| concièrge
+| Nina, donne du lait au chat !
+| à mon
+| à son
+| à ses
+| à leur/leurs
+| J’envoie un mail à mon ami
+| Dzierzawcze zawsze z ‘a’
+| Ma soeur ne donne pas de bonbons à ses enfants
+
 
 |
 
