@@ -93,6 +93,13 @@ other group 1
 other group 2
    VOULOIR , POUVOIR, VALLOIR
 
+other group 3
+   verbs - ir - conjugating like 1st group 
+   
+   ouvrir, offrir, souffrir, découvrir
+   
+   ouvre, ouvres, ouvre, ouvrons, ouvrons, ouvrez, ouvrent
+
 
 old
    vieux/vieille
@@ -344,6 +351,12 @@ contents_
 
 |
 
+**************
+du, de la, des
+**************
+
+|
+
 du, de la, des (kogo, czego?)
    de + le = du
       C’est le bureau (de +le) du president
@@ -356,7 +369,12 @@ du, de la, des (kogo, czego?)
    de + les = des
       Ce sont les enfants des voisins 
    
-   
+**************
+au, à la , aux
+**************
+
+|
+
 au, à la , aux (komu, czemu?)
    à + la = à la
       J’offre un cadeau à la voisine
@@ -366,15 +384,14 @@ au, à la , aux (komu, czemu?)
       Il donne une lettre à sa soeur
       
       J’écris une lettre à la direction
-
       
-à+le =au
-   Je donne ma démission au directeur
+   à+le =au
+      Je donne ma démission au directeur
 
-   Je dis bonjour au concièrge
+      Je dis bonjour au concièrge
       
-à+les =aux
-   Le père Noël donne les cadeaux aux enfants
+   à+les =aux
+      Le père Noël donne les cadeaux aux enfants
       
       
 
