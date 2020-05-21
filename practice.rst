@@ -57,11 +57,10 @@ present tenses conjugation
       **_s, _s, _t, _ons, _ez, _ent**
       
       examples
-      finir,partir,dormir,servir, courir,sentir,
 
 
       exceptions
-         ...
+      finir,partir,dormir,servir, courir,sentir (all same endings but different root in nous and vous - je pars but nous partons, vous partez)
 
    - oir
       **_s, _s, _t, _ons, _ez, _ent**
