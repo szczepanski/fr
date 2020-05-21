@@ -57,7 +57,8 @@ present tenses conjugation
       **_s, _s, _t, _ons, _ez, _ent**
       
       examples
-         partir
+      finir,partir,dormir,servir, courir,sentir,
+
 
       exceptions
          ...
