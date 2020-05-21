@@ -60,7 +60,12 @@ present tenses conjugation
 
 
       exceptions
-      finir,partir,dormir,servir, courir,sentir (all same endings but different root in nous and vous - je pars but nous partons, vous partez)
+      
+      finir,partir,dormir,servir, courir,sentir (all same endings but different root in nous and vous)
+      
+      je pars but nous partons, vous partez;
+      
+      je dors - nous dormons
 
    - oir
       **_s, _s, _t, _ons, _ez, _ent**
