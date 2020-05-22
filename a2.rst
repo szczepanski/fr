@@ -300,6 +300,7 @@ contents_
 
 |
 |
+
 imperfect tense
 ===============
 imparfait
@@ -386,6 +387,49 @@ contents_
 |
 |
 
+
+le passé composé and l'imparfait
+================================
+
+|
+
+le passé composé and l'imparfait
+   imparfait - describes story context (weather, people, place...)
+   
+   passé composé - describes completed action in past
+   
+   joined tenses - describe stories in more comprehensive way
+   
+   change indicators
+      indicate change in development of action
+      
+      - quand - when
+      - lorsque - when
+      - soudain - suddenly
+      - tout à coup - all af a sudden
+      
+   examples
+      On se baignait quand, tout à coup, il a commencé à pleuvoir.
+      
+      Ellie prenait (imparfait) son petit déjeuner quand son téléphone a sonné (passé composé). 
+      
+      On faisait (imparfait) les courses quand on a rencontré (passé composé) Mélanie.
+      
+      Il pleuvait lorsqu'on est arrivés. 
+      
+      Je regardais un film et soudain, quelqu'un a frappé à la porte.
+      
+      Nous étions dans la salle à manger. 
+      
+   
+
+|
+
+contents_
+
+|
+|
+
 nuances
 =======
 
@@ -400,240 +444,6 @@ vocabulary and phrases
 ======================
 
 |
-
-to go travelling
-   partir en voyage   
-to go abroad
-   partir à l'étranger
-a stay
-   un séjour
-to pack
-   faire ses valises
-a map
-   une carte
-the foreign exchange desk
-   le bureau de change
-Have a good holiday!
-   bonnes vacances
-the check-in desk
-   le comptoir d'enregistrement
-a cabin bag
-   un bagage cabine 
-a checked bag
-   un bagage en soute 
-a boarding pass
-   une carte d'embarquement
-a boarding gate
-   une porte d'embarquement 
-a flight
-   un vol
-to take off
-   décoller 
-to land
-   atterrir
-Here you go
-   tenez
-shirt
-   le chemise
-jeans
-   le jean
-skirt
-   la jupe
-the jumper
-   le pull
-the shoes
-   les chaussures
-jacket
-   la veste
-creased shirt
-   chemise froissée
-transparent, see-through
-   transparent
-stripy
-   à rayures
-loose
-   large
-tight
-   serré
-the bigger size
-   la taille au dessus
-comfortable
-   confortable
-to go shopping
-   faire les magasins
-Where can I find...
-   Où est-ce que je peux trouver...
-Excuse me, I'm looking for...
-   Excusez-moi, je cherche...
-Are you paying by card or by cash?
-   Vous payez par carte ou en espèces ?
-a plastic bag
-   un sac en plastique
-the receipt
-   le ticket de caisse
-What are you going to wear?
-   Comment tu vas t'habiller ?
-I like / don't like how you dress.
-   Je trouve que tu t'habilles bien / Je trouve que tu t'habilles mal.
-What's your size?
-   Quelle est ta taille ?
-My size is...
-   Je fais du...
-What's your shoe size?
-   Quelle est ta pointure ?
-My shoe size is...
-   Je chausse du...
-I'd like a smaller / larger size please.
-   Je voudrais une taille en dessous / au dessus s'il vous plaît.
-That (does not) suits you!
-   Ça (ne) te va (pas) bien !
-That dress doesn't really suit you.
-   Cette robe ne te va pas bien.
-the terrace
-   la terrasse
-the dining room
-   la salle à manger
-a small kitchen
-   une kitchenette
-to rest
-   se reposer
-to watch TV
-   regarder la télé
-to read
-   lire
-to do some exercise
-   faire de l'exercice
-to listen to music
-   écouter de la musique
-to cook
-   préparer le repas
-to water the plants
-   arroser les plantes
-breakfast / lunch / dinner
-   le petit déjeuner / le déjeuner / le dîner
-snack
-   le goûter
-to cook
-   faire la cuisine / cuisiner
-delicious
-   délicieux / délicieuse
-to enjoy / love (food)
-   se régaler
-bland / flat
-   fade
-bad
-   mauvais / mauvaise
-the saucepan / pot
-   la casserole
-the plate
-   l'assiette
-the frying pan
-   la poêle
-the bowl
-   le bol
-scale, weight
-   la balance
-the chopping board
-   la planche à découper
-the sieve / colander
-   la passoire
-the blender
-   le mixeur
-the fork
-   la fourchette
-the knife
-   le couteau
-the spoon
-   la cuillère
-the cup / mug
-   la tasse
-cutlery
-   es couverts
-to explain
-   expliquer
-to listen
-   écouter
-to revise
-   réviser
-to pass
-   réussir
-to fail
-   rater
-to learn
-   apprendre
-to retake
-   redoubler
-to make a mistake
-   faire une erreur
-to take an exam
-   passer un examen
-kindergarten / nursery (ages of 2 to 6)
-   l'école maternelle 
-primary school
-   l'école
-secondary school (ages 11-14)
-   le collège
-secondary school (ages 15-17)
-   le lycée
-university / uni (infm)
-   l'université / la fac
-department
-   la faculté
-the subject
-   la matière
-the timetable
-   l’emploi du temps
-the class
-   le cours
-the pupil
-   l'élève
-the student
-   l'étudiant
-the exam
-   l'examen
-the results
-   les résultats
-husband
-   le mari
-wife
-   la femme
-the ex-wife / the ex-husband
-   l'ex-femme / l'ex-mari
-the brother-in-law / the sister-in-law
-   le beau-frère / la belle-sœur
-the step-brother / the step-sister
-   le demi-frère / la demi-sœur
-the younger brother / the younger sister
-   le petit frère / la petite sœur
-the older brother / the older sister
-   le grand frère / la grande sœur
-the only child (son / daughter)
-   le fils unique / la fille unique
-the nephew / the niece
-   le neveu / la nièce
-to look like
-   ressembler
-to get married
-   se marier
-to get engaged
-   se fiancer
-to enter into a civil partnership
-   se pacser
-to argue
-   se disputer
-to make up
-   se réconcilier
-to break up
-   se séparer
-to get divorced
-   divorcer
-to adopt
-   adopter
-to cheat
-   tromper
-
-
-
 
 |
 
