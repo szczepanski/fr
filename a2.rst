@@ -301,6 +301,46 @@ contents_
 |
 |
 
+superlative
+===========
+
+|
+
+superlatives
+   ending of adjective must with  gender and quantity of noun
+   
+the most
+   le / la / les plus + adjective = the most
+the least
+   le / la / les moins + adjective = the least
+
+
+   examples
+      Simon est le plus sociable du groupe.
+   
+      Eloise est la moins bavarde de mes amis.
+   exceptions
+      the best - le meilleur/la meilleure/les meilleurs/les meilleures
+      
+      the worst - le pire/la pire/les pires
+      
+superlatives with adverbs
+   always with article 'le' only
+   
+   le plus + adverb / le moins + adverb
+   
+   examples
+      Appelle-moi le plus rapidement possible.
+      
+      C'est Lucien qui court le moins vite.
+
+|
+
+contents_
+
+|
+|
+
 imperfect tense
 ===============
 imparfait
