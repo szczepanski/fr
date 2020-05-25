@@ -375,7 +375,7 @@ au, à la , aux
 
 |
 
-au, à la , aux (komu, czemu?)
+au, à la , aux (komu, czemu, gdzie?)
    à + la = à la
       J’offre un cadeau à la voisine
    
@@ -392,18 +392,22 @@ au, à la , aux (komu, czemu?)
       
    à+les =aux
       Le père Noël donne les cadeaux aux enfants
-      
-*****      
-other
-*****
+ 
+|
+ 
+***********************
+vaocabulary and phrases
+***********************
 
 |
 
+**dates**
+
+| Le mariage va avoir lieu le samedi 30 juin 2020
+
 
 | c’est bon marché
-| Le mariage va avoir lieu le samedi é§ juin éàéà
-| le samedi 30 juin 2020
-| La banque est fermée le samedi et le dimnche
+| La banque est fermée le samedi et le dimnche (each - use of le)
 | C’est à quelle date ?
 | Quelle est la date d’aujourd’hui?
 | rendez - vous
@@ -421,13 +425,12 @@ other
 | j’ai des poules
 | ils n’ont pas de poules
 | les , des
-| Negacja z avoir nigdy Les / des
+|
+| **Negacja z avoir nigdy Les / des**
 | je n’ai pas le temps
 | Tu n’as pas le temps
 | Je n’ai pas de temps à pardre
-| perdre
-| Wyjatek
-| la faute de scribe
+| exception - la faute de scribe
 | je n’ai pas le temps - wyjatek
 | heure
 | une heure
@@ -483,6 +486,23 @@ other
 | Dzierzawcze zawsze z ‘a’
 | Ma soeur ne donne pas de bonbons à ses enfants
 
+|
+
+|
+
+***********************
+revision
+***********************
+
+|
+
+Le president a donné le discours aux français. 
+
+Anne et Alex offrent l'aide aux voisins. 
+
+Ma sœur a emprunté un livre à l'ami. (borrowed from someone)
+
+Ma sœur a  prêté un livre à l'amie. (borrowed to someone)
 
 |
 
@@ -491,3 +511,20 @@ contents_
 
 |
 |
+
+25-05-20
+========
+
+|
+
+
+
+|
+
+
+contents_
+
+|
+|
+
+
