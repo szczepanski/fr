@@ -608,8 +608,96 @@ le passé composé and l'imparfait
       Je regardais un film et soudain, quelqu'un a frappé à la porte.
       
       Nous étions dans la salle à manger. 
-      
+
+|
+
+contents_
+
+|
+|
+
+le futur simple
+===============
+
+|
+
+le futur simple
+   used to talk about projects, previsions, actions taking place in future
    
+   verbs ending er, ir
+      **add** to infinitive form following endings
+      
+      _ai, _as, _a, _ons, _ez, _ont
+   
+   verbs ending re
+      **replace 'e'** in infinitive form with the same endings
+      
+      _ai, _as, _a, _ons, _ez, _ont
+   
+   irregular verbs futur simple stem
+         avoir -> aur + endings
+         faire -> fer + endings
+         être -> ser + endings
+         aller -> ir + endings
+         venir -> viendr + endings
+         vouloir -> voudr + endings
+         devoir -> devr + endings
+         pouvoir -> pourr + endings
+   
+   examples
+      L'année prochaine je ferai le tour de l'Afrique. 
+   
+      Tu lui offriras des fleurs ?
+   
+      Nous n'habiterons plus en Espagne après l'été.   
+  
+|
+
+.. list-table:: **manger** - futur simple conjugation
+   :widths: auto
+   :header-rows: 1
+   :align: right
+
+   * - singular
+     - plural
+   * - je manger **ai**
+     - nous manger **ons**
+   * - tu manger **as**
+     - vous manger **ez**
+   * - il / elle / on manger **a**
+     - ils / elles manger **ont**
+
+|
+
+.. list-table:: **finir** - futur simple conjugation
+   :widths: auto
+   :header-rows: 1
+   :align: right
+
+   * - singular
+     - plural
+   * - je finir **ai**
+     - nous finir **ons**
+   * - tu finir **as**
+     - vous finir **ez**
+   * - il / elle / on finir **a**
+     - ils / elles finir **ont**
+
+|
+
+.. list-table:: **apprendre** - futur simple conjugation ('e' replaced by endings)
+   :widths: auto
+   :header-rows: 1
+   :align: right
+
+   * - singular
+     - plural
+   * - j'apprendr **ai**
+     - nous apprendr **ons**
+   * - tu apprendr **as**
+     - vous apprendr **ez**
+   * - il / elle / on apprendr **a**
+     - ils / elles apprendr **ont**
 
 |
 
