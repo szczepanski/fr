@@ -417,7 +417,70 @@ indirect object pronouns
 
 |
 
+indirect object
+   person, thing coming straight after preposition à
+   
+   can be identified by questioning
+      à qui? - to whom?
 
+      à quoi? - to / about what?
+      
+   
+   examples
+      Emma téléphone **à son ami**.  À qui téléphone Emma ?    
+
+      Marc pense **à ses vacances**. À quoi pense Marc? 
+      
+|
+
+indirect object pronouns
+   used to avoid repetition of indirect object
+   
+   singular
+      inanimate - things - **y**
+      
+      animate - people - **me, te, lui**
+   
+   plural
+      inanimate - things - **y**
+      
+      animate - people - **nous, vous, leur**
+   
+   placement
+      présent -> before verb
+   
+      passé composé -> before auxiliary verb
+      
+      futur proche -> between verb aller and main verb
+      
+   examples
+      Emma téléphone à son ami. -> Emma lui téléphone.
+      
+      Marc pense à ses vacances. -> Marc y pense.  
+      
+      me (me) -> Marie m'a envoyé un message.
+      
+      te (you) -> Est-ce que Jean t'a parlé de ses vacances ?
+      
+      lui -> Est-ce que tu lui as dit la vérité ? 
+      
+      nous (us) -> Il nous apporte une tasse de thé. 
+      
+      vous (you) -> Je vais vous répondre demain.
+
+      leur -> On leur téléphone souvent.
+      
+      y -> As-tu pensé au cadeau ? - Non je n'y ai pas pensé. 
+      
+      y -> Est-ce que tu fais attention à mes livres ? Oui j'y fais attention. 
+      
+      Le présent: Ils parlent à Léa ? Oui, ils lui parlent.
+      
+      Le passé composé:  Ils ont écrit à leurs amis ? Oui, ils leur ont écrit.
+      
+      Le futur proche: Tu vas téléphoner à ta mère ? Oui, je vais lui téléphoner.
+      
+      Marie raconte une histoire à sa mère. -> Marie la lui raconte.
 
 |
 
