@@ -339,6 +339,91 @@ superlatives with adverbs
 contents_
 
 |
+
+|
+
+direct object pronouns
+======================
+
+|
+
+direct object
+   person, thing coming straight after verb in sentence
+   
+   can be identified by questioning
+      quoi? - what?
+      
+      qui? - who?
+   
+   examples
+      Paul lit **le livre**. Paul lit quoi ?
+      
+      Je connais **la fille**. Tu connais qui ?
+
+|
+
+direct object pronouns
+   used to avoid repetition of direct object
+   
+   singular
+      inanimate - things - **le, la**
+      
+      animate - people - **me, te, le, la**
+   
+   plural
+      inanimate - things - **les**
+      
+      animate - people - **nous, vous, les**
+   
+   placement
+      présent -> before verb
+   
+      passé composé -> before auxiliary verb
+      
+      futur proche -> between verb aller and main verb
+      
+   examples
+      Paul lit le livre. -> Paul **le lit**.
+      
+      Je connais la fille. -> Je **la connais**.   
+      
+      me (me) -> Marie m'a invité à sa fête. 
+      
+      te (you) -> Elle t'attend devant la banque.
+      
+      la / l' (her / it) - Il aime la maison ? - Non, il ne l'aime pas.
+      
+      nous (us) - Elle nous voit.
+      
+      vous (you) - Nous allons vous aider.
+
+      les (them) - Je les aime.
+      
+      Le présent: Il les mange. 
+      
+      Le passé composé: Nous l'avons vendu.
+      
+      Le futur proche: Ils vont t'attendre devant la gare.
+     
+|
+
+contents_
+
+|
+|
+
+indirect object pronouns
+======================
+
+|
+
+
+
+|
+
+contents_
+
+|
 |
 
 imperfect tense
