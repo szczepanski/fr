@@ -496,9 +496,14 @@ contents_
 
 en
    replaces noun introduced by
+   
    - **de** (preposition)
+   
    - **du, des, de la, de l'** (partitive article)
+   
    - **un, une, des** (indefinite article)
+   
+   that expresses a non-specific quantity
    
    examples
       Tu as beaucoup de travail ? - Oui, j'**en** ai beaucoup.
@@ -512,6 +517,7 @@ en
 
 y
    used 
+   
    - with verbs that are followed by preposition **à** such as penser à, s'intéresser à, réfléchir à, participer à
    
    - to replace places
