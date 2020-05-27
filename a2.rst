@@ -489,6 +489,27 @@ contents_
 |
 |
 
+"Y" and "en" pronouns
+=====================
+
+|
+
+en
+   replaces noun introduced by
+   - **de** (preposition)
+   - **du, des, de la, de l'** (partitive article)
+   - **un, une, des** (indefinite article)
+   
+   examples
+      Tu as beaucoup de travail ? - Oui, j'**en** ai beaucoup.
+   
+|
+
+contents_
+
+|
+|
+
 imperfect tense
 ===============
 imparfait
