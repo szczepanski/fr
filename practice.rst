@@ -517,7 +517,100 @@ contents_
 
 |
 
-
+| un infirmier /une infirmière
+| brun / brune
+| cocher
+| ou / où
+| faux / fausse
+| cette opinion est fausse
+| le cheval / les chevaux
+| un cheveu/des cheveux
+| - al / eau, au / x
+| un journal / les jouranux
+| les journaux
+| un carnaval / des carnavals
+| wyjatek ^
+| un bures / des bureaux
+| un bureau / des bureaux
+| le feu
+| court/courte
+| Elle a les cheveux longs
+| Elle a de longs cheveux
+| des, les
+| Przymiotnik przed rzeczowniki - oba w l.mn
+| de
+| Uzywamy tylko de …
+| Chez pierre lia de beaux meubles
+| il y a
+| Il achète de beaux livres
+| Zadanie ^
+| A paris il y a de beaux monuments
+| A paris , les monuments sont beaux
+| Elle a les cheveux longs
+| Elle a de longs cheveux
+| On fait avec
+| et
+| l'aide
+| Offir quelque chose à quelqu'un
+| Struktura ofrir ^
+| donner qu.ch à qu’un
+| Struktura donner ^
+| Lire que.ch
+| lire qu.ch à qu'un
+| je lis un livre aux enfants
+| Voir qu.ch ( un film)
+| prêter quelque chose à quelqu’un
+| empreinter quelque à quelqu'un
+| la baque prête de l'argent
+| banque
+| j’empreinte de l’argent à la baque
+| Un empreint bancaire
+| à un ami
+| le
+| à son ami
+| à l’ami Paul
+| le , la , les
+| Le monde est petit
+| l’ami / l'amie
+| un ami / une amie
+| mon ami
+| mon amie
+| à + le = au
+| je vais (à + le ) au cinéma
+| à + la = à la
+| à + les = aux
+| j’habite au centre ville
+| Où?
+| Il habite à la campagne
+| Il voyage ( à + les ) aux Etats Unis
+| la
+| en
+| l’Italie - en Italie
+| le Perou - au P2ROU
+| P"rou
+| Pérou
+| le Porgula
+| portugal
+| le Royaume Unis
+| le Dannemark
+| le Luxembourg
+| le Mexique
+| Jedyne męskie europejskie kraje ^
+| le Canada
+| le Brésil
+| le Pérou, le Chili
+| le Japon
+| le Wietnam
+| le Laos
+| le MAROC
+| le Sénégal
+| le Tchad
+| le Mli
+| Mali
+| - isme
+| - tion
+| C’est la mer à boire
+| 
 
 |
 
@@ -528,3 +621,12 @@ contents_
 |
 
 
+27-05-20
+========
+
+|
+
+contents_
+
+|
+|
