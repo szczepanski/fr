@@ -537,9 +537,14 @@ contents_
 | Elle a les cheveux longs
 | Elle a de longs cheveux
 | des, les
-| Przymiotnik przed rzeczowniki - oba w l.mn
-| de
-| Uzywamy tylko de …
+
+|
+
+adjectives  before nouns
+   when both adjective and a noun are in plural -> we can only use 'de'
+
+|
+
 | Chez pierre lia de beaux meubles
 | il y a
 | Il achète de beaux livres
@@ -615,16 +620,66 @@ contents_
 |
 
 
+**revision**
+
+|
+
+au, à la , aux (komu, czemu, gdzie?)
+
+du, de la, des (kogo, czego?)
+
+|
+
+| Chez pierre lia de beaux meubles
+| il y a
+| Il achète de beaux livres
+| Zadanie ^
+| A paris il y a de beaux monuments
+| A paris , les monuments sont beaux
+| Elle a les cheveux longs
+| Elle a de longs cheveux
+| On fait avec
+
+
+adjectives  before nouns
+   when both adjective and a noun are in plural -> we can only use 'de'
+
+|
+
+Chez moi, il y a **de** grandes chaise. 
+
+|
+Chez moi, toutes les chaise sont grande. 
+
+|
+
+Chez Alan il y a **de** superbe jardin.
+
+|
+
+Chez Alan il y a **un** jardin superbe.
+
+|
+
+Chez Alan jarden est superbe. 
+
+|
+
 contents_
 
 |
 |
 
 
-27-05-20
+28-05-20
 ========
 
 |
+
+
+
+|
+
 
 contents_
 
