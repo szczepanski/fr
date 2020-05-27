@@ -502,8 +502,34 @@ en
    
    examples
       Tu as beaucoup de travail ? - Oui, j'**en** ai beaucoup.
-   
+      
+      Marie a fait des biscuits hier ? - Oui elle **en** a fait. 
+      
+      Je veux une pomme. - J'**en** veux une.
+      
+      Tu veux une pomme ? - Non, je n'**en** veux pas. 
 |
+
+y
+   used 
+   - with verbs that are followed by preposition **à** such as penser à, s'intéresser à, réfléchir à, participer à
+   
+   - to replace places
+   
+   examples
+      Tu t'intéresses à la musique ? - Oui, je m'**y** intéresse.
+      
+      Tu as pensé au cadeau ? - Oui, j'**y** ai pensé. 
+      
+      Tu vas participer à la compétition ? - Oui, je vais **y** participer. 
+      
+      Quand vas-tu à la banque? - J'**y** vais ce matin. 
+      
+      Je ne suis jamais allé en Australie mais j'aimerais bien **y** aller un jour. 
+      Je t'attends devant la gare. Ok, j'*y** suis dans 10 minutes.
+
+|
+
 
 contents_
 
