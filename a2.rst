@@ -518,7 +518,9 @@ en
 y
    used 
    
-   - with verbs that are followed by preposition **à** such as penser à, s'intéresser à, réfléchir à, participer à
+   - with verbs that are followed by preposition **à**
+   
+   penser à, s'intéresser à, réfléchir à, participer à, etc..
    
    - to replace places
    
