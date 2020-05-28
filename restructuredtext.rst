@@ -146,3 +146,23 @@ Block quotes
    Indented paragraphs,
 
       and they may nest. 
+      
+      
+ DocTitle
+   ========
+
+   Then use underlining only:
+
+   .. _header1:
+
+   Header 1
+   ========
+
+   Header 1.1
+   ----------
+
+   Header 1.1.1
+   ~~~~~~~~~~~~
+
+   Header 1.1.1.1
+   """"""""""""""
