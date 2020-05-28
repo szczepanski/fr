@@ -147,15 +147,6 @@ Block quotes
 
       and they may nest. 
       
-      
-
-
-
-
-Header 1
-========
-
-Header 1.1
-----------
+     
 
 
