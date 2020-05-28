@@ -545,7 +545,7 @@ contents_
 |
 
 
-Adverbs of frequency
+adverbs of frequency
 ====================
 
 |
@@ -588,6 +588,47 @@ Adverbs
       
       Elle est toujours enrhumée.
    
+|
+
+
+contents_
+
+|
+|
+
+stressed pronouns
+=================
+
+|
+
+stressed pronouns
+   use
+      - to emphasise and reinforce a subject pronoun
+      
+      - in sentences that have more than one subject
+      
+      - to ask and answer questions
+      
+      - after prepositions such as chez, pour, avec, sans, à
+      
+   examples
+      Non, **moi**, je suis assez timide mais, **lui**, il adore sortir avec ses amis.
+      
+      **Toi**, timide ? 
+
+      **Elisa** et moi sommes trop bavardes.
+      
+      Tes amis et **toi**, vous êtes drôles.
+      
+      Elle est espagnole, et **lui** ?
+      
+      Sophie: Qui va à la plage ? Rebecca: **Eux**.
+      
+      Elle va faire la fête avec **elles**.
+      
+      Nous avons acheté un cadeau pour **lui**.
+      
+      Mon copain vient chez **moi** ce soir. 
 |
 
 
