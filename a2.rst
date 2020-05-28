@@ -544,6 +544,58 @@ contents_
 |
 |
 
+
+Adverbs of frequency
+====================
+
+|
+
+Adverbs
+   describe a verb
+   
+   use
+   
+   - placed after a verb 
+   
+   or
+   
+   - on their own
+   
+   most common
+      jamais
+         never
+      
+      parfois
+         sometimes
+      
+      de temps en temps
+         from time to time
+      
+      souvent
+         often
+      
+      toujours
+         always
+   
+   examples
+      Je ne vais jamais chez le docteur.
+      
+      Il prend parfois des médicaments à cause de son allergie.
+      
+      Je vais courir de temps en temps.
+      
+      J'ai souvent mal à la tête.
+      
+      Elle est toujours enrhumée.
+   
+|
+
+
+contents_
+
+|
+|
+
 imperfect tense
 ===============
 imparfait
