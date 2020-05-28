@@ -148,21 +148,21 @@ Block quotes
       and they may nest. 
       
       
- DocTitle
-   ========
+DocTitle
+========
 
-   Then use underlining only:
+Then use underlining only:
 
-   .. _header1:
+.. _header1:
 
-   Header 1
-   ========
+Header 1
+========
 
-   Header 1.1
-   ----------
+Header 1.1
+----------
 
-   Header 1.1.1
-   ~~~~~~~~~~~~
+Header 1.1.1
+~~~~~~~~~~~~
 
-   Header 1.1.1.1
-   """"""""""""""
+Header 1.1.1.1
+""""""""""""""
