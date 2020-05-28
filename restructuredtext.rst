@@ -151,9 +151,7 @@ Block quotes
 DocTitle
 ========
 
-Then use underlining only:
 
-.. _header1:
 
 Header 1
 ========
