@@ -691,6 +691,57 @@ contents_
 |
 |
 
+txt and IT lingo
+================
+
+|
+
+an account 
+   un compte
+   
+to create
+   créer
+to log in
+   se connecter
+a username
+   un nom d'utilisateur
+a password
+   un mot de passe
+a profile
+   un profil
+to delete
+   supprimer
+customer services
+   le service client
+
+|
+
+slt
+   salut
+tkt
+   ne t'inquiète pas
+pk
+   pourquoi
+bcp
+   beaucoup
+stp
+   s'il te plaît 
+à tte
+   à toute (see you) 
+mdr
+   mort de rire
+ptdr
+   pété de rire 
+dsl
+   désolé(e) 
+
+|
+
+contents_
+
+|
+|
+
 imperfect tense
 ===============
 imparfait
