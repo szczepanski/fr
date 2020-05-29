@@ -637,7 +637,7 @@ contents_
 |
 |
 
-When was it? 
+when was it? 
 ============
 
 |
@@ -660,6 +660,29 @@ When was it?
    l'année dernière  ==  l'an dernier
    
    dernier / dernière - masculine / feminine
+
+|
+
+contents_
+
+|
+|
+
+être en train de
+================
+
+|
+
+actions in progress
+   Je suis en train de manger.
+   
+   Jean est en train de travailler.
+   
+   Il est en train de prendre sa douche.
+   
+   Je suis en train d'apprendre le français.
+   
+   Céline est en train d'écouter de la musique.
 
 |
 
