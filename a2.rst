@@ -752,27 +752,27 @@ tout, toute, tous, toutes
    all, everything, very, every
    
    used
-   - to describe nouns (match gender and number)
-      - **tout** - masculine singular
-      
-      - **toute** - feminine singular
-      
-      - **tous** - masculine plural
-      
-      - **toutes** - feminine plural
+      - to describe nouns (match gender and number)
+         - **tout** - masculine singular
+
+         - **toute** - feminine singular
+
+         - **tous** - masculine plural
+
+         - **toutes** - feminine plural
    
-   - in fixed expressions
-      tous les jours, tout le monde, tout le temps, tous les samedi soirs
-   
-   - to modify / emphasise word - quite, very
-      Marie est tout énervée. 
-      
-      Ils sont tout tristes aujourd'hui. 
-      
-      Elle est toute contente d'être ici.
-   
-   - as a pronoun - everything, all
-      when used as pronoun **s is always pronounced**
+      - in fixed expressions
+         tous les jours, tout le monde, tout le temps, tous les samedi soirs
+
+      - to modify / emphasise word - quite, very
+         Marie est tout énervée. 
+
+         Ils sont tout tristes aujourd'hui. 
+
+         Elle est toute contente d'être ici.
+
+      - as a pronoun - everything, all
+         when used as pronoun **s is always pronounced**
       
    examples
       Il a fait tout le travail.
