@@ -691,7 +691,7 @@ contents_
 |
 |
 
-txt and IT lingo
+txt and tech lingo
 ================
 
 |
@@ -735,6 +735,66 @@ ptdr
 dsl
    désolé(e) 
 
+|
+
+contents_
+
+|
+|
+
+tout, toute, tous, toutes 
+=========================
+
+|
+
+
+tout, toute, tous, toutes 
+   all, everything, very, every
+   
+   used
+   - to describe nouns (match gender and number)
+      - **tout** - masculine singular
+      
+      - **toute** - feminine singular
+      
+      - **tous** - masculine plural
+      
+      - **toutes** - feminine plural
+   
+   - in fixed expressions
+      tous les jours, tout le monde, tout le temps, tous les samedi soirs
+   
+   - to modify / emphasise word - quite, very
+      Marie est tout énervée. 
+      
+      Ils sont tout tristes aujourd'hui. 
+      
+      Elle est toute contente d'être ici.
+   
+   - as a pronoun - everything, all
+      when used as pronoun **s is always pronounced**
+      
+   examples
+      Il a fait tout le travail.
+      
+      J'ai dansé toute la nuit.
+      
+      Je nage tous les jours.
+      
+      J'aime toutes les fleures.
+      
+      Marie est tout énervée. (emphasise)
+      
+      Ils sont tout tristes aujourd'hui. (emphasise)
+      
+      Elle est toute contente d'être ici. (emphasise)
+      
+      Tout va bien. (pronoun)
+      
+      Il a tout oublié. (pronoun)
+      
+      Je les aime tous. (pronoun)
+      
 |
 
 contents_
