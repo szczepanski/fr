@@ -637,6 +637,37 @@ contents_
 |
 |
 
+When was it? 
+============
+
+|
+
+When was it?
+   C'était quand ?
+   
+   Il y a trois ans.
+   
+   Le mois dernier. 
+   
+   C'était il y a un mois. -> **mois** stays the same in plural and singular
+   
+   J'ai payé le loyer la semaine dernière.
+   
+   C'était l'an dernier.
+   
+   J'ai emménagé jeudi dernier. 
+   
+   l'année dernière  ==  l'an dernier
+   
+   dernier / dernière - masculine / feminine
+
+|
+
+contents_
+
+|
+|
+
 imperfect tense
 ===============
 imparfait
