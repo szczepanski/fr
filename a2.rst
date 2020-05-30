@@ -815,11 +815,11 @@ le conditionnel
       
       - **er and ir** verbs (donner_, finir_)
       
-      add imparfait endings
+         - **add** imparfait endings
       
       - **re** verbs (attendr_)
       
-      remove **e** and add imparfait endings
+         - **remove** **e** and **add** imparfait endings
 
          
    
