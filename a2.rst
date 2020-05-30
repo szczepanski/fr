@@ -802,6 +802,35 @@ contents_
 |
 |
 
+conditional
+===============
+
+|
+
+le conditionnel
+   verb form used express things that would happen or would be true under certain condition
+   
+   forming
+      take infinitive form of
+      
+      - **er and ir** verbs (donner_, finir_)
+      
+      add imparfait endings
+      
+      - **re** verbs (attendr_)
+      
+      remove **e** and add imparfait endings
+
+         
+   
+
+|
+
+contents_
+
+|
+|
+
 imperfect tense
 ===============
 imparfait
