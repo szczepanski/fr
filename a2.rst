@@ -413,7 +413,7 @@ contents_
 |
 
 indirect object pronouns
-======================
+========================
 
 |
 
@@ -513,6 +513,7 @@ en
       Je veux une pomme. - J'**en** veux une.
       
       Tu veux une pomme ? - Non, je n'**en** veux pas. 
+
 |
 
 y
@@ -629,6 +630,7 @@ stressed pronouns
       Nous avons acheté un cadeau pour **lui**.
       
       Mon copain vient chez **moi** ce soir. 
+
 |
 
 
@@ -692,7 +694,7 @@ contents_
 |
 
 txt and tech lingo
-================
+==================
 
 |
 
@@ -1160,5 +1162,3 @@ contents_
 
 |
 |
-
-
