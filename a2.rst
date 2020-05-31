@@ -823,35 +823,36 @@ le conditionnel
    forming
       take infinitive form of
       
-      - **er and ir** verbs (donner_, finir_)
+      - **er and ir** verbs (donner-, finir-)
       
          - **add** imparfait endings
       
-      - **re** verbs (attendr_)
+      - **re** verbs (attendr-)
       
          - **remove** **e** and **add** imparfait endings
-  example
-   je parler**ais** / attendr**ais**
-   
-   tu parler**ais** / attendr**ais**
-   
-   elle parler**ait** / attendr**ait**
-   
-   nous parler**ions** / attendr**ions**
-   
-   vous parler**iez** / attendr**ions**
-   
-   ils parler**aiont** / attendr**ions**
-   
-   Nous voudrions des informations sur / We would like some information about (polite question)
-   
-   On voudrait faire la visite : Impressionnisme / We would like to do the "Impressionism (wish)
-   
-   Vous pourriez rejoindre la visite qui commence à 14 h 30. / You could join the tour that starts at 2:30pm. (advice)
-   
-   Si (imparfait)je savais parler français, (conditionnel) j'irais vivre en Martinique.
-   
-   Si (imparfait) tu aimais le jazz, (conditionnel) on serait aller au concert.
+
+    example
+        je parler**ais** / attendr**ais**
+        
+        tu parler**ais** / attendr**ais**
+        
+        elle parler**ait** / attendr**ait**
+        
+        nous parler**ions** / attendr**ions**
+        
+        vous parler**iez** / attendr**ions**
+        
+        ils parler**aiont** / attendr**ions**
+        
+        Nous voudrions des informations sur / We would like some information about (polite question)
+        
+        On voudrait faire la visite : Impressionnisme / We would like to do the "Impressionism (wish)
+        
+        Vous pourriez rejoindre la visite qui commence à 14 h 30. / You could join the tour that starts at 2:30pm. (advice)
+        
+        Si (imparfait)je savais parler français, (conditionnel) j'irais vivre en Martinique.
+        
+        Si (imparfait) tu aimais le jazz, (conditionnel) on serait aller au concert.
 
 |
 
