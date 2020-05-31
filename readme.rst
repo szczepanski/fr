@@ -16,6 +16,8 @@
 
 `upper intermediate - b2 <https://github.com/szczepanski/fr/blob/master/b2.rst>`_
 
+`french for business <https://github.com/szczepanski/fr/blob/master/business.rst>`_
+
 `practice <https://github.com/szczepanski/fr/blob/master/practice.rst>`_
 
 `about <https://github.com/szczepanski/fr/blob/master/about.rst>`_
