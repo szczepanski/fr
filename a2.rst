@@ -858,6 +858,85 @@ contents_
 |
 |
 
+to know -> "savoir" and "connaître"
+===================================
+
+|
+
+savoir
+   used to express
+      - facts or information
+
+      - know-how (being able to do something)
+
+|
+
+.. list-table:: **savoir** (present)
+   :widths: auto
+   :header-rows: 1
+   :align: right
+
+   * - singular
+     - plural
+   * - je **sais**
+     - nous **savons**
+   * - tu **sais**
+     - vous **savez**
+   * - il / elle / on **sait**
+     - ils / elles **savent**
+     
+|
+
+connaître
+   used to talk about
+      - known people or places
+
+      - things a person is familiar with
+
+|
+
+.. list-table:: **connaître** (present)
+   :widths: auto
+   :header-rows: 1
+   :align: right
+
+   * - singular
+     - plural
+   * - je **connais**
+     - nous **connaissons**
+   * - tu **connais**
+     - vous **connaissez**
+   * - il / elle / on **connaît**
+     - ils / elles **connaissent**
+   
+|
+
+examples
+   Je n'en sais rien... / I have no idea...
+   
+   À savoir... / Who knows...
+   
+   Je sais faire du ski.
+   
+   Tu sais où j'habite ?
+   
+   Elle sait danser.
+   
+   Je ne connais personne ici. 
+   
+   Je connais ton frère.
+   
+   Ma mère connaît bien Brighton.
+   
+   Vous connaissez cette chanson
+   
+|
+
+contents_
+
+|
+|
+
 imperfect tense
 ===============
 imparfait
