@@ -1037,15 +1037,30 @@ le passé composé and l'imparfait
    
    passé composé - describes completed action in past
    
-   joined tenses - describe stories in more comprehensive way
+   joined tenses
+      describe stories in more comprehensive way or to  say that an action interrupted another ongoing action
+      
+      - ongoing action - imparfait tense 
+      - action introduced - passé composé
    
-   change indicators
+   phrases that may indicate imparfait
+      chaque fois, souvent, tous les jours
+      
+   
+   change indicators - followed by passé composé
       indicate change in development of action
       
       - quand - when
       - lorsque - when
       - soudain - suddenly
+      - soudainement - suddenly
       - tout à coup - all af a sudden
+      - à ce moment-là
+      - hier
+      - ensuite
+      - après
+      - alors
+      
       
    examples
       On se baignait quand, tout à coup, il a commencé à pleuvoir.
@@ -1059,6 +1074,8 @@ le passé composé and l'imparfait
       Je regardais un film et soudain, quelqu'un a frappé à la porte.
       
       Nous étions dans la salle à manger. 
+      
+      Nous étions en route pour la plage quand il a commencé à pleuvoir.
 
 |
 
