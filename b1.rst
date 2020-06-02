@@ -16,9 +16,44 @@
 |
 |
 
- Relative pronouns "qui, que"
- ============================
- 
- |
+Relative pronouns "qui, que"
+============================
+
+|
+
+"qui, que"
+   used to combine two sentences
+   
+   que
+      use que before a subject
+      
+   qui
+      use it before a verb
+   
+   examples
+      La piscine se trouve dans le centre. La piscine est géniale. -> La piscine **qui** se trouve dans le centre est géniale ! 
+
+      Londres est une grande ville. J'adore Londres. -> Londres est une grande ville que j'adore. 
+      
+      J'ai regardé un documentaire qui parle des éléphants d'Afrique.
+      
+      Le livre que tu m'as offert est sur la table. 
+      
+      La plante qui est sur la fenêtre est belle !   
+      
+      Je vais à l'aéroport chercher un ami qui arrive du Japon
+      
+      J'adore le livre que tu m'as prêté ! 
+      
+      Le téléphone que je veux est trop cher.
+|
+
+
+contents_
+
+|
+|
+
+
  
  
