@@ -55,47 +55,66 @@ contents_
 |
 
 
-Intention, cause and consequence
+intention, cause and consequence
 ================================ 
 
 |
 
 intention
-   in order to
-      pour + infinitif
+   pour + infinitif
+      in order to
 
-   in order to
-      afin de + infinitif
+   afin de + infinitif
+      in order to
    
    examples
       Je devais prendre le train pour aller à Paris.
       
       Je vous écris afin de vous communiquer ma décision.
+      
 |
 
 
 cause
-   because
-      parce que + sujet + indicatif
+   parce que + sujet + indicatif
+      because
 
-   because
-      car + sujet + indicatif
+   car + sujet + indicatif
+      because
+      
+   à cause de + nom / groupe nominal
+      due to (negative context)
 
-   due to
-      à cause de + nom / groupe nominal
-
-   thanks to
-      grâce à + nom / groupe nominal 
+   grâce à + nom / groupe nominal 
+      thanks to (positive context)
    
    examples
       Je vais souvent à la plage parce que j'adore nager. 
       
       Ça a valu la peine car mon amie était très contente de me voir !
       
-      Mon réveil n'a pas sonné à cause d'une panne d'électricité. 
+      Mon réveil n'a pas sonné à cause d'une panne d'électricité. (negative)
       
-      J'ai découvert ce resto grâce à mon ami Julien. 
+      J'ai découvert ce resto grâce à mon ami Julien. (positive)
+      
+|
 
+consequence
+   donc
+      so, therefore
+      
+   alors
+      so
+   
+   du coup
+      so
+      
+   examples
+      Les trains étaient annulés, j'ai donc décidé de prendre un avion.
+      
+      Je dois conduire alors je ne bois pas d'alcool.
+
+      Il pleut, du coup on va annuler la soirée. It's raining, so we're going to cancel the dinner party.
 
 |
 
