@@ -122,3 +122,74 @@ contents_
 
 |
 |
+
+subjonctif mood
+================
+
+|
+
+subjonctif
+   to express a wish, hope, uncertainty, and other attitudes or feelings
+   
+|
+
+subjonctif conjugation
+   e, tu, il / elle / on, ils / elles -  same as present tense
+
+   ous, vous - imparfait forms
+
+|
+
+.. list-table:: **parler** - present tense subjonctif conjugation
+   :widths: auto
+   :header-rows: 1
+   :align: right
+
+   * - singular
+     - plural
+   * - je parl **e**
+     - nous parl **ions**
+   * - tu parl **es**
+     - vous parl **iez**
+   * - il / elle / on parl **e**
+     - ils / elles parl **ent**
+
+|
+
+common expressions followed by subjonctifs
+   J'aimerais que... I'd love to...
+
+   Il faut que... to have to
+
+   C'est dommage que... It's a pity that...
+
+   Je doute que... I doubt that...
+
+   Je suis content que... I am happy that...
+
+   Pour que... In order to...
+   
+|
+
+examples
+   Indicatif - J'aimerais regarder ce film. -> Subjonctif - J'aimerais que nous regardions ce film.
+   
+   Il faut que tu m'apportes un cadeau du Japon !
+   
+   Je suis content que tu invites Julie à la fête.
+   
+   C'est dommage que vous n'aimiez pas danser.
+   
+   Je doute que tu aimes ce livre.
+   
+   Dépêche-toi pour qu'on arrive à l'heure !
+
+
+|
+   
+contents_
+
+|
+|
+
+
