@@ -133,10 +133,10 @@ subjonctif
    
 |
 
-subjonctif conjugation
-   e, tu, il / elle / on, ils / elles -  same as present tense
+er verbs - subjonctif conjugation
+   je, tu, il / elle / on, ils / elles -  same as present tense
 
-   ous, vous - imparfait forms
+   nous, vous - imparfait forms
 
 |
 
@@ -153,6 +153,42 @@ subjonctif conjugation
      - vous parl **iez**
    * - il / elle / on parl **e**
      - ils / elles parl **ent**
+
+|
+
+ir/re verbs - subjonctif conjugation
+   frorming
+   
+   je, tu, il / elle / on, ils / elles
+      start with present ils/elles form -> ils finissent
+      
+      drop **_ent**
+      
+      add subjunctive ending **_e, _es, _e, _ent**
+      
+   nous, vous - imparfait forms
+      start with present nous form -> nous finirons
+      
+      drop **_ons**
+      
+      add subjunctive ending **_ions, _iez**
+
+
+|
+
+.. list-table:: **parler** - present tense subjonctif conjugation
+   :widths: auto
+   :header-rows: 1
+   :align: right
+
+   * - singular
+     - plural
+   * - je finiss **e**
+     - nous finiss **ions**
+   * - tu finiss **es**
+     - vous finiss **iez**
+   * - il / elle / on finiss **e**
+     - ils / elles finiss **ent**
 
 |
 
