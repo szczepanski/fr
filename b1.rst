@@ -164,19 +164,19 @@ ir/re verbs - subjonctif conjugation
       
       drop **_ent**
       
-      add subjunctive ending **_e, _es, _e, _ent**
+      add subjunctive ending **_e, _es, _e, _ent** (as in present tense)
       
    nous, vous - imparfait forms
       start with present nous form -> nous finirons
       
       drop **_ons**
       
-      add subjunctive ending **_ions, _iez**
+      add subjunctive ending **_ions, _iez** (as in imparfait forms)
 
 
 |
 
-.. list-table:: **parler** - present tense subjonctif conjugation
+.. list-table:: **finir** - present tense subjonctif conjugation
    :widths: auto
    :header-rows: 1
    :align: right
