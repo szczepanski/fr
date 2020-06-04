@@ -242,6 +242,24 @@ Reported speech
    uses reporting verb and conjunction
    
    changes personal pronouns to agree with person speaking
+   
+|
+
+.. list-table:: **statements and orders in reported speech** -> verb and conjunction
+   :widths: auto
+   :header-rows: 1
+   :align: right
+
+   * - direct
+     - reported
+   * - **statement**
+     - **reporting verb + que / qu'**
+   * - « J'ai toujours adoré la campagne. »  
+     - Il me dit qu'il a toujours adoré la campagne. 
+   * - **order**
+     - **reporting verb + de + infinitive verb**
+   * - « Saute dans la mer !»  
+     - Il m'ordonne de sauter dans la mer. 
 
 |
 
