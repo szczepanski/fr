@@ -286,7 +286,27 @@ Reported speech
      - Emma demande ce qui me plaît à Marseille.
 
 |
+
+common reporting verbs
+   demander (to ask), ordonner (to order), dire (to say)
+
+|
+
+examples
+   direct -> reported -> Léa me dit: « Je suis terrifiée par les orages. » -> Léa dit qu'elle est terrifiée par les orages. 
    
+   direct -> reported ->  Lili demande : « Je peux ouvrir la fenêtre ? » -> Lili demande si elle peut ouvrir la fenêtre. 
+   
+   direct -> reported -> Lili me dit : « Tu as eu ton examen ! » -> Lili me dit que j'ai eu mon examen. 
+   
+   reported -> Je demande ce qu'il est en train de faire dans le garage.
+   
+   reported -> Mon patron nous ordonne de rester jusqu'à 20 heures.
+   
+   reported -> Ils disent à mes amis de venir me voir.
+
+|
+
 contents_
 
 |
