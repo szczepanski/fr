@@ -228,4 +228,48 @@ contents_
 |
 |
 
+reported speech with present tense
+==================================
 
+|
+
+Direct speech
+   uses exact words
+   
+   Léa me dit: « Je suis terrifiée par les orages. » 
+   
+Reported speech
+   uses reporting verb and conjunction
+   
+   changes personal pronouns to agree with person speaking
+
+|
+
+.. list-table:: **questions in reported speech** -> verb and conjunction
+   :widths: auto
+   :header-rows: 1
+   :align: right
+
+   * - direct
+     - reported
+   * - **closed question**
+     - **reporting verb + si**
+   * - « Vous avez faim ? » 
+     - Pierre nous demande si nous avons faim.
+   * - **open question**
+     - **reporting verb**
+   * - « Pourquoi Marie ne vient-elle pas avec nous ? »  
+     - Eloy demande pourquoi Marie ne vient pas avec nous.
+   * - **que / quoi question**
+     - **reporting verb + ce qui / ce que**
+   * - « Qu'est-ce que tu as acheté ? »  
+     - Il demande à Axelle ce qu'elle a acheté. 
+   * - « Qu'est-ce qui te plaît à Marseille ? » 
+     - Emma demande ce qui me plaît à Marseille.
+
+|
+   
+contents_
+
+|
+|
