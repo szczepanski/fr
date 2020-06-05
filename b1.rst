@@ -311,3 +311,35 @@ contents_
 
 |
 |
+
+complex negatives
+=================
+
+|
+
+ne... plus
+   someone used to do something, but not anymore 
+
+ne... jamais
+   action is never performed
+
+rien (nothing) and personne (nobody)
+   both are not followed by an object
+   
+   personne goes after the past participle in the perfect tense
+   
+examples
+   Je n'aime rien et je ne vois personne.
+   
+   Je n'ai vu personne.
+   
+   Je ne parle plus à mon chat.
+   
+   Je ne parle jamais à mon chat.
+
+|
+
+contents_
+
+|
+|
