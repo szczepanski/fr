@@ -349,11 +349,11 @@ meilleur (best) and pire (worst)
       
       Julie est la pire.
    
+|
 
 contents_
 
 |
-
 |
 
 direct object pronouns
@@ -362,7 +362,7 @@ direct object pronouns
 |
 
 direct object
-   person, thing coming straight after verb in sentence
+   person, thing - noun coming straight after verb in sentence
    
    can be identified by questioning
       quoi? - what?
@@ -373,6 +373,14 @@ direct object
       Paul lit **le livre**. Paul lit quoi ?
       
       Je connais **la fille**. Tu connais qui ?
+      
+      J'aime **le chocolat**, 
+      
+      Je comprends **le latin**, 
+      
+      J'ai visité **l'italie**
+   
+      Je donne **un cookie** à ma soeur.
 
 |
 
@@ -432,7 +440,7 @@ indirect object pronouns
 |
 
 indirect object
-   person, thing coming straight after preposition à
+   person, thing - noun that is separated from verb by preposition **à** or occasionally **pour**
    
    can be identified by questioning
       à qui? - to whom?
@@ -444,6 +452,9 @@ indirect object
       Emma téléphone **à son ami**.  À qui téléphone Emma ?    
 
       Marc pense **à ses vacances**. À quoi pense Marc? 
+      
+      Je donne un cookie à **ma soeur**.
+
       
 |
 
@@ -558,7 +569,6 @@ contents_
 
 |
 |
-
 
 adverbs of frequency
 ====================
