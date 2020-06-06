@@ -1117,6 +1117,8 @@ le futur simple
       _ai, _as, _a, _ons, _ez, _ont
    
    irregular verbs futur simple stem
+      Être -> ser + endings
+      
       avoir -> aur + endings
       
       faire -> fer + endings
@@ -1125,13 +1127,19 @@ le futur simple
       
       aller -> ir + endings
       
+      envoyer -> enverr + endings
+      
       venir -> viendr + endings
+      
+      voir -> verr + endings
       
       vouloir -> voudr + endings
       
       devoir -> devr + endings
       
       pouvoir -> pourr + endings
+      
+      savoir -> saur + endings
    
    examples
       L'année prochaine je ferai le tour de l'Afrique. 
