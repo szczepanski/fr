@@ -997,7 +997,7 @@ imperfect tense / imparfait
 
 |
 
-.. list-table:: common irregular verbs **nous** forms - present tense
+.. list-table:: 8 common irregular verbs **nous** forms - present tense
    :widths: auto
    :header-rows: 1
    :align: right
