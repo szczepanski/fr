@@ -997,6 +997,32 @@ imperfect tense / imparfait
 
 |
 
+.. list-table:: common irregular verbs **nous** forms - present tense
+   :widths: auto
+   :header-rows: 1
+   :align: right
+
+   * - infinitive
+     - nous conjugation
+   * - boire
+     - nous **buvons**
+   * - manger
+     - nous **mangeons**   
+   * - lire
+     - nous **lisons**   
+   * - faire
+     - nous **faisons**   
+   * - prendre
+     - nous **prenons**   
+   * - croire
+     - nous **croyons**   
+   * - voir
+     - nous **voyons**   
+   * - conduire
+     - nous **conduisons**
+
+|
+
 .. list-table:: example - avoir -> nous **av** ons
    :widths: auto
    :header-rows: 1
