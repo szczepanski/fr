@@ -15,3 +15,53 @@
 
 |
 |
+
+subordinate clauses - que, qui
+==============================
+
+|
+
+subject
+   subject of préférer 
+   J'ai acheté les fleurs qu'**elle** préfère.
+
+|
+
+object
+   J'ai acheté **les fleurs** qu'elle préfère.
+
+|
+
+qui = subject
+   replaces **subject**
+   
+|
+
+que = object
+   replaces **object**
+   
+|
+
+examples
+   L'amie **qui** m'a offert ce manteau est partie en France.
+   
+   Mes parents pensent **que** je suis trop jeune.
+   
+   Les amis **qu'** on a invités ne viendront pas.
+   
+   Le chalet **que** nous avons loué est magnifique.
+   
+   Les adultes **qui** parlent français sont les plus populaires.
+   
+   Ma mère est partie en vacances. C'est elle **qui** a décidé de partir.
+   
+   J'adore le français. C'est la langue **que** j'apprends.
+
+   J'ai vu un chat. Le chat **que** j'ai vu est noir.
+   
+|
+
+contents_
+
+|
+|
