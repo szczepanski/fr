@@ -23,6 +23,7 @@ subordinate clauses - que, qui
 
 subject
    subject of préférer 
+   
    J'ai acheté les fleurs qu'**elle** préfère.
 
 |
