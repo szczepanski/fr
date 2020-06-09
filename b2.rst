@@ -121,17 +121,17 @@ examples
 |
 
 falloir with faire conjugated as subjunctive - 'fass' stem
-   Il faut **que** je fass**e**
+   Il faut **que** je fass **e**
 
-   Il faut **que** tu fass**es**
+   Il faut **que** tu fass **es**
    
-   Il faut **qu**'il/elle fass**e**
+   Il faut **qu**'il/elle fass **e**
    
-   Il faut **que** nous fass**ions**
+   Il faut **que** nous fass **ions**
    
-   Il faut **que** vous fass**iez**
+   Il faut **que** vous fass **iez**
    
-   Il faut **qu**'ils/elles fass**ent**
+   Il faut **qu**'ils/elles fass **ent**
 
 |
 
