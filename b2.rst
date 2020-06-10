@@ -152,7 +152,7 @@ si
       - talk about condition
    
    made of
-      - clause in present -> **si**
+      - clause in present including **si**
       
       - clause in future
       
