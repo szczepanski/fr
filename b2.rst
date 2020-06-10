@@ -135,8 +135,44 @@ falloir with faire conjugated as subjunctive - 'fass' stem
 
 |
 
+contents_
+
+|
+|
+
+conditional phrases - si
+========================
+
+|
+
+si
+   used to
+      - link one action and its consequence
+
+      - talk about condition
+   
+   made of
+      - clause in present -> **si**
+      
+      - clause in future
+      
+   examples
+      Si tu me tapes, je pleurerai.
+      
+      Si tu es sage, nous irons au restaurant.
+      
+      Si elle mange, elle n'aura plus faim.
+      
+      Si elle mange, elle n'aura plus faim.
+      
+      Tu seras furieuse si je mens.
+      
+      Nous irons en vacances si nous avons assez d'argent.      
+   
+|
 
 contents_
 
 |
 |
+
