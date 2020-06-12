@@ -218,3 +218,39 @@ contents_
 |
 |
 
+pluperfect tense
+================
+
+|
+
+pluperfect
+   describe action in past that happened before another action in past
+   
+   forming
+      auxiliary -> être or avoir in the imperfect followed by past participle of the verb
+      
+   applies perfect tense all rules - agreement, word order, auxiliary verbs
+   
+   adverbs (toujours, déjà) go between  auxiliary verb and past participle
+   
+   examples
+      Avant de partir, j'avais fermé la porte.
+      
+      Ils s'étaient rencontrés il y a deux mois et ils se sont revus la semaine dernière.
+      
+      Elles étaient déjà montées en haut de la Tour Eiffel.
+      
+      Il était parti au Canada.
+      
+   
+
+|
+
+contents_
+
+|
+|
+
+
+
+
