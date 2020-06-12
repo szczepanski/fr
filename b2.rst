@@ -176,3 +176,45 @@ contents_
 |
 |
 
+passive
+=======
+
+|
+
+passive
+   puts the focus on the object or recipient of an action, rather than the agent who performs the action
+  
+   if agent who performes action is needed - use **par** after verb 
+   
+   forming
+      être in the appropriate tense -> followed by past participle of verb
+      
+      Present --> Je suis invité
+      
+      Perfect --> J'ai été invité
+      
+      Imperfect --> J'étais invité
+      
+      Future --> Je serai invité
+      
+   note
+      past participle must agree with the subject of verb
+      
+      Elles ont été invitées.
+      
+   examples
+      Les dodos ont été exterminés. 
+      
+      Ce bâtiment sera détruit demain.
+      
+      Thomas est battu par sa soeur Sara. 
+      
+      Mes parents seront déçus par mes résultats. 
+
+|
+
+contents_
+
+|
+|
+
