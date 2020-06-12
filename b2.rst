@@ -150,11 +150,11 @@ si
       - link one action and its consequence
 
       - talk about condition
-   
+         
    made of
-      - clause in present including **si**
+      - clause **si** in **present** 
       
-      - clause in future
+      - other clause in **future**
       
    examples
       Si tu me tapes, je pleurerai.
@@ -167,7 +167,33 @@ si
       
       Tu seras furieuse si je mens.
       
-      Nous irons en vacances si nous avons assez d'argent.      
+      Nous irons en vacances si nous avons assez d'argent.    
+      
+
+si in hypothetical actions 
+   used to link hypothetical actions to their possible consequences
+   
+   made of
+      - clause **si** in **imperfect**
+      
+      - other clouse in **conditional**
+      
+   examples
+      Si tu me tapais, je pleurerais.
+      
+      Si tu étais sage, nous irions au restaurant.
+      
+      Si elle mangeait, elle n'aurait plus faim.
+      
+      Si je pouvais, je partirais.
+      
+      Si je travaillais, je serais fort.
+      
+      Si tu m'aimais, je serais heureux
+      
+      Tu serais furieuse si je mentais.
+      
+      Nous irions en vacances si nous avions assez d'argent.
    
 |
 
