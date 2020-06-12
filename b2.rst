@@ -268,8 +268,6 @@ pluperfect
       
       Il était parti au Canada.
       
-   
-
 |
 
 contents_
@@ -278,5 +276,52 @@ contents_
 |
 
 
+conditional perfect
+===================
 
+|
 
+conditional perfect
+   used when referring to actions that could have taken place, often on condition of another thing having happened
+   
+   often used to report an unverified fact and in si clauses, used alongside the pluperfect
+   
+   forming
+      - auxiliary -> être or avoir in the conditional
+      
+      - followed by the past participle of the verb
+   
+   examples
+      Si nous avions su, nous aurions appelé. 
+      
+      Si tu m'avais compris, tu serais resté.
+      
+      Si j'avais su, je ne serais pas venu
+      
+      Cinq cent personnes seraient mortes dans l'attentat de ce matin.
+      
+|
+
+common irregular verbs with irregular past participle
+   faire -> fait
+   
+   avoir -> eu
+   
+   devoir -> dû
+   
+   prendre -> pris
+   
+   dire -> dit
+   
+   mettre -> mis
+   
+   lire -> lu
+   
+   ouvrir -> ouvert
+      
+|
+
+contents_
+
+|
+|
