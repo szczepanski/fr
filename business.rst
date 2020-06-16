@@ -67,175 +67,117 @@ contents_
 |
 
 
-test
+test 
 ====
 
-|image0|
+.. list-table:: **vocab** - present tense subjonctif conjugation
+   :widths: auto
+   :header-rows: 1
+   :align: right
 
-+-----------------------------+---+-----------------------------+---+
-|    le bureau                |   |    the desk                 |   |
-+=============================+===+=============================+===+
-|                             |   |                             |   |
-+-----------------------------+---+-----------------------------+---+
-|    Anna travaille de chez   |   |    Anna is working from     |   |
-|    elle aujourd'            |   |    home today,              |   |
-+-----------------------------+---+-----------------------------+---+
-|    hui, vous pouvez donc    |   |    so you can use her desk. |   |
-|    utiliser son             |   |                             |   |
-+-----------------------------+---+-----------------------------+---+
-|    bureau.                  |   |                             |   |
-+-----------------------------+---+-----------------------------+---+
-|    la chaise                |   |    the chair                |   |
-+-----------------------------+---+-----------------------------+---+
-|                             |   |                             |   |
-+-----------------------------+---+-----------------------------+---+
-|                             |   |                             |   |
-+-----------------------------+---+-----------------------------+---+
-|                             |   |                             |   |
-+-----------------------------+---+-----------------------------+---+
-|    Les chaises au travail   |   |    The chairs at work are   |   |
-|    ne sont vrai             |   |    so uncomfo               |   |
-+-----------------------------+---+-----------------------------+---+
-|    ment pas confortables.   |   |    rtable.                  |   |
-+-----------------------------+---+-----------------------------+---+
-|    le bureau                |   |    the office               |   |
-+-----------------------------+---+-----------------------------+---+
-|                             |   |                             |   |
-+-----------------------------+---+-----------------------------+---+
-|                             |   |                             |   |
-+-----------------------------+---+-----------------------------+---+
-|                             |   |                             |   |
-+-----------------------------+---+-----------------------------+---+
-|    Ils ont emménagé dans un |   |    They moved to a new      |   |
-|    nouvea                   |   |    office in cent           |   |
-+-----------------------------+---+-----------------------------+---+
-|    u bureau dans le centre  |   |    ral London last month.   |   |
-|    de Londre                |   |                             |   |
-+-----------------------------+---+-----------------------------+---+
-|    s le mois dernier.       |   |                             |   |
-+-----------------------------+---+-----------------------------+---+
-|    l'imprimante             |   |    the printer              |   |
-+-----------------------------+---+-----------------------------+---+
-|                             |   |                             |   |
-+-----------------------------+---+-----------------------------+---+
-|                             |   |                             |   |
-+-----------------------------+---+-----------------------------+---+
-|                             |   |                             |   |
-+-----------------------------+---+-----------------------------+---+
-|    Ça vous dérange si       |   |    Do you mind if I use the |   |
-|    j'utilise l'impri        |   |    printer?                 |   |
-+-----------------------------+---+-----------------------------+---+
-|    mante ?                  |   |                             |   |
-+-----------------------------+---+-----------------------------+---+
-|    la photocopieuse         |   |    the photocopy machine    |   |
-+-----------------------------+---+-----------------------------+---+
-|                             |   |                             |   |
-+-----------------------------+---+-----------------------------+---+
-|                             |   |                             |   |
-+-----------------------------+---+-----------------------------+---+
-|                             |   |                             |   |
-+-----------------------------+---+-----------------------------+---+
+   * - eng
+     - fr
+   * - je parl **e**
+     - nous parl **ions**
+   * - tu parl **es**
+     - vous parl **iez**
+   * - il / elle / on parl **e**
+     - ils / elles parl **ent**
+   le bureau
 
-|image1|
+   the desk
 
-|image2|
-
-+-----------------------------+---+-----------------------------+---+
-|    Il a besoin d'utiliser   |   |    He needs to use the      |   |
-|    la photocopieu           |   |    photocopier.             |   |
-+=============================+===+=============================+===+
-|    se.                      |   |                             |   |
-+-----------------------------+---+-----------------------------+---+
-|    l'ordinateur             |   |    the computer             |   |
-+-----------------------------+---+-----------------------------+---+
-|                             |   |                             |   |
-+-----------------------------+---+-----------------------------+---+
-|                             |   |                             |   |
-+-----------------------------+---+-----------------------------+---+
-|                             |   |                             |   |
-+-----------------------------+---+-----------------------------+---+
-|    Qui a utilisé cet        |   |    Who was using this       |   |
-|    ordinateur hier ?        |   |    computer yest            |   |
-+-----------------------------+---+-----------------------------+---+
-|                             |   |    erday?                   |   |
-+-----------------------------+---+-----------------------------+---+
-|    l'ordinateur portable    |   |    the laptop               |   |
-|    (masculin)               |   |                             |   |
-+-----------------------------+---+-----------------------------+---+
-|                             |   |                             |   |
-+-----------------------------+---+-----------------------------+---+
-|                             |   |                             |   |
-+-----------------------------+---+-----------------------------+---+
-|                             |   |                             |   |
-+-----------------------------+---+-----------------------------+---+
-|    Tu as un ordinateur      |   |    Do you have a laptop?    |   |
-|    portable ?               |   |                             |   |
-+-----------------------------+---+-----------------------------+---+
-|    la salle de réunion      |   |    the meeting room         |   |
-+-----------------------------+---+-----------------------------+---+
-|                             |   |                             |   |
-+-----------------------------+---+-----------------------------+---+
-|                             |   |                             |   |
-+-----------------------------+---+-----------------------------+---+
-|                             |   |                             |   |
-+-----------------------------+---+-----------------------------+---+
-|    Pourrions-nous avoir     |   |    Could we have this       |   |
-|    cette salle de           |   |    meeting room i           |   |
-+-----------------------------+---+-----------------------------+---+
-|    réunion dans cinq        |   |    n five minutes, please?  |   |
-|    minutes s'il vous        |   |                             |   |
-+-----------------------------+---+-----------------------------+---+
-|    plaît ?                  |   |                             |   |
-+-----------------------------+---+-----------------------------+---+
-|    le téléphone             |   |    the phone                |   |
-+-----------------------------+---+-----------------------------+---+
-|                             |   |                             |   |
-+-----------------------------+---+-----------------------------+---+
-|                             |   |                             |   |
-+-----------------------------+---+-----------------------------+---+
-|                             |   |                             |   |
-+-----------------------------+---+-----------------------------+---+
-|    Veuillez décrocher le    |   |    Please answer the phone  |   |
-|    téléphone qu             |   |    when it ri               |   |
-+-----------------------------+---+-----------------------------+---+
-|    and il sonne.            |   |    ngs.                     |   |
-+-----------------------------+---+-----------------------------+---+
-|                             |   |                             |   |
-+-----------------------------+---+-----------------------------+---+
-
-|image3|
-
-   Here's a tip
-
-   In the previous lesson we learned some handy phrases for when you're
-   at work. In this unit we'll learn the names of some common things
-   that you can find in an office.
-
-   In French *le bureau* means the piece of furniture (the desk) and
-   also the place
-
-   you are working (the office).
-
-|image4|
+   Anna travaille de chez elle aujourd'hui, vous pouvez donc utiliser son bureau.
 
    Anna is working from home today, so you can use her desk.
 
-   Ils ont emménagé dans un nouveau *bureau* dans le centre de Londres
-   le mois dernier. (They moved to a new office in central London last
-   month.
+   la chaise
 
-.. |image0| image:: media/image1.png
-   :width: 6.34722in
-   :height: 1.83333in
-.. |image1| image:: media/image2.png
-   :width: 6.34722in
-   :height: 6.5in
-.. |image2| image:: media/image3.png
-   :width: 6.34722in
-   :height: 0.90694in
-.. |image3| image:: media/image4.png
-   :width: 6.34722in
-   :height: 6.59722in
-.. |image4| image:: media/image5.png
-   :width: 6.34722in
-   :height: 1.55556in
+   the chair
+
+   Les chaises au travail ne sont vraiment pas confortables.
+
+   The chairs at work are so uncomfortable.
+
+
+
+|
+|
+le bureau
+
+the desk
+
+Anna travaille de chez elle aujourd'hui, vous pouvez donc utiliser son bureau.
+
+Anna is working from home today, so you can use her desk.
+
+la chaise
+
+the chair
+
+Les chaises au travail ne sont vraiment pas confortables.
+
+The chairs at work are so uncomfortable.
+
+le bureau
+
+the office
+
+Ils ont emménagé dans un nouveau bureau dans le centre de Londres le mois dernier.
+
+They moved to a new office in central London last month.
+
+l'imprimante
+
+the printer
+
+Ça vous dérange si j'utilise l'imprimante ?
+
+Do you mind if I use the printer?
+
+la photocopieuse
+
+the photocopy machine
+
+Il a besoin d'utiliser la photocopieuse.
+
+He needs to use the photocopier.
+
+l'ordinateur
+
+the computer
+
+Qui a utilisé cet ordinateur hier ?
+
+Who was using this computer yesterday?
+
+l'ordinateur portable (masculin)
+
+the laptop
+
+Tu as un ordinateur portable ?
+
+Do you have a laptop?
+
+la salle de réunion
+
+the meeting room
+
+Pourrions-nous avoir cette salle de réunion dans cinq minutes s'il vous plaît ?
+
+Could we have this meeting room in five minutes, please?
+
+le téléphone
+
+the phone
+
+Veuillez décrocher le téléphone quand il sonne.
+
+Please answer the phone when it rings.
+Here's a tip
+
+In the previous lesson we learned some handy phrases for when you're at work. In this unit we'll learn the names of some common things that you can find in an office.
+
+In French le bureau means the piece of furniture (the desk) and also the place you are working (the office).
+Anna is working from home today, so you can use her desk.
+Ils ont emménagé dans un nouveau bureau dans le centre de Londres le mois dernier. (They moved to a new office in central London last month.
