@@ -77,32 +77,27 @@ test
 
    * - eng
      - fr
-   * - je parl **e**
-     - nous parl **ions**
-   * - tu parl **es**
-     - vous parl **iez**
-   * - il / elle / on parl **e**
-     - ils / elles parl **ent**
-   le bureau
+   * - le bureau
 
-   the desk
+     - the desk
 
-   Anna travaille de chez elle aujourd'hui, vous pouvez donc utiliser son bureau.
+   * - Anna travaille de chez elle aujourd'hui, vous pouvez donc utiliser son bureau.
 
-   Anna is working from home today, so you can use her desk.
+     - Anna is working from home today, so you can use her desk.
 
-   la chaise
+   * - la chaise
 
-   the chair
+     - the chair
 
-   Les chaises au travail ne sont vraiment pas confortables.
+   * - Les chaises au travail ne sont vraiment pas confortables.
 
-   The chairs at work are so uncomfortable.
+     - The chairs at work are so uncomfortable.
 
 
 
 |
 |
+
 le bureau
 
 the desk
