@@ -77,13 +77,13 @@ test
 
    * - eng
      - fr
-   * - le bureau
+   * - the deskle 
 
-     - the desk
+     - bureau
 
-   * - Anna travaille de chez elle aujourd'hui, vous pouvez donc utiliser son bureau.
+   * - Anna is working from home today, so you can use her desk.
+     - Anna travaille de chez elle aujourd'hui, vous pouvez donc utiliser son bureau.
 
-     - Anna is working from home today, so you can use her desk.
 
    * - la chaise
 
