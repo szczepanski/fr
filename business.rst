@@ -88,69 +88,70 @@ test
    * - 
      - 
    * - l'entreprise
-   - the company
+     - the company
    * - Busuu est une entreprise d'apprentissage linguistique.
-   - Busuu is a language learning company.
+     - Busuu is a language learning company.
    * - l'employé / l'employée
-   - the employee
+     - the employee
    * - Combien y a-t-il d'employés dans l'entreprise?
-   - How many employees are there in the company?
+     - How many employees are there in the company?
    * - le personnel
-   - staff
+     - staff
    * - Mon entreprise a un personnel de 400 personnes.
-   - My company has a staff of 400.
+     - My company has a staff of 400.
    * - le patron / la patronne
-   - the boss
+     - the boss
    * - Vous vous entendez bien avec votre patron?
-   - Do you get along well with the CEO?
+     - Do you get along well with the CEO?
    * - le responsable / la responsable
-   - the manager
+     - the manager
    * - Mon responsable travaille ici depuis 10 ans.
-   - My manager has been working here for 10 years.
+     - My manager has been working here for 10 years.
    * - le service
-   - the department
+     - the department
    * - Dans quel service est-ce que vous travaillez?
-   - Which department do you work in?
+     - Which department do you work in?
    * - les ventes
-   - sales
+     - sales
    * - Je travaille dans le service des ventes.
-   - I work in the sales department.
+     - I work in the sales department.
    * - le marketing
-   - marketing
+     - marketing
    * - Il y a 10 employés dans le service marketing.
-   - There are 10 employees in the marketing department.
+     - There are 10 employees in the marketing department.
    * - la finance
-   - the finance department
+     - the finance department
    * - Je veux travailler dans la finance quand j'aurai mon diplôme.
-   - I want to work in finance when I graduate.
+     - I want to work in finance when I graduate.
    * - l'informatique
-   - IT (Information Technology)
+     - IT (Information Technology)
    * - Si vous avez des problèmes avec votre ordinateur, appelez le service informatique.
-   - If you have any issues with your computer, call the IT department.
+     - If you have any issues with your computer, call the IT department.
    * - les ressources humaines
-   - the Human Resources (HR)
+     - the Human Resources (HR)
    * - Si vous avez un problème avec votre responsable, vous pouvez en parler à quelqu'un des ressources humaines.
-   - If you have a problem with your manager, you can talk to someone from HR about it.
+     - If you have a problem with your manager, you can talk to someone from HR about it.
    * - Here's a tip
-   - Now let's learn the names of some common departments and roles within companies, and how to use these names when describing the work we do.
+     - Now let's learn the names of some common departments and roles within companies, and how to use these names when describing the work we do.
    * - The words le personnel and les employés mean the same thing. Le personnel is used to refer collectively to the group of people who work for a particular company.
-   - Mon entreprise compte 10 employés. (My company has 10 employees.)
+     - Mon entreprise compte 10 employés. (My company has 10 employees.)
    * - Le personnel de mon entreprise est de 10 personnes. (My company has a staff of 10.)
-   - The words 'patron / patronne' and 'responsable' generally mean the same thing. Patron / patronne' is a more informal word.
+     - The words 'patron / patronne' and 'responsable' generally mean the same thing. Patron / patronne' is a more informal word.
    * - Dialogue
-   - Alessandro: Pour quelle entreprise travaillez-vous ?
+     - Alessandro: Pour quelle entreprise travaillez-vous ?
    * - Alessandro: Which company do you work for?
-   - Lauren: Je travaille pour Life Sense. C'est un laboratoire pharmaceutique. Et vous ?
+     - Lauren: Je travaille pour Life Sense. C'est un laboratoire pharmaceutique. Et vous ?
    * - Lauren: I work for Life Sense. It's a pharmaceutical company. What about you?
-   - Alessandro: Je travaille pour une entreprise de vente au détail appelée Pentech.
+     - Alessandro: Je travaille pour une entreprise de vente au détail appelée Pentech.
    * - Alessandro: I work for a retail company called Pentech.
-   - Lauren: Oh, mon amie travaille pour Pentech ! Dans quel service travaillez-vous ?
+     - Lauren: Oh, mon amie travaille pour Pentech ! Dans quel service travaillez-vous ?
    * - Lauren: Oh, my friend works for Pentech! Which department do you work in?
-   - Alessandro: Je suis responsable au sein du service informatique. Comment s'appelle votre amie ?
+     - Alessandro: Je suis responsable au sein du service informatique. Comment s'appelle votre amie ?
    * - Alessandro: I am the manager of the IT department. What's your friend's name?
-   - Lauren: Paula Mesner. Elle travaille aux ressources humaines. Vous la connaissez ?
+     - Lauren: Paula Mesner. Elle travaille aux ressources humaines. Vous la connaissez ?
    * - Lauren: Paula Mesner. She works in HR. Do you know her?
-   - Alessandro: Euh, non, je ne pense pas l'avoir déjà rencontrée. Mais je connais Alice, sa responsable.
+     - Alessandro: Euh, non, je ne pense pas l'avoir déjà rencontrée. Mais je connais Alice, sa responsable.
+
 
 
 
