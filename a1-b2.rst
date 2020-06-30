@@ -334,15 +334,10 @@ nos, vos, leurs
 |
 |
 
-tenses
-======
 
-|
-|
+present tense
+=============
 
-*******
-present
-*******
 temps présent
 régulier
 
@@ -383,9 +378,9 @@ pronouncitation
 |
 |
 
-***********
-near future
-***********
+
+future tense
+============
 temps futur proche
 
 |
@@ -440,9 +435,9 @@ near future tense
 |
 |
 
-*************
-compound past
-*************
+
+present perfect
+===============
 passé composé 
 
 |
