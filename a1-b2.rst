@@ -18,6 +18,12 @@ contents
 |
 |
 
+a1
+==
+
+|
+|
+
 subject pronouns
 ================
 pronoms sujets
@@ -1802,3 +1808,1881 @@ regular 3rd group 're' present tense
      - vous **descendez**
    * - il / elle / on **descend**
      - ils / elles **descendent**
+     
+|
+|
+
+a2
+==
+
+|
+|
+
+
+Prepositions of place
+=====================
+
+|
+
+à 
+   in front of city
+au
+   in front of a masculine country
+en
+   in front of a feminine country
+aux
+   in front of a plural country
+
+   examples
+      Je pars à Madrid demain.
+
+      Je vais au Japon cet été.
+
+      Tu es déjà allé en France ?
+
+      Tu pars quand aux États-Unis ?
+
+|
+
+contents_
+
+|
+|
+
+comparative
+===========
+
+|
+
+more… than... / -er than...
+   plus + adjective + que
+   
+   plus + de + noun + que (de) 
+
+less / fewer… than...
+   moins + adjective + que
+   
+   moins + de + noun + que (de)
+
+as... as...
+   aussi + adjective + que
+   
+   autant + de + noun + que de 
+
+   examples
+      Le pantalon noir est plus court que le pantalon rouge.
+
+      Il y a plus de vestes que de chemises dans cette boutique.
+
+      Ce jean me va mieux car il est moins large que ce pantalon.
+
+      Il y a moins de vestes que de chemises dans cette boutique.
+
+      Ce pull est aussi large que cette veste.
+
+      Il y a autant de vestes que de chemises dans cette boutique
+   
+|
+
+contents_
+
+|
+|
+
+negative expressions
+====================
+
+|
+
+ne ... plus
+   no longer / anymore
+
+ne ... jamais
+   never / not ever
+
+ne ... rien
+   nothing / not anything
+
+ne ... personne
+   nobody / no one / not anybody
+
+   examples
+      Marc ne mange plus de pain pour le petit déjeuner.
+
+      Marie n'a jamais mangé de fruits de mer.(Marie has never eaten seafood.)
+
+      Il n'a rien acheté au marché ce matin. (He didn't buy anything at the market this morning.)
+
+      Personne ne veut cuisiner ce soir !
+
+|
+
+ne … pas / ne … plus / ne … jamais
+   always surrounds
+   
+   - main verb (present simple)
+   
+   - auxiliary verb (passé composé / futur proche)
+   
+   examples
+      Je ne joue (main verb) plus de la guitare.
+
+      Ils ne vont (auxiliary verb) pas aller au supermarché.
+
+      Nous n'avons (auxiliary verb) rien acheté. We haven't bought anything.
+   
+|
+
+Written Vs spoken French
+   Je ne sais pas.
+   
+   Je sais pas.
+
+
+|
+
+rien as subject
+   placed at begining of sentence
+   
+   examples
+      Rien ne va plus ! Nothing is going right!
+      
+      Rien ne marche ! Nothing is working!
+
+|
+
+use of personne
+   passé composé - after past participle
+
+   futur proche - after infinitive
+
+   other tenses - after verb
+
+   personne as subject - place ne directly after personne
+   
+   examples
+      Je n'ai vu personne.
+   
+      Je ne vais voir personne aujourd'hui.
+      
+      Il ne connaît personne à la fête. 
+      
+      Personne ne veut venir à la fête.
+
+|
+
+indefinite articles (un, une, des) and partitive articles (du, de la, de l')
+   become de or d' within negative expressions
+   
+   definite articles (le, la, les) stay same
+   
+   examples
+      J'ai de l'argent. Je n'ai pas d'argent.
+      
+      Elle achète du poulet. Elle n'achète pas de poulet.
+      
+      Nous allons manger des pommes. Nous n'allons pas manger de pommes. 
+      
+      On a une voiture. On n'a plus de voiture. 
+      
+|
+
+contents_
+
+|
+|
+
+adverbs
+=======
+
+|
+
+adjective ending with e
+   add **ment**
+   
+adjective ending with ent
+      replace it with **emment**
+
+adjective ending with ant
+      replace it with **amment**
+
+examples
+   parfaite -> parfaitement, heureuse -> heureusement, facilement
+   
+   récent -> récemment, apparent -> apparemment
+   
+   constant -> constamment, bruyant -> bruyamment
+
+|
+
+contents_
+
+|
+|
+
+imperative
+==========
+
+|
+
+imperative
+   used in orders, instructions with **tu, vous, nous**
+   
+   to form it use present tense verb and remove subject pronoun
+   
+   when used in 'tu' form with 1st gr verbs 'er', ending 's' needs to drop
+   
+   examples
+      Vous mettez la table -> Mettez la table ! 
+      
+      Tu fais attention. -> Fais attention!
+      
+      Tu ne prends pas mon téléphone. - > Ne prends pas mon téléphone.
+      
+      Tu coupes les carottes. -> Coupe les carottes!
+      
+      Tu n'oublies pas. -> N'oublie pas.    
+
+|
+
+contents_
+
+|
+|
+
+feminine adjectives
+===================
+
+|
+
+forming feminine adjectives
+   - no action - verbs ending with **e**
+
+   timide / timide
+
+   - add e - most verbs
+
+   fatigué / fatiguée, fier / fière, blond / blonde, grand / grande
+
+   - 4 rules (only for some adjectives)
+
+   _f -> _ve
+      sportif / sportive, naïf / naïve
+
+   _x -> _se
+      heureux / heureuse, aventureux / aventureuse, peureux / peureuse, 
+
+   _s, _n, _l -> _sse, _nne, _lle
+      cambodgien / cambodgienne, gentil/gentille
+
+   _er -> _ère
+      premier/première
+
+   - exceptions
+
+   beau / belle
+
+   nouveau / nouvelle
+
+   vieux / vieille
+
+   blanc / blanche
+
+   long / longue
+
+   
+
+|
+
+contents_
+
+|
+|
+
+superlative
+===========
+
+|
+
+superlatives
+   ending of adjective must with  gender and quantity of noun
+   
+the most
+   le / la / les plus + adjective = the most
+the least
+   le / la / les moins + adjective = the least
+
+
+   examples
+      Simon est le plus sociable du groupe.
+   
+      Eloise est la moins bavarde de mes amis.
+      
+      Clément est moins sympa que toi.
+      
+   exceptions
+      no le plus meilleur, le moins pire
+      
+      the best - le meilleur/la meilleure/les meilleurs/les meilleures
+      
+      the worst - le pire/la pire/les pires
+      
+superlatives with adverbs
+   always with article 'le' only
+   
+   le plus + adverb / le moins + adverb
+   
+   examples
+      Appelle-moi le plus rapidement possible.
+      
+      C'est Lucien qui court le moins vite.
+
+|
+
+meilleur (best) and pire (worst)
+   irregular constructions - work without addition of plus or moins
+   
+   examples
+      Tu es la meilleure.
+      
+      Julie est la pire.
+   
+|
+
+contents_
+
+|
+|
+
+direct object pronouns
+======================
+
+|
+
+direct object
+   person, thing - noun coming straight after verb in sentence
+   
+   can be identified by questioning
+      quoi? - what?
+      
+      qui? - who?
+   
+   examples
+      Paul lit **le livre**. Paul lit quoi ?
+      
+      Je connais **la fille**. Tu connais qui ?
+      
+      J'aime **le chocolat**, 
+      
+      Je comprends **le latin**, 
+      
+      J'ai visité **l'italie**
+   
+      Je donne **un cookie** à ma soeur.
+
+|
+
+direct object pronouns
+   used to avoid repetition of direct object
+   
+   singular
+      inanimate - things - **le, la**
+      
+      animate - people - **me, te, le, la**
+   
+   plural
+      inanimate - things - **les**
+      
+      animate - people - **nous, vous, les**
+   
+   placement
+      présent -> before verb
+   
+      passé composé -> before auxiliary verb
+      
+      futur proche -> between verb aller and main verb
+      
+   examples
+      Paul lit le livre. -> Paul **le lit**.
+      
+      Je connais la fille. -> Je **la connais**.   
+      
+      me (me) -> Marie m'a invité à sa fête. 
+      
+      te (you) -> Elle t'attend devant la banque.
+      
+      la / l' (her / it) - Il aime la maison ? - Non, il ne l'aime pas.
+      
+      nous (us) - Elle nous voit.
+      
+      vous (you) - Nous allons vous aider.
+
+      les (them) - Je les aime.
+      
+      Le présent: Il les mange. 
+      
+      Le passé composé: Nous l'avons vendu.
+      
+      Le futur proche: Ils vont t'attendre devant la gare.
+     
+|
+
+contents_
+
+|
+|
+
+indirect object pronouns
+========================
+
+|
+
+indirect object
+   person, thing - noun that is separated from verb by preposition **à** or occasionally **pour**
+   
+   can be identified by questioning
+      à qui? - to whom?
+
+      à quoi? - to / about what?
+      
+   
+   examples
+      Emma téléphone **à son ami**.  À qui téléphone Emma ?    
+
+      Marc pense **à ses vacances**. À quoi pense Marc? 
+      
+      Je donne un cookie à **ma soeur**.
+
+      
+|
+
+indirect object pronouns
+   used to avoid repetition of indirect object
+   
+   singular
+      inanimate - things - **y**
+      
+      animate - people - **me, te, lui**
+   
+   plural
+      inanimate - things - **y**
+      
+      animate - people - **nous, vous, leur**
+   
+   placement
+      présent -> before verb
+   
+      passé composé -> before auxiliary verb
+      
+      futur proche -> between verb aller and main verb
+      
+   examples
+      Emma téléphone à son ami. -> Emma lui téléphone.
+      
+      Marc pense à ses vacances. -> Marc y pense.  
+      
+      me (me) -> Marie m'a envoyé un message.
+      
+      te (you) -> Est-ce que Jean t'a parlé de ses vacances ?
+      
+      lui -> Est-ce que tu lui as dit la vérité ? 
+      
+      nous (us) -> Il nous apporte une tasse de thé. 
+      
+      vous (you) -> Je vais vous répondre demain.
+
+      leur -> On leur téléphone souvent.
+      
+      y -> As-tu pensé au cadeau ? - Non je n'y ai pas pensé. 
+      
+      y -> Est-ce que tu fais attention à mes livres ? Oui j'y fais attention. 
+      
+      Le présent: Ils parlent à Léa ? Oui, ils lui parlent.
+      
+      Le passé composé:  Ils ont écrit à leurs amis ? Oui, ils leur ont écrit.
+      
+      Le futur proche: Tu vas téléphoner à ta mère ? Oui, je vais lui téléphoner.
+      
+      Marie raconte une histoire à sa mère. -> Marie la lui raconte.
+
+|
+
+contents_
+
+|
+|
+
+"Y" and "en" pronouns
+=====================
+
+|
+
+en
+   replaces noun introduced by
+   
+   - **de** (preposition)
+   
+   - **du, des, de la, de l'** (partitive article)
+   
+   - **un, une, des** (indefinite article)
+   
+   that expresses a non-specific quantity
+   
+   examples
+      Tu as beaucoup de travail ? - Oui, j'**en** ai beaucoup.
+      
+      Marie a fait des biscuits hier ? - Oui elle **en** a fait. 
+      
+      Je veux une pomme. - J'**en** veux une.
+      
+      Tu veux une pomme ? - Non, je n'**en** veux pas. 
+
+|
+
+y
+   used 
+   
+   - with verbs that are followed by preposition **à**
+   
+   penser à, s'intéresser à, réfléchir à, participer à, etc..
+   
+   - to replace places
+   
+   examples
+      Tu t'intéresses à la musique ? - Oui, je m'**y** intéresse.
+      
+      Tu as pensé au cadeau ? - Oui, j'**y** ai pensé. 
+      
+      Tu vas participer à la compétition ? - Oui, je vais **y** participer. 
+      
+      Quand vas-tu à la banque? - J'**y** vais ce matin. 
+      
+      Je ne suis jamais allé en Australie mais j'aimerais bien **y** aller un jour. 
+      Je t'attends devant la gare. Ok, j'*y** suis dans 10 minutes.
+
+|
+
+
+contents_
+
+|
+|
+
+adverbs of frequency
+====================
+
+|
+
+Adverbs
+   describe a verb
+   
+   use
+   
+   - placed after a verb 
+   
+   or
+   
+   - on their own
+   
+   most common
+      jamais
+         never
+      
+      parfois
+         sometimes
+      
+      de temps en temps
+         from time to time
+      
+      souvent
+         often
+      
+      toujours
+         always
+   
+   examples
+      Je ne vais jamais chez le docteur.
+      
+      Il prend parfois des médicaments à cause de son allergie.
+      
+      Je vais courir de temps en temps.
+      
+      J'ai souvent mal à la tête.
+      
+      Elle est toujours enrhumée.
+   
+|
+
+
+contents_
+
+|
+|
+
+stressed pronouns
+=================
+
+|
+
+stressed pronouns
+   use
+      - to emphasise and reinforce a subject pronoun
+      
+      - in sentences that have more than one subject
+      
+      - to ask and answer questions
+      
+      - after prepositions such as chez, pour, avec, sans, à
+      
+   examples
+      Non, **moi**, je suis assez timide mais, **lui**, il adore sortir avec ses amis.
+      
+      **Toi**, timide ? 
+
+      **Elisa** et moi sommes trop bavardes.
+      
+      Tes amis et **toi**, vous êtes drôles.
+      
+      Elle est espagnole, et **lui** ?
+      
+      Sophie: Qui va à la plage ? Rebecca: **Eux**.
+      
+      Elle va faire la fête avec **elles**.
+      
+      Nous avons acheté un cadeau pour **lui**.
+      
+      Mon copain vient chez **moi** ce soir. 
+
+|
+
+
+contents_
+
+|
+|
+
+when was it? 
+============
+
+|
+
+When was it?
+   C'était quand ?
+   
+   Il y a trois ans.
+   
+   Le mois dernier. 
+   
+   C'était il y a un mois. -> **mois** stays the same in plural and singular
+   
+   J'ai payé le loyer la semaine dernière.
+   
+   C'était l'an dernier.
+   
+   J'ai emménagé jeudi dernier. 
+   
+   l'année dernière  ==  l'an dernier
+   
+   dernier / dernière - masculine / feminine
+
+|
+
+contents_
+
+|
+|
+
+être en train de
+================
+
+|
+
+actions in progress
+   Je suis en train de manger.
+   
+   Jean est en train de travailler.
+   
+   Il est en train de prendre sa douche.
+   
+   Je suis en train d'apprendre le français.
+   
+   Céline est en train d'écouter de la musique.
+
+|
+
+contents_
+
+|
+|
+
+txt and tech lingo
+==================
+
+|
+
+an account 
+   un compte
+   
+to create
+   créer
+to log in
+   se connecter
+a username
+   un nom d'utilisateur
+a password
+   un mot de passe
+a profile
+   un profil
+to delete
+   supprimer
+customer services
+   le service client
+
+|
+
+slt
+   salut
+tkt
+   ne t'inquiète pas
+pk
+   pourquoi
+bcp
+   beaucoup
+stp
+   s'il te plaît 
+à tte
+   à toute (see you) 
+mdr
+   mort de rire
+ptdr
+   pété de rire 
+dsl
+   désolé(e) 
+
+|
+
+contents_
+
+|
+|
+
+tout, toute, tous, toutes 
+=========================
+
+|
+
+
+tout, toute, tous, toutes 
+   all, everything, very, every
+   
+   used
+      - to describe nouns (match gender and number)
+         - **tout** - masculine singular
+
+         - **toute** - feminine singular
+
+         - **tous** - masculine plural
+
+         - **toutes** - feminine plural
+   
+      - in fixed expressions
+         tous les jours, tout le monde, tout le temps, tous les samedi soirs
+
+      - to modify / emphasise word - quite, very
+         Marie est tout énervée. 
+
+         Ils sont tout tristes aujourd'hui. 
+
+         Elle est toute contente d'être ici.
+
+      - as a pronoun - everything, all
+         when used as pronoun **s is always pronounced**
+      
+   examples
+      Il a fait tout le travail.
+      
+      J'ai dansé toute la nuit.
+      
+      Je nage tous les jours.
+      
+      J'aime toutes les fleures.
+      
+      Marie est tout énervée. (emphasise)
+      
+      Ils sont tout tristes aujourd'hui. (emphasise)
+      
+      Elle est toute contente d'être ici. (emphasise)
+      
+      Tout va bien. (pronoun)
+      
+      Il a tout oublié. (pronoun)
+      
+      Je les aime tous. (pronoun)
+      
+|
+
+contents_
+
+|
+|
+
+conditional
+===============
+
+|
+
+le conditionnel
+   verb form used to
+   
+   - express things that would happen or would be true under certain condition or if another action took place --> **Si + imparfait + conditionnel**
+   
+   - give a piece of advice
+   
+   - ask politely
+   
+   - express a wish
+   
+   forming
+      take infinitive form of
+      
+      - **er and ir** verbs (donner-, finir-)
+      
+         - **add** imparfait endings
+      
+      - **re** verbs (attendr-)
+      
+         - **remove** **e** and **add** imparfait endings
+
+    example
+        je parler**ais** / attendr**ais**
+        
+        tu parler**ais** / attendr**ais**
+        
+        elle parler**ait** / attendr**ait**
+        
+        nous parler**ions** / attendr**ions**
+        
+        vous parler**iez** / attendr**ions**
+        
+        ils parler**aiont** / attendr**ions**
+        
+        Nous voudrions des informations sur / We would like some information about (polite question)
+        
+        On voudrait faire la visite : Impressionnisme / We would like to do the "Impressionism (wish)
+        
+        Vous pourriez rejoindre la visite qui commence à 14 h 30. / You could join the tour that starts at 2:30pm. (advice)
+        
+        Si (imparfait)je savais parler français, (conditionnel) j'irais vivre en Martinique.
+        
+        Si (imparfait) tu aimais le jazz, (conditionnel) on serait aller au concert.
+
+|
+
+contents_
+
+|
+|
+
+to know -> "savoir" and "connaître"
+===================================
+
+|
+
+savoir
+   used to express
+      - facts or information
+
+      - know-how (being able to do something)
+
+|
+
+.. list-table:: **savoir** (present)
+   :widths: auto
+   :header-rows: 1
+   :align: right
+
+   * - singular
+     - plural
+   * - je **sais**
+     - nous **savons**
+   * - tu **sais**
+     - vous **savez**
+   * - il / elle / on **sait**
+     - ils / elles **savent**
+     
+|
+
+connaître
+   used to talk about
+      - known people or places
+
+      - things a person is familiar with
+
+|
+
+.. list-table:: **connaître** (present)
+   :widths: auto
+   :header-rows: 1
+   :align: right
+
+   * - singular
+     - plural
+   * - je **connais**
+     - nous **connaissons**
+   * - tu **connais**
+     - vous **connaissez**
+   * - il / elle / on **connaît**
+     - ils / elles **connaissent**
+   
+|
+
+examples
+   Je n'en sais rien... / I have no idea...
+   
+   À savoir... / Who knows...
+   
+   Je sais faire du ski.
+   
+   Tu sais où j'habite ?
+   
+   Elle sait danser.
+   
+   Je ne connais personne ici. 
+   
+   Je connais ton frère.
+   
+   Ma mère connaît bien Brighton.
+   
+   Vous connaissez cette chanson
+   
+|
+
+contents_
+
+|
+|
+
+imperfect tense
+===============
+imparfait
+
+|
+
+imperfect tense / imparfait
+   descriptive past tense used for:
+   
+   - regular / ongoing actions in past
+   - physical and emotional descriptions in past
+   
+   syntax
+      nous form present verb **without ons** + ending
+   examples
+      regular -> J'allais chez mes grands-parents chaque semaine.
+
+      regular -> Quand j'étais petit, nous allions à la plage chaque semaine.
+      
+      descriptive - Mes grands-parents habitaient à côté de chez moi.
+   
+   negation syntax
+      negative forms around verb in the imperfect tense.
+      
+      examples
+         On ne s'ennuyait jamais.
+         
+         Ils n'habitaient pas près de l'université. 
+         
+         Nous n'étudiions jamais ! 
+
+|
+
+.. list-table:: 8 common irregular verbs **nous** forms - present tense
+   :widths: auto
+   :header-rows: 1
+   :align: right
+
+   * - infinitive
+     - nous conjugation
+   * - boire
+     - nous **buvons**
+   * - manger
+     - nous **mangeons**   
+   * - lire
+     - nous **lisons**   
+   * - faire
+     - nous **faisons**   
+   * - prendre
+     - nous **prenons**   
+   * - croire
+     - nous **croyons**   
+   * - voir
+     - nous **voyons**   
+   * - conduire
+     - nous **conduisons**
+
+|
+
+.. list-table:: example - avoir -> nous **av** ons
+   :widths: auto
+   :header-rows: 1
+   :align: right
+
+   * - singular
+     - plural
+   * - je av **ais**
+     - nous av **ions**
+   * - tu av **ais**
+     - vous av **iez**
+   * - il / elle / on av **ait**
+     - ils / elles av **aient**
+
+|
+
+.. list-table:: example - étudier -> nous **étudi** ons (duble ii in nous and vous)
+   :widths: auto
+   :header-rows: 1
+   :align: right
+
+   * - singular
+     - plural
+   * - je étudi **ais**
+     - nous étudi **ions**
+   * - tu étudi **ais**
+     - vous étudi **iez**
+   * - il / elle / on étudi **ait**
+     - ils / elles étudi **aient**
+
+|
+
+.. list-table:: exception - être -> stem is 'ét' not one based on nous form
+   :widths: auto
+   :header-rows: 1
+   :align: right
+
+   * - singular
+     - plural
+   * - je ét **ais**
+     - nous ét **ions**
+   * - tu ét **ais**
+     - vous ét **iez**
+   * - il / elle / on ét **ait**
+     - ils / elles ét **aient**
+
+|
+
+contents_
+
+|
+|
+
+
+le passé composé and l'imparfait
+================================
+
+|
+
+le passé composé and l'imparfait
+   imparfait - describes story context (weather, people, place...)
+   
+   passé composé - describes completed action in past
+   
+   joined tenses
+      describe stories in more comprehensive way or to  say that an action interrupted another ongoing action
+      
+      - ongoing action - imparfait tense 
+      - action introduced - passé composé
+   
+   phrases that may indicate imparfait
+      chaque fois, souvent, tous les jours
+      
+   
+   change indicators - followed by passé composé
+      indicate change in development of action
+      
+      - quand - when
+      - lorsque - when
+      - soudain - suddenly
+      - soudainement - suddenly
+      - tout à coup - all af a sudden
+      - à ce moment-là
+      - hier
+      - ensuite
+      - après
+      - alors
+      
+      
+   examples
+      On se baignait quand, tout à coup, il a commencé à pleuvoir.
+      
+      Ellie prenait (imparfait) son petit déjeuner quand son téléphone a sonné (passé composé). 
+      
+      On faisait (imparfait) les courses quand on a rencontré (passé composé) Mélanie.
+      
+      Il pleuvait lorsqu'on est arrivés. 
+      
+      Je regardais un film et soudain, quelqu'un a frappé à la porte.
+      
+      Nous étions dans la salle à manger. 
+      
+      Nous étions en route pour la plage quand il a commencé à pleuvoir.
+
+|
+
+contents_
+
+|
+|
+
+le futur simple
+===============
+
+|
+
+le futur simple
+   used to talk about projects, previsions, actions taking place in future
+   
+   verbs ending er, ir
+      **add** to infinitive form following endings
+      
+      _ai, _as, _a, _ons, _ez, _ont
+   
+   verbs ending re
+      **replace 'e'** in infinitive form with the same endings
+      
+      _ai, _as, _a, _ons, _ez, _ont
+   
+   irregular verbs futur simple stem
+      Être -> ser + endings
+      
+      avoir -> aur + endings
+      
+      faire -> fer + endings
+      
+      être -> ser + endings
+      
+      aller -> ir + endings
+      
+      envoyer -> enverr + endings
+      
+      venir -> viendr + endings
+      
+      voir -> verr + endings
+      
+      vouloir -> voudr + endings
+      
+      devoir -> devr + endings
+      
+      pouvoir -> pourr + endings
+      
+      savoir -> saur + endings
+   
+   examples
+      L'année prochaine je ferai le tour de l'Afrique. 
+   
+      Tu lui offriras des fleurs ?
+   
+      Nous n'habiterons plus en Espagne après l'été.   
+  
+|
+
+.. list-table:: **manger** - futur simple conjugation
+   :widths: auto
+   :header-rows: 1
+   :align: right
+
+   * - singular
+     - plural
+   * - je manger **ai**
+     - nous manger **ons**
+   * - tu manger **as**
+     - vous manger **ez**
+   * - il / elle / on manger **a**
+     - ils / elles manger **ont**
+
+|
+
+.. list-table:: **finir** - futur simple conjugation
+   :widths: auto
+   :header-rows: 1
+   :align: right
+
+   * - singular
+     - plural
+   * - je finir **ai**
+     - nous finir **ons**
+   * - tu finir **as**
+     - vous finir **ez**
+   * - il / elle / on finir **a**
+     - ils / elles finir **ont**
+
+|
+
+.. list-table:: **apprendre** - futur simple conjugation ('e' replaced by endings)
+   :widths: auto
+   :header-rows: 1
+   :align: right
+
+   * - singular
+     - plural
+   * - j'apprendr **ai**
+     - nous apprendr **ons**
+   * - tu apprendr **as**
+     - vous apprendr **ez**
+   * - il / elle / on apprendr **a**
+     - ils / elles apprendr **ont**
+
+|
+
+contents_
+
+|
+|
+
+b1
+==
+
+|
+|
+
+relative pronouns "qui, que"
+============================
+
+|
+
+"qui, que"
+   used to combine two sentences
+   
+   que
+      use que before a subject
+      
+   qui
+      use it before a verb
+   
+   examples
+      La piscine se trouve dans le centre. La piscine est géniale. -> La piscine **qui** se trouve dans le centre est géniale ! 
+
+      Londres est une grande ville. J'adore Londres. -> Londres est une grande ville que j'adore. 
+      
+      J'ai regardé un documentaire qui parle des éléphants d'Afrique.
+      
+      Le livre que tu m'as offert est sur la table. 
+      
+      La plante qui est sur la fenêtre est belle !   
+      
+      Je vais à l'aéroport chercher un ami qui arrive du Japon
+      
+      J'adore le livre que tu m'as prêté ! 
+      
+      Le téléphone que je veux est trop cher.
+      
+|
+
+contents_
+
+|
+|
+
+
+intention, cause and consequence
+================================ 
+
+|
+
+intention
+   pour + infinitif
+      in order to
+
+   afin de + infinitif
+      in order to
+   
+   examples
+      Je devais prendre le train pour aller à Paris.
+      
+      Je vous écris afin de vous communiquer ma décision.
+      
+|
+
+
+cause
+   parce que + sujet + indicatif
+      because
+
+   car + sujet + indicatif
+      because
+      
+   à cause de + nom / groupe nominal
+      due to (negative context)
+
+   grâce à + nom / groupe nominal 
+      thanks to (positive context)
+   
+   examples
+      Je vais souvent à la plage parce que j'adore nager. 
+      
+      Ça a valu la peine car mon amie était très contente de me voir !
+      
+      Mon réveil n'a pas sonné à cause d'une panne d'électricité. (negative)
+      
+      J'ai découvert ce resto grâce à mon ami Julien. (positive)
+      
+|
+
+consequence
+   donc
+      so, therefore
+      
+   alors
+      so
+   
+   du coup
+      so
+      
+   examples
+      Les trains étaient annulés, j'ai donc décidé de prendre un avion.
+      
+      Je dois conduire alors je ne bois pas d'alcool.
+
+      Il pleut, du coup on va annuler la soirée. It's raining, so we're going to cancel the dinner party.
+
+|
+
+contents_
+
+|
+|
+
+subjonctif mood
+================
+
+|
+
+subjonctif
+   to express a wish, hope, uncertainty, and other attitudes or feelings
+   
+|
+
+er verbs - subjonctif conjugation
+   je, tu, il / elle / on, ils / elles -  same as present tense
+
+   nous, vous - imparfait forms
+
+|
+
+.. list-table:: **parler** - present tense subjonctif conjugation
+   :widths: auto
+   :header-rows: 1
+   :align: right
+
+   * - singular
+     - plural
+   * - je parl **e**
+     - nous parl **ions**
+   * - tu parl **es**
+     - vous parl **iez**
+   * - il / elle / on parl **e**
+     - ils / elles parl **ent**
+
+|
+
+ir/re verbs - subjonctif conjugation
+   frorming
+   
+   je, tu, il / elle / on, ils / elles
+      start with present ils/elles form -> ils finissent
+      
+      drop **_ent**
+      
+      add subjunctive ending **_e, _es, _e, _ent** (as in present tense)
+      
+   nous, vous - imparfait forms
+      start with present nous form -> nous finirons
+      
+      drop **_ons**
+      
+      add subjunctive ending **_ions, _iez** (as in imparfait forms)
+
+
+|
+
+.. list-table:: **finir** - present tense subjonctif conjugation
+   :widths: auto
+   :header-rows: 1
+   :align: right
+
+   * - singular
+     - plural
+   * - je finiss **e**
+     - nous finiss **ions**
+   * - tu finiss **es**
+     - vous finiss **iez**
+   * - il / elle / on finiss **e**
+     - ils / elles finiss **ent**
+
+|
+
+common expressions followed by subjonctifs
+   J'aimerais que... I'd love to...
+
+   Il faut que... to have to
+
+   C'est dommage que... It's a pity that...
+
+   Je doute que... I doubt that...
+
+   Je suis content que... I am happy that...
+
+   Pour que... In order to...
+   
+|
+
+examples
+   Indicatif - J'aimerais regarder ce film. -> Subjonctif - J'aimerais que nous regardions ce film.
+   
+   Il faut que tu m'apportes un cadeau du Japon !
+   
+   Je suis content que tu invites Julie à la fête.
+   
+   C'est dommage que vous n'aimiez pas danser.
+   
+   Je doute que tu aimes ce livre.
+   
+   Dépêche-toi pour qu'on arrive à l'heure !
+
+
+|
+   
+contents_
+
+|
+|
+
+reported speech with present tense
+==================================
+
+|
+
+Direct speech
+   uses exact words
+   
+   Léa me dit: « Je suis terrifiée par les orages. » 
+   
+Reported speech
+   uses reporting verb and conjunction
+   
+   changes personal pronouns to agree with person speaking
+   
+|
+
+.. list-table:: **statements and orders in reported speech** -> verb and conjunction
+   :widths: auto
+   :header-rows: 1
+   :align: right
+
+   * - direct
+     - reported
+   * - **statement**
+     - **reporting verb + que / qu'**
+   * - « J'ai toujours adoré la campagne. »  
+     - Il me dit qu'il a toujours adoré la campagne. 
+   * - **order**
+     - **reporting verb + de + infinitive verb**
+   * - « Saute dans la mer !»  
+     - Il m'ordonne de sauter dans la mer. 
+
+|
+
+.. list-table:: **questions in reported speech** -> verb and conjunction
+   :widths: auto
+   :header-rows: 1
+   :align: right
+
+   * - direct
+     - reported
+   * - **closed question**
+     - **reporting verb + si**
+   * - « Vous avez faim ? » 
+     - Pierre nous demande si nous avons faim.
+   * - **open question**
+     - **reporting verb**
+   * - « Pourquoi Marie ne vient-elle pas avec nous ? »  
+     - Eloy demande pourquoi Marie ne vient pas avec nous.
+   * - **que / quoi question**
+     - **reporting verb + ce qui / ce que**
+   * - « Qu'est-ce que tu as acheté ? »  
+     - Il demande à Axelle ce qu'elle a acheté. 
+   * - « Qu'est-ce qui te plaît à Marseille ? » 
+     - Emma demande ce qui me plaît à Marseille.
+
+|
+
+common reporting verbs
+   demander (to ask), ordonner (to order), dire (to say)
+
+|
+
+examples
+   direct -> reported -> Léa me dit: « Je suis terrifiée par les orages. » -> Léa dit qu'elle est terrifiée par les orages. 
+   
+   direct -> reported ->  Lili demande : « Je peux ouvrir la fenêtre ? » -> Lili demande si elle peut ouvrir la fenêtre. 
+   
+   direct -> reported -> Lili me dit : « Tu as eu ton examen ! » -> Lili me dit que j'ai eu mon examen. 
+   
+   reported -> Je demande ce qu'il est en train de faire dans le garage.
+   
+   reported -> Mon patron nous ordonne de rester jusqu'à 20 heures.
+   
+   reported -> Ils disent à mes amis de venir me voir.
+
+|
+
+contents_
+
+|
+|
+
+complex negatives
+=================
+
+|
+
+ne... plus
+   someone used to do something, but not anymore 
+
+ne... jamais
+   action is never performed
+
+rien (nothing) and personne (nobody)
+   both are not followed by an object
+   
+   personne goes after the past participle in the perfect tense
+   
+examples
+   Je n'aime rien et je ne vois personne.
+   
+   Je n'ai vu personne.
+   
+   Je ne parle plus à mon chat.
+   
+   Je ne parle jamais à mon chat.
+
+|
+
+contents_
+
+|
+|
+
+b2
+==
+
+|
+|
+
+subordinate clauses - que, qui
+==============================
+
+|
+
+subject
+   subject of préférer 
+   
+   J'ai acheté les fleurs qu'**elle** préfère.
+
+|
+
+object
+   J'ai acheté **les fleurs** qu'elle préfère.
+
+|
+
+qui = subject
+   replaces **subject**
+   
+|
+
+que = object
+   replaces **object**
+   
+|
+
+examples
+   L'amie **qui** m'a offert ce manteau est partie en France.
+   
+   Mes parents pensent **que** je suis trop jeune.
+   
+   Les amis **qu'** on a invités ne viendront pas.
+   
+   Le chalet **que** nous avons loué est magnifique.
+   
+   Les adultes **qui** parlent français sont les plus populaires.
+   
+   Ma mère est partie en vacances. C'est elle **qui** a décidé de partir.
+   
+   J'adore le français. C'est la langue **que** j'apprends.
+
+   J'ai vu un chat. Le chat **que** j'ai vu est noir.
+   
+|
+
+contents_
+
+|
+|
+
+before and after
+================
+
+|
+
+avant de + infinitive
+   Je réfléchis avant de parler.
+   
+   Ils se sont brossé les dents avant de se coucher. (with reflexive verb)
+   
+   Nous nous réveillons avant de nous doucher. (with reflexive verb)
+   
+   Tu t'es brossé les dents avant de te coucher. (with reflexive verb)
+   
+|
+
+avoir / être + the past participle
+   Nous avons traversé la rue après avoir regardé des deux côtés.
+   
+   Après être allé au Brésil, j'ai décidé d'apprendre le portugais avec Busuu.
+   
+|
+
+contents_
+
+|
+|
+
+subjunctive and falloir
+=====================
+
+|
+
+subjunctive
+   mode used to express abstract concepts like necessity or doubt
+
+|
+
+falloir
+   indicates a necessity, used in impersonal context only 
+   **Il faut**
+   
+   it is used often with other verbs such as fair in subjunctive mode
+   
+examples
+   Il faut que je fasse plus d'exercices de français. It is necessary that I do more French exercises.
+   
+   Il faut que vous fassiez plus d'efforts. It is necessary that you (pl.) make more effort.
+   
+   Il faut qu'elles fassent les courses ce soir. It is necessary that they go shopping tonight.
+   
+|
+
+falloir with faire conjugated as subjunctive - 'fass' stem
+   Il faut **que** je fass **e**
+
+   Il faut **que** tu fass **es**
+   
+   Il faut **qu**'il/elle fass **e**
+   
+   Il faut **que** nous fass **ions**
+   
+   Il faut **que** vous fass **iez**
+   
+   Il faut **qu**'ils/elles fass **ent**
+
+|
+
+contents_
+
+|
+|
+
+conditional phrases - si
+========================
+
+|
+
+si
+   used to
+      - link one action and its consequence
+
+      - talk about condition
+         
+   made of
+      - clause **si** in **present** 
+      
+      - other clause in **future**
+      
+   examples
+      Si tu me tapes, je pleurerai.
+      
+      Si tu es sage, nous irons au restaurant.
+      
+      Si elle mange, elle n'aura plus faim.
+      
+      Si elle mange, elle n'aura plus faim.
+      
+      Tu seras furieuse si je mens.
+      
+      Nous irons en vacances si nous avons assez d'argent.    
+      
+
+si in hypothetical actions 
+   used to link hypothetical actions to their possible consequences
+   
+   made of
+      - clause **si** in **imperfect**
+      
+      - other clouse in **conditional**
+      
+   examples
+      Si tu me tapais, je pleurerais.
+      
+      Si tu étais sage, nous irions au restaurant.
+      
+      Si elle mangeait, elle n'aurait plus faim.
+      
+      Si je pouvais, je partirais.
+      
+      Si je travaillais, je serais fort.
+      
+      Si tu m'aimais, je serais heureux
+      
+      Tu serais furieuse si je mentais.
+      
+      Nous irions en vacances si nous avions assez d'argent.
+   
+|
+
+contents_
+
+|
+|
+
+passive
+=======
+
+|
+
+passive
+   puts the focus on the object or recipient of an action, rather than the agent who performs the action
+  
+   if agent who performes action is needed - use **par** after verb 
+   
+   forming
+      être in the appropriate tense -> followed by past participle of verb
+      
+      Present --> Je suis invité
+      
+      Perfect --> J'ai été invité
+      
+      Imperfect --> J'étais invité
+      
+      Future --> Je serai invité
+      
+   note
+      past participle must agree with the subject of verb
+      
+      Elles ont été invitées.
+      
+   examples
+      Les dodos ont été exterminés. 
+      
+      Ce bâtiment sera détruit demain.
+      
+      Thomas est battu par sa soeur Sara. 
+      
+      Mes parents seront déçus par mes résultats. 
+
+|
+
+contents_
+
+|
+|
+
+pluperfect tense
+================
+
+|
+
+pluperfect
+   describe action in past that happened before another action in past
+   
+   forming
+      auxiliary -> être or avoir in the imperfect followed by past participle of the verb
+      
+   applies perfect tense all rules - agreement, word order, auxiliary verbs
+   
+   adverbs (toujours, déjà) go between  auxiliary verb and past participle
+   
+   examples
+      Avant de partir, j'avais fermé la porte.
+      
+      Ils s'étaient rencontrés il y a deux mois et ils se sont revus la semaine dernière.
+      
+      Elles étaient déjà montées en haut de la Tour Eiffel.
+      
+      Il était parti au Canada.
+      
+|
+
+contents_
+
+|
+|
+
+
+conditional perfect
+===================
+
+|
+
+conditional perfect
+   used when referring to actions that could have taken place, often on condition of another thing having happened
+   
+   often used to report an unverified fact and in si clauses, used alongside the pluperfect
+   
+   forming
+      - auxiliary -> être or avoir in the conditional
+      
+      - followed by the past participle of the verb
+   
+   examples
+      Si nous avions su, nous aurions appelé. 
+      
+      Si tu m'avais compris, tu serais resté.
+      
+      Si j'avais su, je ne serais pas venu
+      
+      Cinq cent personnes seraient mortes dans l'attentat de ce matin.
+      
+|
+
+common irregular verbs with irregular past participle
+   faire -> fait
+   
+   avoir -> eu
+   
+   devoir -> dû
+   
+   prendre -> pris
+   
+   dire -> dit
+   
+   mettre -> mis
+   
+   lire -> lu
+   
+   ouvrir -> ouvert
+      
+|
+
+contents_
+
+|
+|
