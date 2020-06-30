@@ -1376,185 +1376,8 @@ prononciation
 |
 |
 
-
-verbs
-=====
-verbes
-
-|
-
-***********************
-irregular present tense
-***********************
-
-|
-
-.. list-table:: **verb_fr** verb_en (present, irregular)
-   :widths: auto
-   :header-rows: 1
-   :align: right
-   
-   * - singular
-     - plural
-   * - je / j' **...**
-     - nous **...**
-   * - tu **...**
-     - vous **...**
-   * - il / elle / on **...**
-     - ils / elles **...**
-
-|
-
-.. list-table:: **être** to be (present, irregular)
-   :widths: auto
-   :header-rows: 1
-   :align: right
-
-   * - singular
-     - plural 
-   * - je **suis**
-     - nous **sommes**
-   * - tu **es**
-     - vous **êtes**
-   * - il **est**
-     - ils **sont**
-   * - elle **est**
-     - elles **sont**
-   * - 
-     - on **est**
-
-|
-
-.. list-table:: **avoir** to have (present, irregular)
-   :widths: auto
-   :header-rows: 1
-   :align: right
-
-   * - singular
-     - plural
-   * - j'**ai**
-     - nous **avons**
-   * - tu **as**
-     - vous **avez**
-   * - il **a**
-     - ils **ont**
-   * - elle **a**
-     - elles **ont**
-   * - 
-     - on **a**
-
-|
-
-.. list-table:: **aller** to go (present, irregular)
-   :widths: auto
-   :header-rows: 1
-   :align: right
-   
-   * - singular
-     - plural
-   * - je **vais**
-     - nous **allons**
-   * - tu **vas**
-     - vous **allez**
-   * - il / elle / on **va**
-     - ils / elles **vont**
-
-|
-
-.. list-table:: **prendre** to take (present, irregular)
-   :widths: auto
-   :header-rows: 1
-   :align: right
-   
-   * - singular
-     - plural
-   * - je **prends**
-     - nous **prenons**
-   * - tu **prends**
-     - vous **prenez**
-   * - il / elle / on **prend**
-     - ils / elles **prennent**
-
-|
-
-.. list-table:: **venir** to come (present, irregular)
-   :widths: auto
-   :header-rows: 1
-   :align: right
-   
-   * - singular
-     - plural
-   * - je / j' viens
-     - nous venons
-   * - tu viens
-     - vous venez
-   * - il / elle / on vient
-     - ils / elles viennent
-
-|
-
-.. list-table:: **mettre** to put (present, irregular)
-   :widths: auto
-   :header-rows: 1
-   :align: right
-   
-   * - singular
-     - plural
-   * - je mets
-     - nous mettons
-   * - tu mets
-     - vous mettez
-   * - il / elle / on met
-     - ils / elles mettent
-
-|
-
-.. list-table:: **falloir** to need (present, impersonal verb)
-   :widths: auto
-   :header-rows: 1
-   :align: right
-   
-   * - singular
-   * - il **faut**
-
-|
-
-.. list-table:: **voir** to see (present, irregular)
-   :widths: auto
-   :header-rows: 1
-   :align: right
-   
-   * - singular
-     - plural
-   * - je **vois**
-     - nous **voyons**
-   * - tu **vois**
-     - vous **voyez**
-   * - il / elle / on **voit**
-     - ils / elles **voient**
-
-|
-
-.. list-table:: **fair** to do, to make (present, irregular)
-   :widths: auto
-   :header-rows: 1
-   :align: right
-   
-   * - singular
-     - plural
-   * - je **fais**
-     - nous **faisons**
-   * - tu **fais**
-     - vous **faites**
-   * - il / elle / on **fait**
-     - ils / elles **font**
-
-|
-
-
-************************************
-regular 1st group 'er' present tense
-************************************
+conjugation - regular 1st group 'er' present tense
+===================================================
 
 |
 
@@ -1674,9 +1497,9 @@ regular 1st group 'er' present tense
 
 |
 
-************************************
-regular 2nd group 'ir' present tense 
-************************************
+conjugation regular 2nd group 'ir' present tense 
+================================================
+
 |
 
 ``_is _is _it _issons _issez _issent``
@@ -1765,9 +1588,9 @@ regular 2nd group 'ir' present tense
 
 |
 
-************************************
-regular 3rd group 're' present tense 
-************************************
+conjugation regular 3rd group 're' present tense 
+=================================================
+
 
 |
 
