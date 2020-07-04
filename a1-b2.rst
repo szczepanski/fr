@@ -1384,54 +1384,6 @@ conjugation - regular 1st group 'er' present tense
 ``_e _es _e _ons _ez _ent``
 
 |
-
-.. list-table:: **verb_fr** verb_en (present, regular 1st)
-   :widths: auto
-   :header-rows: 1
-   :align: right
-   
-   * - singular
-     - plural
-   * - je / j' **_e**
-     - nous **_ons**
-   * - tu **_es**
-     - vous **_ez**
-   * - il / elle / on **_e**
-     - ils / elles **_ent**
-
-|
-
-.. list-table:: **habiter** to live (present, regular 1st)
-   :widths: auto
-   :header-rows: 1
-   :align: right
-   
-   * - singular
-     - plural
-   * - j' **habite**
-     - nous **habitons**
-   * - tu **habites**
-     - vous **habitez**
-   * - il / elle / on **habite**
-     - ils / elles **habitent**
-     
-|
-
-.. list-table:: **aimer** to love, like (present, regular 1st)
-   :widths: auto
-   :header-rows: 1
-   :align: right
-   
-   * - singular
-     - plural
-   * - j' **aimer**
-     - nous **aimons**
-   * - tu **aimes**
-     - vous **aimez**
-   * - il / elle / on **aime**
-     - ils / elles **aiment**
- 
-|
  
 .. list-table:: **préférer** prefer (present, regular 1st)
    :widths: auto
@@ -1448,53 +1400,6 @@ conjugation - regular 1st group 'er' present tense
      - ils / elles **préfèrent**
 
 |
-
-.. list-table:: **détester** to dislike (present, regular 1st)
-   :widths: auto
-   :header-rows: 1
-   :align: right
-   
-   * - singular
-     - plural
-   * - je **déteste**
-     - nous **détestons**
-   * - tu **détestes**
-     - vous **détestez**
-   * - il / elle / on **déteste**
-     - ils / elles **détestent**
-
-|
-
-.. list-table:: **trouver** to find (present, regular 1st)
-   :widths: auto
-   :header-rows: 1
-   :align: right
-   
-   * - singular
-     - plural
-   * - je *trouve**
-     - nous **trouvons**
-   * - tu **trouves**
-     - vous **trouvez**
-   * - il / elle / on **trouve**
-     - ils / elles **trouvent**
-
-|
-
-.. list-table:: **donner** verb_en (present, regular 1st)
-   :widths: auto
-   :header-rows: 1
-   :align: right
-   
-   * - singular
-     - plural
-   * - je / j' **donne**
-     - nous **donnons**
-   * - tu **donnes**
-     - vous **donnez**
-   * - il / elle / on **donne**
-     - ils / elles **donnent**
-
 |
 
 conjugation regular 2nd group 'ir' present tense 
@@ -1503,40 +1408,6 @@ conjugation regular 2nd group 'ir' present tense
 |
 
 ``_is _is _it _issons _issez _issent``
-
-|
-
-
-.. list-table:: **verb_fr** verb_en (present, regular 2nd)
-   :widths: auto
-   :header-rows: 1
-   :align: right
-   
-   * - singular
-     - plural
-   * - je / j' **_is**
-     - nous **_issons**
-   * - tu **_is**
-     - vous **_issez**
-   * - il / elle / on **_it**
-     - ils / elles **_issent**
-
-|
-|
-
-.. list-table:: **choisir** to chose (present, regular 2nd)
-   :widths: auto
-   :header-rows: 1
-   :align: right
-   
-   * - singular
-     - plural
-   * - je **choisis**
-     - nous **choisissons**
-   * - tu **choisis**
-     - vous **choisissez**
-   * - il / elle / on **choisit**
-     - ils / elles **choisissent**
 
 |
 
@@ -1555,66 +1426,14 @@ conjugation regular 2nd group 'ir' present tense
      - ils / elles **finissent**
 
 |
-
-.. list-table:: **réussir** to succeed (present, regular 2nd)
-   :widths: auto
-   :header-rows: 1
-   :align: right
-   
-   * - singular
-     - plural
-   * - je **réussis**
-     - nous **réussissons**
-   * - tu **réussis**
-     - vous **réussissez**
-   * - il / elle / on **réussit**
-     - ils / elles **réussissent**
-
-|
-
-.. list-table:: **réfléchir** to think (present, regular 2nd)
-   :widths: auto
-   :header-rows: 1
-   :align: right
-   
-   * - singular
-     - plural
-   * - je **réfléchis**
-     - nous **réfléchissons**
-   * - tu **réfléchis**
-     - vous **réfléchissez**
-   * - il / elle / on **réfléchit**
-     - ils / elles **réfléchissent**
-
 |
 
 conjugation regular 3rd group 're' present tense 
 =================================================
 
-
 |
 
 ``_s _s _ _ons _ez _ent``
-
-|
-
-``attendre - to wait for, descendre - to go down, entendre - to hear, perdre - to lose, répondre - to answer``
-
-|
-
-.. list-table:: **verb_fr** verb_en (present, regular 3rd)
-   :widths: auto
-   :header-rows: 1
-   :align: right
-   
-   * - singular
-     - plural
-   * - je / j' **_s**
-     - nous **_ons**
-   * - tu **_s**
-     - vous **_ez**
-   * - il / elle / on **__**
-     - ils / elles **_ent**
 
 |
 
@@ -1625,12 +1444,12 @@ conjugation regular 3rd group 're' present tense
    
    * - singular
      - plural
-   * - je **descends**
-     - nous **descendons**
-   * - tu **descends**
-     - vous **descendez**
-   * - il / elle / on **descend**
-     - ils / elles **descendent**
+   * - je **attends**
+     - nous **attendons**
+   * - tu **attends**
+     - vous **attendez**
+   * - il / elle / on **attend**
+     - ils / elles **attendent**
      
 |
 |
